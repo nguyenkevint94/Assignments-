@@ -1,0 +1,79 @@
+Purchase ID,SN,Age,Gender,Item ID,Item Name,Price
+0,Haisurra41,20,Male,49,"The Oculus, Token of Lost Worlds",1.31
+1,Aena95,24,Other / Non-Disclosed,92,Final Critic,4.79
+2,Llairith95,25,Male,139,"Mercy, Katana of Dismay",1.45
+3,Tanimnya91,12,Male,21,Souleater,4.96
+4,Aela59,40,Female,87,"Deluge, Edge of the West",1.25
+5,Ilista82,29,Male,160,Azurewrath,3.64
+6,Aesri53,15,Female,42,The Decapitator,2.13
+7,Lisast87,15,Male,84,Arcane Gem,3.46
+8,Lisirrast82,22,Male,45,Glinting Glass Edge,3.62
+9,Tyilonuru81,27,Male,51,Endbringer,2.04
+10,Aidaira26,25,Male,177,"Winterthorn, Defender of Shifting Worlds",1.44
+11,Yasrisu92,20,Male,159,"Oathbreaker, Spellblade of Trials",1.75
+12,Phairinum94,19,Male,52,Hatred,2.12
+13,Saesrideu94,20,Female,64,Fusion Pummel,3.02
+14,Iludu67,25,Female,86,Stormfury Lantern,4.56
+15,Lisjasksda68,22,Male,21,Souleater,4.96
+16,Chamjaskya75,23,Male,76,Haunted Bronzed Bludgeon,4.42
+17,Qilatista90,21,Female,109,"Downfall, Scalpel Of The Emperor",3.11
+18,Chamistast30,32,Male,133,Faith's Scimitar,4.95
+19,Lisassa39,23,Male,32,Orenmir,4.78
+20,Iarilis73,21,Male,28,"Flux, Destroyer of Due Diligence",4.88
+21,Lalossa38,24,Male,4,Bloodlord's Fetish,2.74
+22,Ililsasda87,19,Male,169,"Interrogator, Blood Blade of the Queen",4.87
+23,Eustyria89,22,Male,105,Hailstorm Shadowsteel Scythe,1.89
+24,Aisurdru79,24,Male,125,Whistling Mithril Warblade,2.12
+25,Aiduesu83,19,Male,65,Conqueror Adamantite Mace,4.58
+26,Iskista96,20,Male,125,Whistling Mithril Warblade,2.12
+27,Pheutherin27,18,Female,8,"Purgatory, Gem of Regret",2.33
+28,Lassirrasda85,26,Male,123,Twilight's Carver,1.78
+29,Chanossast57,18,Male,94,Mourning Blade,3.33
+30,Aesri53,15,Female,31,Trickster,2.57
+31,Ennoncil86,25,Male,25,Hero Cane,3.2
+32,Tyithesura58,18,Female,23,Crucifer,3.16
+33,Undosian29,9,Female,117,"Heartstriker, Legacy of the Light",1.17
+34,Chadossa26,20,Male,12,Dawne,2.82
+35,Irithrap69,18,Female,24,Warped Fetish,1.2
+36,Assim27,22,Female,32,Orenmir,4.78
+37,Briathello36,17,Male,143,Frenzied Scimitar,1.35
+38,Rasrirgue43,27,Male,181,Reaper's Toll,4.31
+39,Yarithphos28,10,Male,154,Feral Katana,2.62
+40,Undassa89,24,Male,11,Brimstone,3.3
+41,Iskirra65,9,Male,23,Crucifer,3.16
+42,Zhestim56,25,Male,159,"Oathbreaker, Spellblade of Trials",1.75
+43,Yarithphos28,10,Male,127,"Heartseeker, Reaver of Souls",4.62
+44,Pheully61,27,Male,0,Splinter,2.55
+45,Aesririaphos84,35,Male,14,Possessed Core,2.16
+46,Yasty61,19,Male,149,"Tranquility, Razor of Black Magic",1.69
+47,Halaecal66,25,Male,166,Thirsty Iron Reaver,3.03
+48,Aina43,20,Male,110,Suspension,4.35
+49,Tyidainu31,20,Male,27,"Riddle, Tribute of Ended Dreams",4.07
+50,Tyaeduesu93,23,Male,109,"Downfall, Scalpel Of The Emperor",3.11
+51,Iduelis31,25,Male,140,Striker,1.29
+52,Idaidil28,40,Male,164,Exiled Doomblade,4.66
+53,Tyaelly53,23,Female,21,Souleater,4.96
+54,Hiral75,21,Female,163,Thunderfury Scimitar,2.54
+55,Isursuir31,30,Male,136,Ghastly Adamantite Protector,4.85
+56,Marim28,21,Male,12,Dawne,2.82
+57,Eudasu82,15,Male,157,"Spada, Etcher of Hatred",4.81
+58,Farusrian86,25,Male,161,Devine,4.98
+59,Phaelaellodil49,25,Male,49,"The Oculus, Token of Lost Worlds",1.31
+60,Chadjask77,25,Male,47,"Alpha, Reach of Ending Hope",1.78
+61,Ristydru66,22,Male,143,Frenzied Scimitar,1.35
+62,Tyaelorap29,21,Male,162,Abyssal Shard,4.8
+63,Ryananu51,28,Male,173,Stormfury Longsword,2.03
+64,Assassa81,38,Female,95,Singed Onyx Warscythe,4.78
+65,Arin32,18,Male,96,Blood-Forged Skeletal Spine,4.46
+66,Hainaria90,16,Male,145,Fiery Glass Crusader,4.26
+67,Haerithp41,25,Male,3,Phantomlight,1.19
+68,Eudanu84,25,Male,3,Phantomlight,1.19
+69,Arithriacal47,22,Female,183,Dragon's Greatsword,1.44
+70,Yasur85,22,Male,21,Souleater,4.96
+71,Undiwinya88,19,Male,138,"Peacekeeper, Wit of Dark Magic",1.07
+72,Ilenmol62,27,Male,159,"Oathbreaker, Spellblade of Trials",1.75
+73,Ailaesuir66,20,Male,133,Faith's Scimitar,4.95
+74,Ialo60,25,Male,147,"Hellreaver, Heirloom of Inception",1.13
+75,Adastirin33,24,Male,42,The Decapitator,2.13
+76,Lirtassa47,20,Female,63,Stormfury Mace,3.41
+77,Poshilsa82,19,Female,79,"Alpha, Oath of Zeal",4.49
