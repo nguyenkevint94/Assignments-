@@ -1,552 +1,562 @@
 ,Tweet ID,User,Tweet,Compound Score,Positive Score,Neutral Score,Negative Score,Tweets Ago,Date
-0,1006612367168417792,BBC," The US has debuted the world's fastest supercomputer and it can process 200 petaflops per second.
-",0.0,0.0,1.0,0.0,1,Tue Jun 12 19:01:04 +0000 2018
-1,1006598774943346689,BBC,This is the remarkable story of a convent of Mexican nuns helping to save one of the world's most endangered amphib,0.8402,0.333,0.667,0.0,2,Tue Jun 12 18:07:04 +0000 2018
-2,1006582170725601280,BBC," How long has it been since you last washed your tea towel?
+0,1007344925145354240,BBC,"We're celebrating female voices and achievements across the BBC to mark 100 years since women got the vote. 
 
-Multi",0.0,0.0,1.0,0.0,3,Tue Jun 12 17:01:05 +0000 2018
-3,1006566811306024961,BBC," Learn how to swear like a Swede! 
+Kate",0.5719,0.163,0.837,0.0,1,Thu Jun 14 19:32:00 +0000 2018
+1,1007337658622840832,BBC,Anne Robinson meets women from across the UK to find out ,-0.0258,0.0,0.948,0.052,2,Thu Jun 14 19:03:07 +0000 2018
+2,1007321878061514752,BBC,"'I'm glad you're in my life.'
 
-",0.3802,0.233,0.667,0.1,4,Tue Jun 12 16:00:03 +0000 2018
-4,1006560982028734470,BBC,RT @bbcwritersroom: Find out how we created 4 brand new #comedy monologues across the UK for the #BiggestWeekend festival and watch all 4 n,0.6369,0.206,0.794,0.0,5,Tue Jun 12 15:36:53 +0000 2018
-5,1006555449410379777,BBC,RT @BBCOne: .@StaceyDooley investigates the changing face of women's protests. https://t.co/1cdtKOdQ50,-0.2263,0.0,0.84,0.16,6,Tue Jun 12 15:14:54 +0000 2018
-6,1006552181091241986,BBC," Charlie Chaplin: The original distracted boyfriend.
-",-0.0258,0.215,0.561,0.224,7,Tue Jun 12 15:01:55 +0000 2018
-7,1006546212080611330,BBC,RT @bbcarts: 100 years after women won the right to vote,0.5719,0.129,0.871,0.0,8,Tue Jun 12 14:38:12 +0000 2018
-8,1006522020358737920,BBC,The ,-0.7096,0.107,0.619,0.275,9,Tue Jun 12 13:02:04 +0000 2018
-9,1006510330745417728,BBC,"RT @BBCR1: How special is this cover?!
+",0.4588,0.167,0.833,0.0,3,Thu Jun 14 18:00:25 +0000 2018
+3,1007291662786289664,BBC,  If you haven't seen @AlanDavies1's shark impression,0.2263,0.137,0.863,0.0,4,Thu Jun 14 16:00:21 +0000 2018
+4,1007279840926601217,BBC, Hundreds of people have taken part in a silent procession in honour of the 72 people killed in the Grenfell Tower,-0.2023,0.136,0.699,0.165,5,Thu Jun 14 15:13:23 +0000 2018
+5,1007248969070718977,BBC,"RT @bbcthree: This is what painful sex feels like. #HearHer 
 
-@5SOS take on @AliceMerton's 'No Roots' in the Live Lounge ",0.2003,0.141,0.755,0.104,10,Tue Jun 12 12:15:37 +0000 2018
-10,1006506489425645568,BBC, Meet the 10,0.5719,0.27,0.73,0.0,11,Tue Jun 12 12:00:21 +0000 2018
-11,1006492482216038405,BBC,"RT @bbcrb: Who doesn't love Gromit?
-Even his biggest fans won't have seen him like THIS before! ",-0.2869,0.108,0.734,0.158,12,Tue Jun 12 11:04:42 +0000 2018
-12,1006492066095030272,BBC," Use a wooden chopping board 
-",-0.296,0.0,0.891,0.109,13,Tue Jun 12 11:03:02 +0000 2018
-13,1006481662576906241,BBC,Captain Mainwaring and his comrades are to feature on a new set of stamps to mark the 50th anniversary of the class,0.0,0.0,1.0,0.0,14,Tue Jun 12 10:21:42 +0000 2018
-14,1006478794465665024,BBC,RT @BBCR1: ,0.3802,0.101,0.899,0.0,15,Tue Jun 12 10:10:18 +0000 2018
-15,1006469890549665792,BBC,RT @bbcthree: Robert Lee quit his well paid Wall Street job to feed the homeless https://t.co/OHl500fXn1,0.2732,0.123,0.877,0.0,16,Tue Jun 12 09:34:55 +0000 2018
-16,1006452473052192768,BBC,"RT @bbcgetinspired: History will be made at the #WorldCup 
+",-0.0258,0.203,0.642,0.155,6,Thu Jun 14 13:10:42 +0000 2018
+6,1007246554988711937,BBC,We gave him some food so hopefully he'll be back,0.541,0.155,0.845,0.0,7,Thu Jun 14 13:01:07 +0000 2018
+7,1007237319500451840,BBC, There's no official England #WorldCup song so we're backing our friends at @CBeebiesHQ who want to make this th,0.3774,0.231,0.681,0.088,8,Thu Jun 14 12:24:25 +0000 2018
+8,1007234068503842816,BBC,RT @BBCNews: Grenfell Tower,-0.34,0.0,0.902,0.098,9,Thu Jun 14 12:11:30 +0000 2018
+9,1007231448607322112,BBC, From stray dog to downward facing dog.... Amaloh is one lucky pooch! https://t.co/980DE0YdmS,0.4753,0.192,0.808,0.0,10,Thu Jun 14 12:01:05 +0000 2018
+10,1007216150240022530,BBC, 'Love is evil ,0.6124,0.264,0.597,0.138,11,Thu Jun 14 11:00:18 +0000 2018
+11,1007171039825219584,BBC, These Belgian students are revising for exams with monks at a monastery.  https://t.co/JKkUt9hSuA,0.0,0.0,1.0,0.0,12,Thu Jun 14 08:01:02 +0000 2018
+12,1007162489593827328,BBC,"How our teenage years shape our personality. 
+",0.0,0.0,1.0,0.0,13,Thu Jun 14 07:27:04 +0000 2018
+13,1007155941500911616,BBC,Could one 'super bacteria,0.8074,0.48,0.52,0.0,14,Thu Jun 14 07:01:03 +0000 2018
+14,1006975269511581697,BBC,"Anatomist @theAliceRoberts embarks on a quest to rebuild her own body from scratch. 
 
-Here's @LivCookefs to get you in the mood. Could you do these super skills? #Ge",0.5994,0.145,0.855,0.0,17,Tue Jun 12 08:25:43 +0000 2018
-17,1006446077153857536,BBC," Ever heard a beatboxing starling? 
-#Springwatch https://t.co/N758EN4j3s",0.0,0.0,1.0,0.0,18,Tue Jun 12 08:00:18 +0000 2018
-18,1006437975121694720,BBC, A Chinese city has introduced a special pedestrian lane on one of its roads,0.4019,0.137,0.863,0.0,19,Tue Jun 12 07:28:06 +0000 2018
-19,1006430945115869184,BBC,This new service uses a smartphone and camera glasses to help blind or partially sighted people. https://t.co/5Ca4REP9xU,0.0,0.139,0.722,0.139,20,Tue Jun 12 07:00:10 +0000 2018
-20,1006234694114009088,BBC,'Everything that happened,0.0258,0.078,0.922,0.0,21,Mon Jun 11 18:00:20 +0000 2018
-21,1006227335882911744,BBC,Follow top female wrestler Kimberly Benson,0.0498,0.152,0.742,0.105,22,Mon Jun 11 17:31:06 +0000 2018
-22,1006204457447837706,BBC," @SandiToksvig can't get a moment of peace. 
-#QI https://t.co/D9YlBYFxpp",0.5423,0.304,0.696,0.0,23,Mon Jun 11 16:00:11 +0000 2018
-23,1006194061332635648,BBC,RT @BBCr4today: The building blocks of life have been found on Mars and @SanjeevGupta45 says it's an exciting prospect ,0.5423,0.213,0.711,0.075,24,Mon Jun 11 15:18:53 +0000 2018
-24,1006192275150471169,BBC,RT @bbc5live: ,0.8908,0.398,0.602,0.0,25,Mon Jun 11 15:11:47 +0000 2018
-25,1006190201432100865,BBC,"'My mum had tears coming out of her eyes'. 
+Can Science Make Me Perfect?",0.0,0.0,1.0,0.0,15,Wed Jun 13 19:03:07 +0000 2018
+15,1006966449833955329,BBC,"Discover the story of how Kensington became the most unequal place in Britain. 
 
-",-0.2263,0.0,0.921,0.079,26,Mon Jun 11 15:03:32 +0000 2018
-26,1006180563932401664,BBC,The UK could see an end to homelessness within 10 years if the government embraces certain policies,0.2732,0.095,0.905,0.0,27,Mon Jun 11 14:25:15 +0000 2018
-27,1006159881685127168,BBC,Think bacteria are bad? Think again. ,-0.2023,0.116,0.733,0.151,28,Mon Jun 11 13:03:03 +0000 2018
-28,1006144282296766464,BBC, What's it like to be the most powerful woman in international sport? https://t.co/MqcaxKtJeH,0.6801,0.337,0.663,0.0,29,Mon Jun 11 12:01:04 +0000 2018
-29,1006129720658886656,BBC,RT @BBCNews: 'I'm glad I was the first guardsman to wear a turban' https://t.co/fL4yzmOAPU,0.4588,0.214,0.786,0.0,30,Mon Jun 11 11:03:13 +0000 2018
-30,1006129688308322304,BBC,Is visual learning a myth?  ,0.34,0.112,0.888,0.0,31,Mon Jun 11 11:03:05 +0000 2018
-31,1006116846981042176,BBC,"We're celebrating female voices and achievements across the BBC to mark 100 years since women got the vote.
+Before Grenfell: A Hidden History",-0.4005,0.0,0.863,0.137,16,Wed Jun 13 18:28:04 +0000 2018
+16,1006959652888825865,BBC, Russian workers being taught how to smile more ahead of the World Cup.  https://t.co/Qv9BoVmX25,0.3612,0.161,0.839,0.0,17,Wed Jun 13 18:01:04 +0000 2018
+17,1006936868120924160,BBC,RT @BBCOne: There are some ingredients that even Britain,0.6369,0.181,0.819,0.0,18,Wed Jun 13 16:30:31 +0000 2018
+18,1006935549431762946,BBC,RT @BBCiPlayer: Witness the might of female factory workers in Dagenham,-0.4019,0.0,0.837,0.163,19,Wed Jun 13 16:25:17 +0000 2018
+19,1006929451811254272,BBC,'Black people think I have white privilege.' https://t.co/SoNEFZfdZ6,0.0,0.0,1.0,0.0,20,Wed Jun 13 16:01:03 +0000 2018
+20,1006880650710970369,BBC,RT @bbcarts: Flags by artists including Grayson Perry ,0.0,0.0,1.0,0.0,21,Wed Jun 13 12:47:08 +0000 2018
+21,1006869571033329665,BBC, Meet Hertha Ayrton ,0.0,0.0,1.0,0.0,22,Wed Jun 13 12:03:07 +0000 2018
+22,1006853750890344449,BBC,"Did you know you've had an accent since birth?
 
-Here's",0.5719,0.163,0.837,0.0,32,Mon Jun 11 10:12:03 +0000 2018
-32,1006083886676414464,BBC, Two hundred dachshunds in one place... yes please! https://t.co/2ugZtgmBZ7,0.6476,0.398,0.602,0.0,33,Mon Jun 11 08:01:05 +0000 2018
-33,1006075837295349760,BBC,From fallopian tubes to the G,0.0258,0.052,0.948,0.0,34,Mon Jun 11 07:29:06 +0000 2018
-34,1006069299704991745,BBC,"
+",0.0,0.0,1.0,0.0,23,Wed Jun 13 11:00:15 +0000 2018
+23,1006842586345111552,BBC,A daredevil raccoon in St Paul,0.128,0.077,0.923,0.0,24,Wed Jun 13 10:15:53 +0000 2018
+24,1006832798655811589,BBC, An 18th Century Chinese vase,0.0,0.0,1.0,0.0,25,Wed Jun 13 09:36:59 +0000 2018
+25,1006808408870260738,BBC,"
+Do these photos change your view of pigeons? https://t.co/SQKBEWW3Fs",0.0,0.0,1.0,0.0,26,Wed Jun 13 08:00:04 +0000 2018
+26,1006799873990160384,BBC, Shengshan island in China's eastern Zhejiang province is home to Houtouwan,-0.4588,0.0,0.857,0.143,27,Wed Jun 13 07:26:10 +0000 2018
+27,1006793352229085184,BBC, SOUND ON ,0.5413,0.189,0.811,0.0,28,Wed Jun 13 07:00:15 +0000 2018
+28,1006612367168417792,BBC," The US has debuted the world's fastest supercomputer and it can process 200 petaflops per second.
+",0.0,0.0,1.0,0.0,29,Tue Jun 12 19:01:04 +0000 2018
+29,1006598774943346689,BBC,This is the remarkable story of a convent of Mexican nuns helping to save one of the world's most endangered amphib,0.8402,0.333,0.667,0.0,30,Tue Jun 12 18:07:04 +0000 2018
+30,1006582170725601280,BBC," How long has it been since you last washed your tea towel?
+
+Multi",0.0,0.0,1.0,0.0,31,Tue Jun 12 17:01:05 +0000 2018
+31,1006566811306024961,BBC," Learn how to swear like a Swede! 
+
+",0.3802,0.233,0.667,0.1,32,Tue Jun 12 16:00:03 +0000 2018
+32,1006560982028734470,BBC,RT @bbcwritersroom: Find out how we created 4 brand new #comedy monologues across the UK for the #BiggestWeekend festival and watch all 4 n,0.6369,0.206,0.794,0.0,33,Tue Jun 12 15:36:53 +0000 2018
+33,1006555449410379777,BBC,RT @BBCOne: .@StaceyDooley investigates the changing face of women's protests. https://t.co/1cdtKOdQ50,-0.2263,0.0,0.84,0.16,34,Tue Jun 12 15:14:54 +0000 2018
+34,1006552181091241986,BBC," Charlie Chaplin: The original distracted boyfriend.
+",-0.0258,0.215,0.561,0.224,35,Tue Jun 12 15:01:55 +0000 2018
+35,1006546212080611330,BBC,RT @bbcarts: 100 years after women won the right to vote,0.5719,0.129,0.871,0.0,36,Tue Jun 12 14:38:12 +0000 2018
+36,1006522020358737920,BBC,The ,-0.7096,0.107,0.619,0.275,37,Tue Jun 12 13:02:04 +0000 2018
+37,1006510330745417728,BBC,"RT @BBCR1: How special is this cover?!
+
+@5SOS take on @AliceMerton's 'No Roots' in the Live Lounge ",0.2003,0.141,0.755,0.104,38,Tue Jun 12 12:15:37 +0000 2018
+38,1006506489425645568,BBC, Meet the 10,0.5719,0.27,0.73,0.0,39,Tue Jun 12 12:00:21 +0000 2018
+39,1006492482216038405,BBC,"RT @bbcrb: Who doesn't love Gromit?
+Even his biggest fans won't have seen him like THIS before! ",-0.2869,0.108,0.734,0.158,40,Tue Jun 12 11:04:42 +0000 2018
+40,1006492066095030272,BBC," Use a wooden chopping board 
+",-0.296,0.0,0.891,0.109,41,Tue Jun 12 11:03:02 +0000 2018
+41,1006481662576906241,BBC,Captain Mainwaring and his comrades are to feature on a new set of stamps to mark the 50th anniversary of the class,0.0,0.0,1.0,0.0,42,Tue Jun 12 10:21:42 +0000 2018
+42,1006478794465665024,BBC,RT @BBCR1: ,0.3802,0.101,0.899,0.0,43,Tue Jun 12 10:10:18 +0000 2018
+43,1006469890549665792,BBC,RT @bbcthree: Robert Lee quit his well paid Wall Street job to feed the homeless https://t.co/OHl500fXn1,0.2732,0.123,0.877,0.0,44,Tue Jun 12 09:34:55 +0000 2018
+44,1006452473052192768,BBC,"RT @bbcgetinspired: History will be made at the #WorldCup 
+
+Here's @LivCookefs to get you in the mood. Could you do these super skills? #Ge",0.5994,0.145,0.855,0.0,45,Tue Jun 12 08:25:43 +0000 2018
+45,1006446077153857536,BBC," Ever heard a beatboxing starling? 
+#Springwatch https://t.co/N758EN4j3s",0.0,0.0,1.0,0.0,46,Tue Jun 12 08:00:18 +0000 2018
+46,1006437975121694720,BBC, A Chinese city has introduced a special pedestrian lane on one of its roads,0.4019,0.137,0.863,0.0,47,Tue Jun 12 07:28:06 +0000 2018
+47,1006430945115869184,BBC,This new service uses a smartphone and camera glasses to help blind or partially sighted people. https://t.co/5Ca4REP9xU,0.0,0.139,0.722,0.139,48,Tue Jun 12 07:00:10 +0000 2018
+48,1006234694114009088,BBC,'Everything that happened,0.0258,0.078,0.922,0.0,49,Mon Jun 11 18:00:20 +0000 2018
+49,1006227335882911744,BBC,Follow top female wrestler Kimberly Benson,0.0498,0.152,0.742,0.105,50,Mon Jun 11 17:31:06 +0000 2018
+50,1006204457447837706,BBC," @SandiToksvig can't get a moment of peace. 
+#QI https://t.co/D9YlBYFxpp",0.5423,0.304,0.696,0.0,51,Mon Jun 11 16:00:11 +0000 2018
+51,1006194061332635648,BBC,RT @BBCr4today: The building blocks of life have been found on Mars and @SanjeevGupta45 says it's an exciting prospect ,0.5423,0.213,0.711,0.075,52,Mon Jun 11 15:18:53 +0000 2018
+52,1006192275150471169,BBC,RT @bbc5live: ,0.8908,0.398,0.602,0.0,53,Mon Jun 11 15:11:47 +0000 2018
+53,1006190201432100865,BBC,"'My mum had tears coming out of her eyes'. 
+
+",-0.2263,0.0,0.921,0.079,54,Mon Jun 11 15:03:32 +0000 2018
+54,1006180563932401664,BBC,The UK could see an end to homelessness within 10 years if the government embraces certain policies,0.2732,0.095,0.905,0.0,55,Mon Jun 11 14:25:15 +0000 2018
+55,1006159881685127168,BBC,Think bacteria are bad? Think again. ,-0.2023,0.116,0.733,0.151,56,Mon Jun 11 13:03:03 +0000 2018
+56,1006144282296766464,BBC, What's it like to be the most powerful woman in international sport? https://t.co/MqcaxKtJeH,0.6801,0.337,0.663,0.0,57,Mon Jun 11 12:01:04 +0000 2018
+57,1006129720658886656,BBC,RT @BBCNews: 'I'm glad I was the first guardsman to wear a turban' https://t.co/fL4yzmOAPU,0.4588,0.214,0.786,0.0,58,Mon Jun 11 11:03:13 +0000 2018
+58,1006129688308322304,BBC,Is visual learning a myth?  ,0.34,0.112,0.888,0.0,59,Mon Jun 11 11:03:05 +0000 2018
+59,1006116846981042176,BBC,"We're celebrating female voices and achievements across the BBC to mark 100 years since women got the vote.
+
+Here's",0.5719,0.163,0.837,0.0,60,Mon Jun 11 10:12:03 +0000 2018
+60,1006083886676414464,BBC, Two hundred dachshunds in one place... yes please! https://t.co/2ugZtgmBZ7,0.6476,0.398,0.602,0.0,61,Mon Jun 11 08:01:05 +0000 2018
+61,1006075837295349760,BBC,From fallopian tubes to the G,0.0258,0.052,0.948,0.0,62,Mon Jun 11 07:29:06 +0000 2018
+62,1006069299704991745,BBC,"
 Need to relax? 
 
-Sit back",0.4404,0.146,0.854,0.0,35,Mon Jun 11 07:03:07 +0000 2018
-35,1005888361310146560,BBC,As the Poldarks look to rebuild their marriage,-0.5719,0.0,0.761,0.239,36,Sun Jun 10 19:04:08 +0000 2018
-36,1005872837427638273,BBC,Can we interest you in a little cockroach milk to go with your cereal? Because this could be the next big food fad.,0.4588,0.12,0.88,0.0,37,Sun Jun 10 18:02:27 +0000 2018
-37,1005857896125599744,BBC,Emily Davison became a martyr to the suffragette cause after running in front of the king's horse at the Epsom Derb,0.0,0.0,1.0,0.0,38,Sun Jun 10 17:03:05 +0000 2018
-38,1005842545069428741,BBC,Little girls don,0.0,0.0,1.0,0.0,39,Sun Jun 10 16:02:05 +0000 2018
-39,1005832459328606209,BBC,RT @BBCOne: ,0.6808,0.196,0.804,0.0,40,Sun Jun 10 15:22:00 +0000 2018
-40,1005831901914034176,BBC,RT @BBCOne: Women across the UK are marching together to create a living artwork,0.7003,0.201,0.799,0.0,41,Sun Jun 10 15:19:47 +0000 2018
-41,1005827195804307456,BBC,Is feminism actually just a war on men? @RachelParris has some thoughts... ,-0.5994,0.0,0.755,0.245,42,Sun Jun 10 15:01:05 +0000 2018
-42,1005821462341738501,BBC,"RT @CBeebiesHQ: Would you consider an alternative to mainstream education? 
+Sit back",0.4404,0.146,0.854,0.0,63,Mon Jun 11 07:03:07 +0000 2018
+63,1005888361310146560,BBC,As the Poldarks look to rebuild their marriage,-0.5719,0.0,0.761,0.239,64,Sun Jun 10 19:04:08 +0000 2018
+64,1005872837427638273,BBC,Can we interest you in a little cockroach milk to go with your cereal? Because this could be the next big food fad.,0.4588,0.12,0.88,0.0,65,Sun Jun 10 18:02:27 +0000 2018
+65,1005857896125599744,BBC,Emily Davison became a martyr to the suffragette cause after running in front of the king's horse at the Epsom Derb,0.0,0.0,1.0,0.0,66,Sun Jun 10 17:03:05 +0000 2018
+66,1005842545069428741,BBC,Little girls don,0.0,0.0,1.0,0.0,67,Sun Jun 10 16:02:05 +0000 2018
+67,1005832459328606209,BBC,RT @BBCOne: ,0.6808,0.196,0.804,0.0,68,Sun Jun 10 15:22:00 +0000 2018
+68,1005831901914034176,BBC,RT @BBCOne: Women across the UK are marching together to create a living artwork,0.7003,0.201,0.799,0.0,69,Sun Jun 10 15:19:47 +0000 2018
+69,1005827195804307456,BBC,Is feminism actually just a war on men? @RachelParris has some thoughts... ,-0.5994,0.0,0.755,0.245,70,Sun Jun 10 15:01:05 +0000 2018
+70,1005821462341738501,BBC,"RT @CBeebiesHQ: Would you consider an alternative to mainstream education? 
 
-@BBCNews #SundayThoughts https://t.co/hwileHwd1K",0.0,0.0,1.0,0.0,43,Sun Jun 10 14:38:18 +0000 2018
-43,1005821365340049408,BBC,"RT @BBCOne: We're celebrating female voices and achievements across the BBC to mark 100 years since women got the vote. 
+@BBCNews #SundayThoughts https://t.co/hwileHwd1K",0.0,0.0,1.0,0.0,71,Sun Jun 10 14:38:18 +0000 2018
+71,1005821365340049408,BBC,"RT @BBCOne: We're celebrating female voices and achievements across the BBC to mark 100 years since women got the vote. 
 
-Hands up to Bake",0.5719,0.139,0.861,0.0,44,Sun Jun 10 14:37:55 +0000 2018
-44,1005784818846707712,BBC,RT @bbcarts: 100 years after the Suffragettes won the right to vote,0.5719,0.139,0.861,0.0,45,Sun Jun 10 12:12:42 +0000 2018
-45,1005782143547641856,BBC,Kirsty Young presents live coverage of the processions across London,0.0,0.0,1.0,0.0,46,Sun Jun 10 12:02:04 +0000 2018
-46,1005766049436983296,BBC,Can you believe these wonders are beneath UK waters? https://t.co/BJ3SEEIjDN,0.0,0.0,1.0,0.0,47,Sun Jun 10 10:58:07 +0000 2018
-47,1005758471646703616,BBC,In 1913,-0.3818,0.0,0.88,0.12,48,Sun Jun 10 10:28:00 +0000 2018
-48,1005754227317190656,BBC,RT @BBCTwo: We're celebrating female voices and achievements across the BBC to mark 100 years since women got the vote. So here's to Polly,0.5719,0.139,0.861,0.0,49,Sun Jun 10 10:11:08 +0000 2018
-49,1005751698990788608,BBC,Learning to embrace that sinking,-0.4588,0.148,0.625,0.227,50,Sun Jun 10 10:01:05 +0000 2018
-50,1005736598653276161,BBC,How the suffragettes woke us up. https://t.co/WrXoMnNNIZ,0.0,0.0,1.0,0.0,51,Sun Jun 10 09:01:05 +0000 2018
-51,1005721493811195904,BBC, The moment actor Maisie Sly,0.0,0.0,1.0,0.0,52,Sun Jun 10 08:01:04 +0000 2018
-52,1005706890007990272,BBC,This elderly man was struggling slowly across a busy road in China ,0.9134,0.442,0.491,0.067,53,Sun Jun 10 07:03:02 +0000 2018
-53,1005541038709067776,BBC,"Would you describe yourself as a feminist?
-#HearHer https://t.co/RZh8XfEria",0.0,0.0,1.0,0.0,54,Sat Jun 09 20:04:00 +0000 2018
-54,1005525456370716673,BBC,"What is it like being Germaine Greer? This observational documentary spends time with her and finds out.
+Hands up to Bake",0.5719,0.139,0.861,0.0,72,Sun Jun 10 14:37:55 +0000 2018
+72,1005784818846707712,BBC,RT @bbcarts: 100 years after the Suffragettes won the right to vote,0.5719,0.139,0.861,0.0,73,Sun Jun 10 12:12:42 +0000 2018
+73,1005782143547641856,BBC,Kirsty Young presents live coverage of the processions across London,0.0,0.0,1.0,0.0,74,Sun Jun 10 12:02:04 +0000 2018
+74,1005766049436983296,BBC,Can you believe these wonders are beneath UK waters? https://t.co/BJ3SEEIjDN,0.0,0.0,1.0,0.0,75,Sun Jun 10 10:58:07 +0000 2018
+75,1005758471646703616,BBC,In 1913,-0.3818,0.0,0.88,0.12,76,Sun Jun 10 10:28:00 +0000 2018
+76,1005754227317190656,BBC,RT @BBCTwo: We're celebrating female voices and achievements across the BBC to mark 100 years since women got the vote. So here's to Polly,0.5719,0.139,0.861,0.0,77,Sun Jun 10 10:11:08 +0000 2018
+77,1005751698990788608,BBC,Learning to embrace that sinking,-0.4588,0.148,0.625,0.227,78,Sun Jun 10 10:01:05 +0000 2018
+78,1005736598653276161,BBC,How the suffragettes woke us up. https://t.co/WrXoMnNNIZ,0.0,0.0,1.0,0.0,79,Sun Jun 10 09:01:05 +0000 2018
+79,1005721493811195904,BBC, The moment actor Maisie Sly,0.0,0.0,1.0,0.0,80,Sun Jun 10 08:01:04 +0000 2018
+80,1005706890007990272,BBC,This elderly man was struggling slowly across a busy road in China ,0.9134,0.442,0.491,0.067,81,Sun Jun 10 07:03:02 +0000 2018
+81,1005541038709067776,BBC,"Would you describe yourself as a feminist?
+#HearHer https://t.co/RZh8XfEria",0.0,0.0,1.0,0.0,82,Sat Jun 09 20:04:00 +0000 2018
+82,1005525456370716673,BBC,"What is it like being Germaine Greer? This observational documentary spends time with her and finds out.
 
-Germaine",0.3612,0.122,0.878,0.0,55,Sat Jun 09 19:02:05 +0000 2018
-55,1005510851875495936,BBC,The cast of @QueerEye brought a bag of goodies along to @BBCR1's #BiggestWeekend ,0.0,0.0,1.0,0.0,56,Sat Jun 09 18:04:03 +0000 2018
-56,1005495008575803392,BBC,One hundred years after some women won the right to vote,0.5719,0.171,0.829,0.0,57,Sat Jun 09 17:01:05 +0000 2018
-57,1005480652018540544,BBC,A year on from the Grenfell Tower fire,0.4019,0.222,0.623,0.156,58,Sat Jun 09 16:04:03 +0000 2018
-58,1005465045793468416,BBC,One shocking day of sexual violence from the police altered the suffragettes' political strategy forever.,-0.7783,0.0,0.673,0.327,59,Sat Jun 09 15:02:02 +0000 2018
-59,1005450449418416128,BBC, This is what love looks like. https://t.co/Qle1eoBU5x,0.7717,0.528,0.472,0.0,60,Sat Jun 09 14:04:02 +0000 2018
-60,1005440388117786624,BBC," @ChanningTatum and @UsainBolt have all the moves.  
-#TheGNShow https://t.co/ry6TVJ6b6P",0.0,0.0,1.0,0.0,61,Sat Jun 09 13:24:03 +0000 2018
-61,1005435117098143744,BBC,Fifty nations are now taking action to reduce plastic pollution,0.0,0.0,1.0,0.0,62,Sat Jun 09 13:03:06 +0000 2018
-62,1005425129520758784,BBC,RT @BBCNews: The Royal family watch the RAF flypast from Buckingham Palace. 23 aircraft are taking part to mark the Queen's official birthd,0.0,0.0,1.0,0.0,63,Sat Jun 09 12:23:25 +0000 2018
-63,1005419991288565760,BBC,Your friend that likes gin will LOVE this. #TopOfTheShop ,0.8986,0.577,0.423,0.0,64,Sat Jun 09 12:03:00 +0000 2018
-64,1005406873770700800,BBC,RT @BBCNews: The Trooping the Colour parade which marks the Queen's official birthday is underway in London. The Queen and Duke and Duchess,0.0,0.0,1.0,0.0,65,Sat Jun 09 11:10:52 +0000 2018
-65,1005405176184954885,BBC," Fashion sense v common sense: the battle rages on.
+Germaine",0.3612,0.122,0.878,0.0,83,Sat Jun 09 19:02:05 +0000 2018
+83,1005510851875495936,BBC,The cast of @QueerEye brought a bag of goodies along to @BBCR1's #BiggestWeekend ,0.0,0.0,1.0,0.0,84,Sat Jun 09 18:04:03 +0000 2018
+84,1005495008575803392,BBC,One hundred years after some women won the right to vote,0.5719,0.171,0.829,0.0,85,Sat Jun 09 17:01:05 +0000 2018
+85,1005480652018540544,BBC,A year on from the Grenfell Tower fire,0.4019,0.222,0.623,0.156,86,Sat Jun 09 16:04:03 +0000 2018
+86,1005465045793468416,BBC,One shocking day of sexual violence from the police altered the suffragettes' political strategy forever.,-0.7783,0.0,0.673,0.327,87,Sat Jun 09 15:02:02 +0000 2018
+87,1005450449418416128,BBC, This is what love looks like. https://t.co/Qle1eoBU5x,0.7717,0.528,0.472,0.0,88,Sat Jun 09 14:04:02 +0000 2018
+88,1005440388117786624,BBC," @ChanningTatum and @UsainBolt have all the moves.  
+#TheGNShow https://t.co/ry6TVJ6b6P",0.0,0.0,1.0,0.0,89,Sat Jun 09 13:24:03 +0000 2018
+89,1005435117098143744,BBC,Fifty nations are now taking action to reduce plastic pollution,0.0,0.0,1.0,0.0,90,Sat Jun 09 13:03:06 +0000 2018
+90,1005425129520758784,BBC,RT @BBCNews: The Royal family watch the RAF flypast from Buckingham Palace. 23 aircraft are taking part to mark the Queen's official birthd,0.0,0.0,1.0,0.0,91,Sat Jun 09 12:23:25 +0000 2018
+91,1005419991288565760,BBC,Your friend that likes gin will LOVE this. #TopOfTheShop ,0.8986,0.577,0.423,0.0,92,Sat Jun 09 12:03:00 +0000 2018
+92,1005406873770700800,BBC,RT @BBCNews: The Trooping the Colour parade which marks the Queen's official birthday is underway in London. The Queen and Duke and Duchess,0.0,0.0,1.0,0.0,93,Sat Jun 09 11:10:52 +0000 2018
+93,1005405176184954885,BBC," Fashion sense v common sense: the battle rages on.
 
 Is the 'fanny pack shoe' an ugly fashion step too far?
-",-0.8402,0.0,0.667,0.333,66,Sat Jun 09 11:04:08 +0000 2018
-66,1005391579224399872,BBC,As football fans across the globe look forward to #Russia2018,0.0,0.0,1.0,0.0,67,Sat Jun 09 10:10:06 +0000 2018
-67,1005391471242031104,BBC,RT @bbcstories: Ever wondered why alcohol can seem to solve all our problems,-0.6808,0.051,0.73,0.219,68,Sat Jun 09 10:09:40 +0000 2018
-68,1005372857097052160,BBC,RT @BBCBreakfast: Yep,0.7717,0.268,0.732,0.0,69,Sat Jun 09 08:55:42 +0000 2018
-69,1005372518520295424,BBC,"RT @bbcrb: Just amazing.
-The WHOLE community was invited to this Iftar meal. THOUSANDS turned up! ",0.6239,0.194,0.806,0.0,70,Sat Jun 09 08:54:21 +0000 2018
-70,1005372234431680512,BBC,RT @bbccomedy: Dame Emma Thompson! ,0.0,0.0,1.0,0.0,71,Sat Jun 09 08:53:14 +0000 2018
-71,1005372150734295040,BBC,"RT @BBC6Music: Which riffs do you wish you had written?
+",-0.8402,0.0,0.667,0.333,94,Sat Jun 09 11:04:08 +0000 2018
+94,1005391579224399872,BBC,As football fans across the globe look forward to #Russia2018,0.0,0.0,1.0,0.0,95,Sat Jun 09 10:10:06 +0000 2018
+95,1005391471242031104,BBC,RT @bbcstories: Ever wondered why alcohol can seem to solve all our problems,-0.6808,0.051,0.73,0.219,96,Sat Jun 09 10:09:40 +0000 2018
+96,1005372857097052160,BBC,RT @BBCBreakfast: Yep,0.7717,0.268,0.732,0.0,97,Sat Jun 09 08:55:42 +0000 2018
+97,1005372518520295424,BBC,"RT @bbcrb: Just amazing.
+The WHOLE community was invited to this Iftar meal. THOUSANDS turned up! ",0.6239,0.194,0.806,0.0,98,Sat Jun 09 08:54:21 +0000 2018
+98,1005372234431680512,BBC,RT @bbccomedy: Dame Emma Thompson! ,0.0,0.0,1.0,0.0,99,Sat Jun 09 08:53:14 +0000 2018
+99,1005372150734295040,BBC,"RT @BBC6Music: Which riffs do you wish you had written?
 
-",0.7579,0.245,0.755,0.0,72,Sat Jun 09 08:52:54 +0000 2018
-72,1005372116986974208,BBC,RT @BBCArtsPR: Our very own @wmarybeard has received a damehood in the Queen's birthday honours list ,0.8122,0.303,0.697,0.0,73,Sat Jun 09 08:52:46 +0000 2018
-73,1005372063647961088,BBC,RT @bbcarts: Women across Britain raise banners for suffrage ,0.5859,0.147,0.853,0.0,74,Sat Jun 09 08:52:33 +0000 2018
-74,1005371427783086081,BBC,RT @BBCEngland: Britain's longest,0.0,0.0,1.0,0.0,75,Sat Jun 09 08:50:01 +0000 2018
-75,1005366911591477248,BBC," @huwbbc introduces live coverage of the military parade to mark the official birthday of HM the Queen. 
-
-Troopin",0.0,0.0,1.0,0.0,76,Sat Jun 09 08:32:05 +0000 2018
-76,1005350803006283776,BBC,The charming and beautiful films of Lotte Reiniger,0.7783,0.393,0.51,0.097,77,Sat Jun 09 07:28:04 +0000 2018
-77,1005178664529682432,BBC, Tonight,0.0,0.0,1.0,0.0,78,Fri Jun 08 20:04:03 +0000 2018
-78,1005149730370924550,BBC, Why does dancing with our friends make us feel so good? https://t.co/iokI919nJp,0.7809,0.383,0.617,0.0,79,Fri Jun 08 18:09:05 +0000 2018
-79,1005133117458452480,BBC, From jazz,0.5574,0.159,0.841,0.0,80,Fri Jun 08 17:03:04 +0000 2018
-80,1005117750279331843,BBC,Leaving your responsibilities behind on a Friday like... ,0.0,0.0,1.0,0.0,81,Fri Jun 08 16:02:00 +0000 2018
-81,1005072723008278528,BBC, From drama Succession to the return of @PoldarkTV,0.4019,0.179,0.821,0.0,82,Fri Jun 08 13:03:05 +0000 2018
-82,1005063937895878657,BBC,RT @bbcouch: We can announce today that Britain's Got Talent winner @LostVoiceGuy will be hosting our Storytelling Live event at @edfringe!,0.784,0.266,0.734,0.0,83,Fri Jun 08 12:28:10 +0000 2018
-83,1005063043594772482,BBC,"RT @BBCEarth: We all have a part to play in protecting #OurBluePlanet.
-#WorldOceansDay ",0.34,0.167,0.833,0.0,84,Fri Jun 08 12:24:37 +0000 2018
-84,1005061734820917248,BBC, US celebrity chef and television personality Anthony Bourdain has been found dead in his hotel room,-0.6486,0.0,0.815,0.185,85,Fri Jun 08 12:19:25 +0000 2018
-85,1005057867035152384,BBC,The unexpected pioneering women of electronic music. https://t.co/ih6gK1Sz0y,0.0,0.0,1.0,0.0,86,Fri Jun 08 12:04:03 +0000 2018
-86,1005042520928251904,BBC,Forget hygge,-0.2263,0.0,0.894,0.106,87,Fri Jun 08 11:03:04 +0000 2018
-87,1005039948913881088,BBC,RT @UKMoments: All,0.2023,0.073,0.927,0.0,88,Fri Jun 08 10:52:51 +0000 2018
-88,1005039246195994624,BBC,"Pippa Middleton has confirmed she is expecting her first child with husband James Matthews. 
-https://t.co/4SiziX5Tix https://t.co/bFobAI2hBp",0.0,0.0,1.0,0.0,89,Fri Jun 08 10:50:03 +0000 2018
-89,1005011820179021824,BBC,'If the oceans don't stay healthy,-0.3089,0.0,0.83,0.17,90,Fri Jun 08 09:01:04 +0000 2018
-90,1005008087026225152,BBC,RT @BBC6Music: This Friday,0.4404,0.139,0.861,0.0,91,Fri Jun 08 08:46:14 +0000 2018
-91,1004996731283623936,BBC,These ducklings jumping from their nest are absolutely adorable. ,0.5413,0.259,0.741,0.0,92,Fri Jun 08 08:01:07 +0000 2018
-92,1004988672591220736,BBC," We often think of cities as the least healthy places to live. But what does the research say?
-",-0.3089,0.0,0.894,0.106,93,Fri Jun 08 07:29:05 +0000 2018
-93,1004981428214489088,BBC," A message from Sir David Attenborough for #WorldOceansDay. 
- https://t.co/778x4RMMRv",0.0,0.0,1.0,0.0,94,Fri Jun 08 07:00:18 +0000 2018
-94,1004801200645136384,BBC,#OurGirl's Michelle Keegan discovers her great,-0.3612,0.0,0.857,0.143,95,Thu Jun 07 19:04:09 +0000 2018
-95,1004785147949051905,BBC, Harry has been wearing a Spider,0.0,0.0,1.0,0.0,96,Thu Jun 07 18:00:21 +0000 2018
-96,1004755375529299968,BBC,Turns out even Shakespearean acting legends love a good chinwag. https://t.co/0DO0vG4uZg,0.7964,0.47,0.53,0.0,97,Thu Jun 07 16:02:03 +0000 2018
-97,1004749019879534594,BBC,RT @BBC6Music: ,0.4404,0.116,0.884,0.0,98,Thu Jun 07 15:36:48 +0000 2018
-98,1004747913472479232,BBC,This elderly man was struggling slowly across a busy road ,0.8043,0.369,0.544,0.086,99,Thu Jun 07 15:32:24 +0000 2018
-99,1004725675591430147,BBC, A Texan required 26 doses of anti,-0.7906,0.0,0.731,0.269,100,Thu Jun 07 14:04:02 +0000 2018
-100,1006330083148161025,CBS,No pain,-0.5562,0.134,0.551,0.315,1,Tue Jun 12 00:19:23 +0000 2018
-101,1006300819170324480,CBS,RT @TheNeighborhood: Welcome to #TheNeighborhood,0.5093,0.171,0.829,0.0,2,Mon Jun 11 22:23:06 +0000 2018
-102,1006250118985576449,CBS,In case you missed it,-0.296,0.0,0.833,0.167,3,Mon Jun 11 19:01:38 +0000 2018
-103,1006174364700561408,CBS,How do you know @SaraBareilles and @joshgroban's music? #TonyAwards https://t.co/POMXBORfUT,0.0,0.0,1.0,0.0,4,Mon Jun 11 14:00:37 +0000 2018
-104,1006058348347830272,CBS,Here are all the performances from the 2018 #TonyAwards: https://t.co/gN4ItpFlRd https://t.co/fSMNBXKC9r,0.0,0.0,1.0,0.0,5,Mon Jun 11 06:19:36 +0000 2018
-105,1006054595372638209,CBS,See the complete list of winners from the 2018 #TonyAwards: https://t.co/9XK6CGeber https://t.co/HkUIN4Quej,0.4767,0.22,0.78,0.0,6,Mon Jun 11 06:04:41 +0000 2018
-106,1006010773292777472,CBS,An end to a magical evening. The Band's Visit wins for Best Musical! #TonyAwards https://t.co/ODza97n8YH,0.8478,0.406,0.594,0.0,7,Mon Jun 11 03:10:33 +0000 2018
-107,1006008644402438146,CBS,Congratulations are in order for @TheKatrinaLenk! She just won for Best Leading Actress in a Musical. #TonyAwards https://t.co/t9bNvpiEmH,0.92,0.463,0.537,0.0,8,Mon Jun 11 03:02:06 +0000 2018
-108,1006007741473669121,CBS,RT @CBSThisMorning: Hmm... something seems off here @SaraBareilles @JoshGroban. ,0.0,0.0,1.0,0.0,9,Mon Jun 11 02:58:30 +0000 2018
-109,1006007276820287488,CBS,RT @_stobin13: watching the #TonyAwards after going to 3 broadway shows this weekend makes it even better ,0.4404,0.153,0.847,0.0,10,Mon Jun 11 02:56:40 +0000 2018
-110,1006007152752803840,CBS,Tony Shalhoub wins Best Leading Actor in a Musical. #TonyAwards   #TheBandsVisit https://t.co/KcUDSicKI5,0.836,0.467,0.533,0.0,11,Mon Jun 11 02:56:10 +0000 2018
-111,1006006356392853504,CBS,The Boss looks right at home on the #TonyAwards stage! https://t.co/pwjv4iydkn,0.0,0.0,1.0,0.0,12,Mon Jun 11 02:53:00 +0000 2018
-112,1006004969202335744,CBS,RT @Aatamianphoto: Springsteen is on the #TonyAwards and I love it.,0.6369,0.318,0.682,0.0,13,Mon Jun 11 02:47:29 +0000 2018
-113,1006004300206575618,CBS,Inspiration: Get to your YES! #OnceOnThisIsland #TonyAwards https://t.co/Wjp0QIWfXq,0.7978,0.543,0.457,0.0,14,Mon Jun 11 02:44:50 +0000 2018
-114,1006004244384641024,CBS,The feeling when you win a Tony. ,0.9523,0.55,0.45,0.0,15,Mon Jun 11 02:44:37 +0000 2018
-115,1006001361794658304,CBS,What a beautiful performance by the cast of #TheBandsVisit. #TonyAwards https://t.co/4Hw96kZvrf,0.5994,0.302,0.698,0.0,16,Mon Jun 11 02:33:09 +0000 2018
-116,1006000391387938816,CBS,I'm a living example of how theatre can change you ,0.4215,0.123,0.877,0.0,17,Mon Jun 11 02:29:18 +0000 2018
-117,1005999041455329281,CBS,Angels in America takes the win for Best Revival of a Play! #TonyAwards https://t.co/zodW61tw8a,0.8932,0.517,0.483,0.0,18,Mon Jun 11 02:23:56 +0000 2018
-118,1005998314024677377,CBS,RT @leahableson: The Once On This Island Goat And Chicken made it to the broadcast,0.0,0.0,1.0,0.0,19,Mon Jun 11 02:21:03 +0000 2018
-119,1005997067766882304,CBS,That performance was the GOAT. #TonyAwards https://t.co/mtoU92HipQ,0.0,0.0,1.0,0.0,20,Mon Jun 11 02:16:06 +0000 2018
-120,1005995799812059136,CBS,Harry Potter and the Cursed Child wins Best Play at the #TonyAwards! @HPPlayNYC https://t.co/WIqJQmtAlN,0.8908,0.491,0.509,0.0,21,Mon Jun 11 02:11:03 +0000 2018
-121,1005994473598287872,CBS, ,0.0,0.0,1.0,0.0,22,Mon Jun 11 02:05:47 +0000 2018
-122,1005993900723482624,CBS,Hope he brought enough birthday cake for everyone! #TonyAwards https://t.co/FlLbKV6oj8,0.4926,0.262,0.738,0.0,23,Mon Jun 11 02:03:31 +0000 2018
-123,1005992717258649601,CBS,@writerlindsayb You're welcome! #TonyAwards,0.5093,0.523,0.477,0.0,24,Mon Jun 11 01:58:48 +0000 2018
-124,1005991328277094401,CBS,RT @hjmayer8: I sure do love @DearEvanHansen ,0.7579,0.565,0.435,0.0,25,Mon Jun 11 01:53:17 +0000 2018
-125,1005990820535660544,CBS,RT @Valerie4815: What a birthday present,0.6467,0.248,0.752,0.0,26,Mon Jun 11 01:51:16 +0000 2018
-126,1005987576509894657,CBS,If only this performance could go on forever. #TonyAwards @FrozenBroadway https://t.co/p2BMUvyTxr,0.0,0.0,1.0,0.0,27,Mon Jun 11 01:38:23 +0000 2018
-127,1005987381843931138,CBS,RT @anna_villanueva: Magnificent performance from the cast of @FrozenBroadway! #TonyAwards2018 #TonyAwards #Tonys,0.636,0.276,0.724,0.0,28,Mon Jun 11 01:37:36 +0000 2018
-128,1005985702780198913,CBS,Glenda Jackson wins Best Leading Actress in a Play. #TonyAwards @threetallwomen https://t.co/GRp1gcBuiW,0.8834,0.563,0.437,0.0,29,Mon Jun 11 01:30:56 +0000 2018
-129,1005985305164279808,CBS,.@SaraBareilles is totally a Gryffindor. #TonyAwards https://t.co/OPQ7esk2dn,0.0,0.0,1.0,0.0,30,Mon Jun 11 01:29:21 +0000 2018
-130,1005984473362518016,CBS,RT @IzzyNY202: How impressive are these Marjory Stoneman Douglas students? That #TonyAwards performance reduced me to tears. Amazing.,0.7351,0.296,0.625,0.079,31,Mon Jun 11 01:26:03 +0000 2018
-131,1005984457810051072,CBS,RT @KatLargent: MAGIC #TonyAwards,0.0,0.0,1.0,0.0,32,Mon Jun 11 01:25:59 +0000 2018
-132,1005984149797154816,CBS,Such a touching moment at the #TonyAwards. ,0.0,0.0,1.0,0.0,33,Mon Jun 11 01:24:46 +0000 2018
-133,1005984006565793792,CBS,.@Matt_Morrison welcomes the Marjory Stoneman Douglas High School theatre department to the stage. #TonyAwards https://t.co/5dxa9smeka,0.4019,0.162,0.838,0.0,34,Mon Jun 11 01:24:12 +0000 2018
-134,1005982948745609216,CBS,So many feels at the #TonyAwards. Congratulations to @arielstachel for winning Best Featured Actor in a Musical!,0.9151,0.457,0.543,0.0,35,Mon Jun 11 01:19:59 +0000 2018
-135,1005981070095888384,CBS,RT @McBenefit: I love everything about you @UzoAduba. #TonyAwards,0.6369,0.375,0.625,0.0,36,Mon Jun 11 01:12:31 +0000 2018
-136,1005980047516188672,CBS,RT if that musical number by the cast of Carousel blew you away! #TonyAwards https://t.co/CMzMNtcAQO,0.1511,0.102,0.898,0.0,37,Mon Jun 11 01:08:28 +0000 2018
-137,1005980030449508353,CBS,Nathan Lane saw his #AngelsinAmerica role as a challenge. How will you challenge yourself in 2018? #TonyAwards https://t.co/3WXd6AqgBi,0.1531,0.148,0.852,0.0,38,Mon Jun 11 01:08:24 +0000 2018
-138,1005978618554535937,CBS,Nathan Lane wins Best Featured Actor in a Play. #TonyAwards @angelsbway https://t.co/xc8M7JtLDE,0.8834,0.563,0.437,0.0,39,Mon Jun 11 01:02:47 +0000 2018
-139,1005977438969458688,CBS, @joshgroban and @SaraBareilles are Host Goals. ,0.0,0.0,1.0,0.0,40,Mon Jun 11 00:58:06 +0000 2018
-140,1005976046405992449,CBS,RT @adub369: This is unbelievable! @SaraBareilles and @joshgroban #TonyAwards,0.2714,0.207,0.793,0.0,41,Mon Jun 11 00:52:34 +0000 2018
-141,1005975699272814592,CBS,Who lives in a pineapple and just performed at The Tonys? ,0.0,0.0,1.0,0.0,42,Mon Jun 11 00:51:11 +0000 2018
-142,1005975478300110848,CBS, @LindsayMendez wins Best Featured Actress in a Musical! #TonyAwards @carouselbway https://t.co/MtgFowscN5,0.8478,0.506,0.494,0.0,43,Mon Jun 11 00:50:18 +0000 2018
-143,1005974199880445952,CBS,A big congratulations to @springsteen for his Special Tony award! ,0.8858,0.565,0.435,0.0,44,Mon Jun 11 00:45:14 +0000 2018
-144,1005974043713912832,CBS,Can the 73rd annual #TonyAwards just be three,0.0,0.0,1.0,0.0,45,Mon Jun 11 00:44:36 +0000 2018
-145,1005971798687506432,CBS,RT @CBSThisMorning: ,0.25,0.08,0.92,0.0,46,Mon Jun 11 00:35:41 +0000 2018
-146,1005971562032328704,CBS,Keep your acceptance speeches short or else the #TonyAwards will get the angels involved. #AngelsInAmerica ,0.4588,0.167,0.833,0.0,47,Mon Jun 11 00:34:45 +0000 2018
-147,1005970736844947457,CBS,If you haven't started singing,0.0,0.0,1.0,0.0,48,Mon Jun 11 00:31:28 +0000 2018
-148,1005969788911276032,CBS,RT @marialena_rago: I like this opener for @MyFairLadyBway #TonyAwards,0.3612,0.263,0.737,0.0,49,Mon Jun 11 00:27:42 +0000 2018
-149,1005969613069275136,CBS,Laurie Metcalf wins Best Featured Actress in a Play! #TonyAwards @threetallwomen https://t.co/y4teyJaRPs,0.8908,0.57,0.43,0.0,50,Mon Jun 11 00:27:00 +0000 2018
-150,1005968989724405760,CBS,Tina Fey has a boat?? #MeanGirls #TonyAwards https://t.co/phYxmHMd3d,0.0,0.0,1.0,0.0,51,Mon Jun 11 00:24:31 +0000 2018
-151,1005968419072557056,CBS,Representing the hardest,0.0,0.0,1.0,0.0,52,Mon Jun 11 00:22:15 +0000 2018
-152,1005968418581852160,CBS,RT @misschae: I love theatre so much. #TonyAwards,0.6369,0.412,0.588,0.0,53,Mon Jun 11 00:22:15 +0000 2018
-153,1005967414159278080,CBS,On Wednesdays they wear pink and on Sundays they perform at the #TonyAwards. ,0.0,0.0,1.0,0.0,54,Mon Jun 11 00:18:16 +0000 2018
-154,1005966205054619648,CBS,RT @MichaelJMoritz: ,0.6369,0.244,0.756,0.0,55,Mon Jun 11 00:13:27 +0000 2018
-155,1005965967711657985,CBS,Andrew Garfield wins Best Leading Actor in a Play. #TonyAwards @angelsbway https://t.co/s2VQnw6IPP,0.8834,0.563,0.437,0.0,56,Mon Jun 11 00:12:31 +0000 2018
-156,1005964491224305665,CBS,"RT @nightingalen: Love this opening song! @joshgroban
+",0.7579,0.245,0.755,0.0,100,Sat Jun 09 08:52:54 +0000 2018
+100,1007314222710022145,CBS,In case you missed it,-0.296,0.0,0.833,0.167,1,Thu Jun 14 17:30:00 +0000 2018
+101,1007296491021467648,CBS,RT @StrangeAngel: Mastermind or maniac? Explore the brilliant mind of Jack Parsons in #StrangeAngel. Now streaming on CBS All Access: https,0.1779,0.147,0.734,0.12,2,Thu Jun 14 16:19:32 +0000 2018
+102,1006330083148161025,CBS,No pain,-0.5562,0.134,0.551,0.315,3,Tue Jun 12 00:19:23 +0000 2018
+103,1006300819170324480,CBS,RT @TheNeighborhood: Welcome to #TheNeighborhood,0.5093,0.171,0.829,0.0,4,Mon Jun 11 22:23:06 +0000 2018
+104,1006250118985576449,CBS,In case you missed it,-0.296,0.0,0.833,0.167,5,Mon Jun 11 19:01:38 +0000 2018
+105,1006174364700561408,CBS,How do you know @SaraBareilles and @joshgroban's music? #TonyAwards https://t.co/POMXBORfUT,0.0,0.0,1.0,0.0,6,Mon Jun 11 14:00:37 +0000 2018
+106,1006058348347830272,CBS,Here are all the performances from the 2018 #TonyAwards: https://t.co/gN4ItpFlRd https://t.co/fSMNBXKC9r,0.0,0.0,1.0,0.0,7,Mon Jun 11 06:19:36 +0000 2018
+107,1006054595372638209,CBS,See the complete list of winners from the 2018 #TonyAwards: https://t.co/9XK6CGeber https://t.co/HkUIN4Quej,0.4767,0.22,0.78,0.0,8,Mon Jun 11 06:04:41 +0000 2018
+108,1006010773292777472,CBS,An end to a magical evening. The Band's Visit wins for Best Musical! #TonyAwards https://t.co/ODza97n8YH,0.8478,0.406,0.594,0.0,9,Mon Jun 11 03:10:33 +0000 2018
+109,1006008644402438146,CBS,Congratulations are in order for @TheKatrinaLenk! She just won for Best Leading Actress in a Musical. #TonyAwards https://t.co/t9bNvpiEmH,0.92,0.463,0.537,0.0,10,Mon Jun 11 03:02:06 +0000 2018
+110,1006007741473669121,CBS,RT @CBSThisMorning: Hmm... something seems off here @SaraBareilles @JoshGroban. ,0.0,0.0,1.0,0.0,11,Mon Jun 11 02:58:30 +0000 2018
+111,1006007276820287488,CBS,RT @_stobin13: watching the #TonyAwards after going to 3 broadway shows this weekend makes it even better ,0.4404,0.153,0.847,0.0,12,Mon Jun 11 02:56:40 +0000 2018
+112,1006007152752803840,CBS,Tony Shalhoub wins Best Leading Actor in a Musical. #TonyAwards   #TheBandsVisit https://t.co/KcUDSicKI5,0.836,0.467,0.533,0.0,13,Mon Jun 11 02:56:10 +0000 2018
+113,1006006356392853504,CBS,The Boss looks right at home on the #TonyAwards stage! https://t.co/pwjv4iydkn,0.0,0.0,1.0,0.0,14,Mon Jun 11 02:53:00 +0000 2018
+114,1006004969202335744,CBS,RT @Aatamianphoto: Springsteen is on the #TonyAwards and I love it.,0.6369,0.318,0.682,0.0,15,Mon Jun 11 02:47:29 +0000 2018
+115,1006004300206575618,CBS,Inspiration: Get to your YES! #OnceOnThisIsland #TonyAwards https://t.co/Wjp0QIWfXq,0.7978,0.543,0.457,0.0,16,Mon Jun 11 02:44:50 +0000 2018
+116,1006004244384641024,CBS,The feeling when you win a Tony. ,0.9523,0.55,0.45,0.0,17,Mon Jun 11 02:44:37 +0000 2018
+117,1006001361794658304,CBS,What a beautiful performance by the cast of #TheBandsVisit. #TonyAwards https://t.co/4Hw96kZvrf,0.5994,0.302,0.698,0.0,18,Mon Jun 11 02:33:09 +0000 2018
+118,1006000391387938816,CBS,I'm a living example of how theatre can change you ,0.4215,0.123,0.877,0.0,19,Mon Jun 11 02:29:18 +0000 2018
+119,1005999041455329281,CBS,Angels in America takes the win for Best Revival of a Play! #TonyAwards https://t.co/zodW61tw8a,0.8932,0.517,0.483,0.0,20,Mon Jun 11 02:23:56 +0000 2018
+120,1005998314024677377,CBS,RT @leahableson: The Once On This Island Goat And Chicken made it to the broadcast,0.0,0.0,1.0,0.0,21,Mon Jun 11 02:21:03 +0000 2018
+121,1005997067766882304,CBS,That performance was the GOAT. #TonyAwards https://t.co/mtoU92HipQ,0.0,0.0,1.0,0.0,22,Mon Jun 11 02:16:06 +0000 2018
+122,1005995799812059136,CBS,Harry Potter and the Cursed Child wins Best Play at the #TonyAwards! @HPPlayNYC https://t.co/WIqJQmtAlN,0.8908,0.491,0.509,0.0,23,Mon Jun 11 02:11:03 +0000 2018
+123,1005994473598287872,CBS, ,0.0,0.0,1.0,0.0,24,Mon Jun 11 02:05:47 +0000 2018
+124,1005993900723482624,CBS,Hope he brought enough birthday cake for everyone! #TonyAwards https://t.co/FlLbKV6oj8,0.4926,0.262,0.738,0.0,25,Mon Jun 11 02:03:31 +0000 2018
+125,1005992717258649601,CBS,@writerlindsayb You're welcome! #TonyAwards,0.5093,0.523,0.477,0.0,26,Mon Jun 11 01:58:48 +0000 2018
+126,1005991328277094401,CBS,RT @hjmayer8: I sure do love @DearEvanHansen ,0.7579,0.565,0.435,0.0,27,Mon Jun 11 01:53:17 +0000 2018
+127,1005990820535660544,CBS,RT @Valerie4815: What a birthday present,0.6467,0.248,0.752,0.0,28,Mon Jun 11 01:51:16 +0000 2018
+128,1005987576509894657,CBS,If only this performance could go on forever. #TonyAwards @FrozenBroadway https://t.co/p2BMUvyTxr,0.0,0.0,1.0,0.0,29,Mon Jun 11 01:38:23 +0000 2018
+129,1005987381843931138,CBS,RT @anna_villanueva: Magnificent performance from the cast of @FrozenBroadway! #TonyAwards2018 #TonyAwards #Tonys,0.636,0.276,0.724,0.0,30,Mon Jun 11 01:37:36 +0000 2018
+130,1005985702780198913,CBS,Glenda Jackson wins Best Leading Actress in a Play. #TonyAwards @threetallwomen https://t.co/GRp1gcBuiW,0.8834,0.563,0.437,0.0,31,Mon Jun 11 01:30:56 +0000 2018
+131,1005985305164279808,CBS,.@SaraBareilles is totally a Gryffindor. #TonyAwards https://t.co/OPQ7esk2dn,0.0,0.0,1.0,0.0,32,Mon Jun 11 01:29:21 +0000 2018
+132,1005984473362518016,CBS,RT @IzzyNY202: How impressive are these Marjory Stoneman Douglas students? That #TonyAwards performance reduced me to tears. Amazing.,0.7351,0.296,0.625,0.079,33,Mon Jun 11 01:26:03 +0000 2018
+133,1005984457810051072,CBS,RT @KatLargent: MAGIC #TonyAwards,0.0,0.0,1.0,0.0,34,Mon Jun 11 01:25:59 +0000 2018
+134,1005984149797154816,CBS,Such a touching moment at the #TonyAwards. ,0.0,0.0,1.0,0.0,35,Mon Jun 11 01:24:46 +0000 2018
+135,1005984006565793792,CBS,.@Matt_Morrison welcomes the Marjory Stoneman Douglas High School theatre department to the stage. #TonyAwards https://t.co/5dxa9smeka,0.4019,0.162,0.838,0.0,36,Mon Jun 11 01:24:12 +0000 2018
+136,1005982948745609216,CBS,So many feels at the #TonyAwards. Congratulations to @arielstachel for winning Best Featured Actor in a Musical!,0.9151,0.457,0.543,0.0,37,Mon Jun 11 01:19:59 +0000 2018
+137,1005981070095888384,CBS,RT @McBenefit: I love everything about you @UzoAduba. #TonyAwards,0.6369,0.375,0.625,0.0,38,Mon Jun 11 01:12:31 +0000 2018
+138,1005980047516188672,CBS,RT if that musical number by the cast of Carousel blew you away! #TonyAwards https://t.co/CMzMNtcAQO,0.1511,0.102,0.898,0.0,39,Mon Jun 11 01:08:28 +0000 2018
+139,1005980030449508353,CBS,Nathan Lane saw his #AngelsinAmerica role as a challenge. How will you challenge yourself in 2018? #TonyAwards https://t.co/3WXd6AqgBi,0.1531,0.148,0.852,0.0,40,Mon Jun 11 01:08:24 +0000 2018
+140,1005978618554535937,CBS,Nathan Lane wins Best Featured Actor in a Play. #TonyAwards @angelsbway https://t.co/xc8M7JtLDE,0.8834,0.563,0.437,0.0,41,Mon Jun 11 01:02:47 +0000 2018
+141,1005977438969458688,CBS, @joshgroban and @SaraBareilles are Host Goals. ,0.0,0.0,1.0,0.0,42,Mon Jun 11 00:58:06 +0000 2018
+142,1005976046405992449,CBS,RT @adub369: This is unbelievable! @SaraBareilles and @joshgroban #TonyAwards,0.2714,0.207,0.793,0.0,43,Mon Jun 11 00:52:34 +0000 2018
+143,1005975699272814592,CBS,Who lives in a pineapple and just performed at The Tonys? ,0.0,0.0,1.0,0.0,44,Mon Jun 11 00:51:11 +0000 2018
+144,1005975478300110848,CBS, @LindsayMendez wins Best Featured Actress in a Musical! #TonyAwards @carouselbway https://t.co/MtgFowscN5,0.8478,0.506,0.494,0.0,45,Mon Jun 11 00:50:18 +0000 2018
+145,1005974199880445952,CBS,A big congratulations to @springsteen for his Special Tony award! ,0.8858,0.565,0.435,0.0,46,Mon Jun 11 00:45:14 +0000 2018
+146,1005974043713912832,CBS,Can the 73rd annual #TonyAwards just be three,0.0,0.0,1.0,0.0,47,Mon Jun 11 00:44:36 +0000 2018
+147,1005971798687506432,CBS,RT @CBSThisMorning: ,0.25,0.08,0.92,0.0,48,Mon Jun 11 00:35:41 +0000 2018
+148,1005971562032328704,CBS,Keep your acceptance speeches short or else the #TonyAwards will get the angels involved. #AngelsInAmerica ,0.4588,0.167,0.833,0.0,49,Mon Jun 11 00:34:45 +0000 2018
+149,1005970736844947457,CBS,If you haven't started singing,0.0,0.0,1.0,0.0,50,Mon Jun 11 00:31:28 +0000 2018
+150,1005969788911276032,CBS,RT @marialena_rago: I like this opener for @MyFairLadyBway #TonyAwards,0.3612,0.263,0.737,0.0,51,Mon Jun 11 00:27:42 +0000 2018
+151,1005969613069275136,CBS,Laurie Metcalf wins Best Featured Actress in a Play! #TonyAwards @threetallwomen https://t.co/y4teyJaRPs,0.8908,0.57,0.43,0.0,52,Mon Jun 11 00:27:00 +0000 2018
+152,1005968989724405760,CBS,Tina Fey has a boat?? #MeanGirls #TonyAwards https://t.co/phYxmHMd3d,0.0,0.0,1.0,0.0,53,Mon Jun 11 00:24:31 +0000 2018
+153,1005968419072557056,CBS,Representing the hardest,0.0,0.0,1.0,0.0,54,Mon Jun 11 00:22:15 +0000 2018
+154,1005968418581852160,CBS,RT @misschae: I love theatre so much. #TonyAwards,0.6369,0.412,0.588,0.0,55,Mon Jun 11 00:22:15 +0000 2018
+155,1005967414159278080,CBS,On Wednesdays they wear pink and on Sundays they perform at the #TonyAwards. ,0.0,0.0,1.0,0.0,56,Mon Jun 11 00:18:16 +0000 2018
+156,1005966205054619648,CBS,RT @MichaelJMoritz: ,0.6369,0.244,0.756,0.0,57,Mon Jun 11 00:13:27 +0000 2018
+157,1005965967711657985,CBS,Andrew Garfield wins Best Leading Actor in a Play. #TonyAwards @angelsbway https://t.co/s2VQnw6IPP,0.8834,0.563,0.437,0.0,58,Mon Jun 11 00:12:31 +0000 2018
+158,1005964491224305665,CBS,"RT @nightingalen: Love this opening song! @joshgroban
 @SaraBarreilles 
-#TonyAwards",0.6696,0.36,0.64,0.0,57,Mon Jun 11 00:06:39 +0000 2018
-157,1005963888188198912,CBS, @joshgroban and @SaraBareilles take the stage to begin an unforgettable evening. #TonyAwards https://t.co/y9uzlK2DzO,0.0,0.0,1.0,0.0,58,Mon Jun 11 00:04:15 +0000 2018
-158,1005962567041404928,CBS,Grab your popcorn... it's time for the #TonyAwards! Go and stream the entire show now: https://t.co/Wo1algQHix https://t.co/JGYTk4NPDN,0.0,0.0,1.0,0.0,59,Sun Jun 10 23:59:00 +0000 2018
-159,1005952311015821312,CBS, @thegoodfight's Christine Baranski has arrived on the #TonyAwards red carpet! Watch LIVE at 8/7c on CBS! https://t.co/XnXAnPtRrc,0.0,0.0,1.0,0.0,60,Sun Jun 10 23:18:15 +0000 2018
-160,1005932975769280512,CBS,The hosts have arrived! We're LIVE with @SaraBareilles,0.0,0.0,1.0,0.0,61,Sun Jun 10 22:01:25 +0000 2018
-161,1005826925560922120,CBS,Tonight's the night! Join @etnow's @DDirecto on the #TonyAwards' red carpet starting at 5PM ET! https://t.co/hZLOSiIRAT,0.4184,0.157,0.843,0.0,62,Sun Jun 10 15:00:01 +0000 2018
-162,1005555138814193664,CBS,These two know a thing or two about awards! Watch them light up the stage tomorrow at the #TonyAwards. ,0.5093,0.155,0.845,0.0,63,Sat Jun 09 21:00:02 +0000 2018
-163,1005479633943314433,CBS,Here's everything you need to know before watching the #TonyAwards this Sunday at 8/7c: https://t.co/jcRgNGmLUZ https://t.co/8suUhVPFK6,0.0,0.0,1.0,0.0,64,Sat Jun 09 16:00:00 +0000 2018
-164,1005174193866997760,CBS,Join @etnow's @DDirecto this Sunday on the #TonyAwards' red carpet. https://t.co/7jS8g10KmY,0.296,0.18,0.82,0.0,65,Fri Jun 08 19:46:17 +0000 2018
-165,1005102158696640515,CBS,Here's @laChanze with a reminder that you can stream the #TonyAwards this Sunday on CBS All Access! https://t.co/8TDEXzKmyQ,0.0,0.0,1.0,0.0,66,Fri Jun 08 15:00:03 +0000 2018
-166,1005086606695337985,CBS,We all get by with a little help from our friends,0.9078,0.436,0.564,0.0,67,Fri Jun 08 13:58:15 +0000 2018
-167,1004770820760092673,CBS,Get ready for show,0.3612,0.128,0.872,0.0,68,Thu Jun 07 17:03:26 +0000 2018
-168,1004468068834148352,CBS,Don,0.2732,0.176,0.719,0.105,69,Wed Jun 06 21:00:24 +0000 2018
-169,1004153017946370048,CBS,"RT @CBSThisMorning: .@SaraBareilles and @joshgroban are hosting this Sunday's @TheTonyAwards on @CBS! 
+#TonyAwards",0.6696,0.36,0.64,0.0,59,Mon Jun 11 00:06:39 +0000 2018
+159,1005963888188198912,CBS, @joshgroban and @SaraBareilles take the stage to begin an unforgettable evening. #TonyAwards https://t.co/y9uzlK2DzO,0.0,0.0,1.0,0.0,60,Mon Jun 11 00:04:15 +0000 2018
+160,1005962567041404928,CBS,Grab your popcorn... it's time for the #TonyAwards! Go and stream the entire show now: https://t.co/Wo1algQHix https://t.co/JGYTk4NPDN,0.0,0.0,1.0,0.0,61,Sun Jun 10 23:59:00 +0000 2018
+161,1005952311015821312,CBS, @thegoodfight's Christine Baranski has arrived on the #TonyAwards red carpet! Watch LIVE at 8/7c on CBS! https://t.co/XnXAnPtRrc,0.0,0.0,1.0,0.0,62,Sun Jun 10 23:18:15 +0000 2018
+162,1005932975769280512,CBS,The hosts have arrived! We're LIVE with @SaraBareilles,0.0,0.0,1.0,0.0,63,Sun Jun 10 22:01:25 +0000 2018
+163,1005826925560922120,CBS,Tonight's the night! Join @etnow's @DDirecto on the #TonyAwards' red carpet starting at 5PM ET! https://t.co/hZLOSiIRAT,0.4184,0.157,0.843,0.0,64,Sun Jun 10 15:00:01 +0000 2018
+164,1005555138814193664,CBS,These two know a thing or two about awards! Watch them light up the stage tomorrow at the #TonyAwards. ,0.5093,0.155,0.845,0.0,65,Sat Jun 09 21:00:02 +0000 2018
+165,1005479633943314433,CBS,Here's everything you need to know before watching the #TonyAwards this Sunday at 8/7c: https://t.co/jcRgNGmLUZ https://t.co/8suUhVPFK6,0.0,0.0,1.0,0.0,66,Sat Jun 09 16:00:00 +0000 2018
+166,1005174193866997760,CBS,Join @etnow's @DDirecto this Sunday on the #TonyAwards' red carpet. https://t.co/7jS8g10KmY,0.296,0.18,0.82,0.0,67,Fri Jun 08 19:46:17 +0000 2018
+167,1005102158696640515,CBS,Here's @laChanze with a reminder that you can stream the #TonyAwards this Sunday on CBS All Access! https://t.co/8TDEXzKmyQ,0.0,0.0,1.0,0.0,68,Fri Jun 08 15:00:03 +0000 2018
+168,1005086606695337985,CBS,We all get by with a little help from our friends,0.9078,0.436,0.564,0.0,69,Fri Jun 08 13:58:15 +0000 2018
+169,1004770820760092673,CBS,Get ready for show,0.3612,0.128,0.872,0.0,70,Thu Jun 07 17:03:26 +0000 2018
+170,1004468068834148352,CBS,Don,0.2732,0.176,0.719,0.105,71,Wed Jun 06 21:00:24 +0000 2018
+171,1004153017946370048,CBS,"RT @CBSThisMorning: .@SaraBareilles and @joshgroban are hosting this Sunday's @TheTonyAwards on @CBS! 
 
-Wednesday",0.3595,0.128,0.872,0.0,70,Wed Jun 06 00:08:30 +0000 2018
-170,1004126616803422208,CBS,RT @SU2C: SU2C telecast Co,-0.4404,0.1,0.723,0.177,71,Tue Jun 05 22:23:35 +0000 2018
-171,1004123819211042817,CBS,RT @StrangeAngel: About last night... The #StrangeAngel screening party was a blast! Pun intended. ,0.4574,0.176,0.824,0.0,72,Tue Jun 05 22:12:28 +0000 2018
-172,1004075391479402496,CBS,These CBS stars can really belt it out! Find out which celebs from your favorite shows are pitch,0.5093,0.155,0.845,0.0,73,Tue Jun 05 19:00:02 +0000 2018
-173,1004016163968307200,CBS,More stars are set to appear at the #TonyAwards,0.0,0.0,1.0,0.0,74,Tue Jun 05 15:04:41 +0000 2018
-174,1003682794562674688,CBS,The #TonyAwards are just days away,0.0,0.0,1.0,0.0,75,Mon Jun 04 17:00:00 +0000 2018
-175,1002605516328034304,CBS,Call us old,-0.3903,0.062,0.807,0.131,76,Fri Jun 01 17:39:17 +0000 2018
-176,1002595642093563904,CBS,Remember @Lin_Manuel,0.8442,0.336,0.664,0.0,77,Fri Jun 01 17:00:03 +0000 2018
-177,1002336423436054528,CBS,Good friends @joshgroban and @SaraBareilles are hosting the #TonyAwards together? Well,0.8932,0.455,0.545,0.0,78,Thu May 31 23:50:00 +0000 2018
-178,1001842559595954176,CBS,The #TonyAwards just got even better because @UzoAduba,0.4926,0.151,0.849,0.0,79,Wed May 30 15:07:34 +0000 2018
-179,1001206480144687105,CBS,Mark your calendars. @SalvationCBS returns Monday,0.0,0.0,1.0,0.0,80,Mon May 28 21:00:01 +0000 2018
-180,1000921679684485120,CBS,RT @thegoodfight: All episodes of season 2 are now available. Stream #TheGoodFight on CBS All Access: https://t.co/k3tn8kR9KC https://t.co/,0.0,0.0,1.0,0.0,81,Mon May 28 02:08:19 +0000 2018
-181,999426657399095296,CBS,Get the popcorn ready! ,0.6239,0.211,0.789,0.0,82,Wed May 23 23:07:38 +0000 2018
-182,999365022940676097,CBS,RT @StrangeAngel: Every brilliant mind has a dark side. #StrangeAngel launches June 14,0.5859,0.174,0.826,0.0,83,Wed May 23 19:02:43 +0000 2018
-183,999067300127850497,CBS,Prepare yourself. The @NCIS_CBS season finale is unlike any other. Don't miss it TONIGHT at 8/7c. https://t.co/MOH6uiFc0C,0.1139,0.083,0.917,0.0,84,Tue May 22 23:19:40 +0000 2018
-184,999017646166233088,CBS,Summer heats up with @CBSBigBrother,0.0,0.0,1.0,0.0,85,Tue May 22 20:02:22 +0000 2018
-185,998699964833390592,CBS,Who,0.0,0.0,1.0,0.0,86,Mon May 21 23:00:01 +0000 2018
-186,998292275850555392,CBS,The season finale of @MadamSecretary will leave you speechless! Make sure to tune in tonight at 10/9c. https://t.co/hqxkLZsWpl,0.3382,0.131,0.808,0.061,87,Sun May 20 20:00:00 +0000 2018
-187,998246979892211712,CBS,The @NCISLA season finale is going to be a wild ride. Don't miss all of the action starting TONIGHT at 8/7c! https://t.co/PNtUuVf9VQ,0.1867,0.08,0.92,0.0,88,Sun May 20 17:00:01 +0000 2018
-188,997748696946163712,CBS,Retweet if you're ready for the #RoyalWedding! https://t.co/k57NM7OrXn,0.4199,0.285,0.715,0.0,89,Sat May 19 08:00:01 +0000 2018
-189,997582601476083713,CBS,It's going down ,0.0,0.0,1.0,0.0,90,Fri May 18 21:00:01 +0000 2018
-190,997476916717412353,CBS,The #RoyalWedding is finally here,0.3595,0.151,0.849,0.0,91,Fri May 18 14:00:03 +0000 2018
-191,997261595267907586,CBS,When the @LifeInPiecesCBS season finale is back,0.7177,0.285,0.715,0.0,92,Thu May 17 23:44:27 +0000 2018
-192,997225239388946432,CBS,Rules were made to be broken.,0.1867,0.093,0.907,0.0,93,Thu May 17 21:19:59 +0000 2018
-193,997193244340502528,CBS,"Is it fall yet? Check out the first looks at our new fall shows and stars from the CBS Upfront!
+Wednesday",0.3595,0.128,0.872,0.0,72,Wed Jun 06 00:08:30 +0000 2018
+172,1004126616803422208,CBS,RT @SU2C: SU2C telecast Co,-0.4404,0.1,0.723,0.177,73,Tue Jun 05 22:23:35 +0000 2018
+173,1004123819211042817,CBS,RT @StrangeAngel: About last night... The #StrangeAngel screening party was a blast! Pun intended. ,0.4574,0.176,0.824,0.0,74,Tue Jun 05 22:12:28 +0000 2018
+174,1004075391479402496,CBS,These CBS stars can really belt it out! Find out which celebs from your favorite shows are pitch,0.5093,0.155,0.845,0.0,75,Tue Jun 05 19:00:02 +0000 2018
+175,1004016163968307200,CBS,More stars are set to appear at the #TonyAwards,0.0,0.0,1.0,0.0,76,Tue Jun 05 15:04:41 +0000 2018
+176,1003682794562674688,CBS,The #TonyAwards are just days away,0.0,0.0,1.0,0.0,77,Mon Jun 04 17:00:00 +0000 2018
+177,1002605516328034304,CBS,Call us old,-0.3903,0.062,0.807,0.131,78,Fri Jun 01 17:39:17 +0000 2018
+178,1002595642093563904,CBS,Remember @Lin_Manuel,0.8442,0.336,0.664,0.0,79,Fri Jun 01 17:00:03 +0000 2018
+179,1002336423436054528,CBS,Good friends @joshgroban and @SaraBareilles are hosting the #TonyAwards together? Well,0.8932,0.455,0.545,0.0,80,Thu May 31 23:50:00 +0000 2018
+180,1001842559595954176,CBS,The #TonyAwards just got even better because @UzoAduba,0.4926,0.151,0.849,0.0,81,Wed May 30 15:07:34 +0000 2018
+181,1001206480144687105,CBS,Mark your calendars. @SalvationCBS returns Monday,0.0,0.0,1.0,0.0,82,Mon May 28 21:00:01 +0000 2018
+182,1000921679684485120,CBS,RT @thegoodfight: All episodes of season 2 are now available. Stream #TheGoodFight on CBS All Access: https://t.co/k3tn8kR9KC https://t.co/,0.0,0.0,1.0,0.0,83,Mon May 28 02:08:19 +0000 2018
+183,999426657399095296,CBS,Get the popcorn ready! ,0.6239,0.211,0.789,0.0,84,Wed May 23 23:07:38 +0000 2018
+184,999365022940676097,CBS,RT @StrangeAngel: Every brilliant mind has a dark side. #StrangeAngel launches June 14,0.5859,0.174,0.826,0.0,85,Wed May 23 19:02:43 +0000 2018
+185,999067300127850497,CBS,Prepare yourself. The @NCIS_CBS season finale is unlike any other. Don't miss it TONIGHT at 8/7c. https://t.co/MOH6uiFc0C,0.1139,0.083,0.917,0.0,86,Tue May 22 23:19:40 +0000 2018
+186,999017646166233088,CBS,Summer heats up with @CBSBigBrother,0.0,0.0,1.0,0.0,87,Tue May 22 20:02:22 +0000 2018
+187,998699964833390592,CBS,Who,0.0,0.0,1.0,0.0,88,Mon May 21 23:00:01 +0000 2018
+188,998292275850555392,CBS,The season finale of @MadamSecretary will leave you speechless! Make sure to tune in tonight at 10/9c. https://t.co/hqxkLZsWpl,0.3382,0.131,0.808,0.061,89,Sun May 20 20:00:00 +0000 2018
+189,998246979892211712,CBS,The @NCISLA season finale is going to be a wild ride. Don't miss all of the action starting TONIGHT at 8/7c! https://t.co/PNtUuVf9VQ,0.1867,0.08,0.92,0.0,90,Sun May 20 17:00:01 +0000 2018
+190,997748696946163712,CBS,Retweet if you're ready for the #RoyalWedding! https://t.co/k57NM7OrXn,0.4199,0.285,0.715,0.0,91,Sat May 19 08:00:01 +0000 2018
+191,997582601476083713,CBS,It's going down ,0.0,0.0,1.0,0.0,92,Fri May 18 21:00:01 +0000 2018
+192,997476916717412353,CBS,The #RoyalWedding is finally here,0.3595,0.151,0.849,0.0,93,Fri May 18 14:00:03 +0000 2018
+193,997261595267907586,CBS,When the @LifeInPiecesCBS season finale is back,0.7177,0.285,0.715,0.0,94,Thu May 17 23:44:27 +0000 2018
+194,997225239388946432,CBS,Rules were made to be broken.,0.1867,0.093,0.907,0.0,95,Thu May 17 21:19:59 +0000 2018
+195,997193244340502528,CBS,"Is it fall yet? Check out the first looks at our new fall shows and stars from the CBS Upfront!
 
-https://t.co/l7GQVRzRFw",0.0,0.0,1.0,0.0,94,Thu May 17 19:12:51 +0000 2018
-194,997099417327947777,CBS,How many shows can you binge in a month? Find out with a 1 month free trial of CBS All Access! Use code STREAMITALL,0.5562,0.146,0.854,0.0,95,Thu May 17 13:00:00 +0000 2018
-195,996903122458021889,CBS,Save the dates! The CBS Fall lineup is here,0.75,0.242,0.758,0.0,96,Thu May 17 00:00:00 +0000 2018
-196,996887116549210112,CBS,What happens when the friendliest guy in the Midwest moves his family next door to a not,0.5574,0.159,0.841,0.0,97,Wed May 16 22:56:24 +0000 2018
-197,996887115425198080,CBS,When @MurphyBrownCBS returns to the news world,0.3802,0.11,0.89,0.0,98,Wed May 16 22:56:24 +0000 2018
-198,996887114309558272,CBS,When decorated former Navy SEAL Thomas Magnum returns home to Hawaii,0.34,0.112,0.888,0.0,99,Wed May 16 22:56:23 +0000 2018
-199,996887113151868928,CBS,The ordinary turns extraordinary for this suburban couple when an exuberant young pop star unexpectedly moves in wi,0.5859,0.174,0.826,0.0,100,Wed May 16 22:56:23 +0000 2018
-200,1006708243211653120,CNN,Dozens of students and activists lay still near the US Capitol for 12 minutes,0.0,0.0,1.0,0.0,1,Wed Jun 13 01:22:03 +0000 2018
-201,1006707928974405633,CNN,Corey Stewart,0.765,0.292,0.708,0.0,2,Wed Jun 13 01:20:48 +0000 2018
-202,1006705225141571584,CNN,One of the Department of Justice attorneys who withdrew from an ongoing case over the Affordable Care Act just befo,0.765,0.258,0.742,0.0,3,Wed Jun 13 01:10:04 +0000 2018
-203,1006703987280793600,CNN,Shares in Chinese tech company ZTE are set to resume trading in Hong Kong after the company reached a deal with the,0.3818,0.153,0.847,0.0,4,Wed Jun 13 01:05:08 +0000 2018
-204,1006703136499781632,CNN,RT @OutFrontCNN: Idaho's Republican Sen. Jim Risch tells CNN's @ErinBurnett the US would not make a nuclear agreement with North Korea with,-0.3875,0.0,0.884,0.116,5,Wed Jun 13 01:01:46 +0000 2018
-205,1006702972330536960,CNN,AT,0.0,0.0,1.0,0.0,6,Wed Jun 13 01:01:06 +0000 2018
-206,1006701463014445061,CNN,We are going to have verification,0.0,0.0,1.0,0.0,7,Wed Jun 13 00:55:07 +0000 2018
-207,1006700755787636736,CNN,RT @OutFrontCNN: Republican Scott Jennings on Corker amendment: ,0.0,0.0,1.0,0.0,8,Wed Jun 13 00:52:18 +0000 2018
-208,1006700487905665024,CNN,Sen. Lindsey Graham on Kim Jong Un: ,0.8126,0.27,0.73,0.0,9,Wed Jun 13 00:51:14 +0000 2018
-209,1006700451549638656,CNN,Sen. Robert Menendez criticized the joint statement President Donald Trump and North Korean leader Kim Jong Un issu,-0.3612,0.0,0.878,0.122,10,Wed Jun 13 00:51:05 +0000 2018
-210,1006699470392778752,CNN,GOP Sen. Lindsey Graham: President Trump is trying to do everything he can to avoid a war that nobody wants,-0.7269,0.0,0.747,0.253,11,Wed Jun 13 00:47:11 +0000 2018
-211,1006697948258893824,CNN,Macedonia reaches a name change deal with Greece https://t.co/sIPBCQ4lm0 via @CNNTravel https://t.co/W1OZ7VAzPH,0.0516,0.107,0.893,0.0,12,Wed Jun 13 00:41:09 +0000 2018
-212,1006696679674871808,CNN,Former FBI Deputy Director Andrew McCabe is suing the Department of Justice,0.3182,0.145,0.766,0.089,13,Wed Jun 13 00:36:06 +0000 2018
-213,1006695415763304448,CNN,Justice Sotomayor is raising her voice for what's right ,0.5267,0.185,0.815,0.0,14,Wed Jun 13 00:31:05 +0000 2018
-214,1006694905547247616,CNN,RT @AC360: ,0.0,0.0,1.0,0.0,15,Wed Jun 13 00:29:03 +0000 2018
-215,1006694777851527168,CNN,CNN,0.5106,0.13,0.87,0.0,16,Wed Jun 13 00:28:33 +0000 2018
-216,1006693885387722752,CNN,Watch this meteorologist solve a Rubik,0.4939,0.276,0.724,0.0,17,Wed Jun 13 00:25:00 +0000 2018
-217,1006692887592161280,CNN,Rep. David Valadao confirmed that his family was no longer operating their dairy farm after the Los Angeles Times r,-0.296,0.0,0.901,0.099,18,Wed Jun 13 00:21:02 +0000 2018
-218,1006690377334747137,CNN,Democratic Sen. Claire McCaskill,-0.0258,0.07,0.854,0.075,19,Wed Jun 13 00:11:04 +0000 2018
-219,1006687876497788929,CNN,Americans have long hoped for a peaceful denuclearization of North Korea,0.7003,0.326,0.674,0.0,20,Wed Jun 13 00:01:07 +0000 2018
-220,1006687839780732928,CNN,RT @OutFrontCNN: ,-0.3071,0.0,0.914,0.086,21,Wed Jun 13 00:00:59 +0000 2018
-221,1006685113919385605,CNN,The peculiar endorsement 'strategy' of Donald Trump ,0.4404,0.281,0.719,0.0,22,Tue Jun 12 23:50:09 +0000 2018
-222,1006682598955941889,CNN,President Donald Trump and North Korean leader Kim Jong Un recommitted to recovering and immediately repatriating t,0.0,0.0,1.0,0.0,23,Tue Jun 12 23:40:09 +0000 2018
-223,1006681341826686977,CNN,President Donald Trump's announcement that the US will stop military exercises with South Korea startled Tokyo and,-0.4404,0.0,0.804,0.196,24,Tue Jun 12 23:35:09 +0000 2018
-224,1006680571353948161,CNN,RT @OutFrontCNN: President Trump ,-0.4019,0.0,0.891,0.109,25,Tue Jun 12 23:32:06 +0000 2018
-225,1006680103127060482,CNN,A US Navy ship rescued 40 migrants off the coast of Libya Tuesday,0.4215,0.141,0.859,0.0,26,Tue Jun 12 23:30:14 +0000 2018
-226,1006678872719585280,CNN,RT @CNNSitRoom: Jared Kushner and Ivanka Trump,0.4939,0.138,0.862,0.0,27,Tue Jun 12 23:25:21 +0000 2018
-227,1006678785918304256,CNN,Don,0.0,0.0,1.0,0.0,28,Tue Jun 12 23:25:00 +0000 2018
-228,1006678761595719684,CNN,Polls close in South Carolina and Virginia as 5 states hold primary elections https://t.co/Dj6ahskKt2 https://t.co/QYWpiM4Ypt,0.0,0.0,1.0,0.0,29,Tue Jun 12 23:24:54 +0000 2018
-229,1006678191703035904,CNN,RT @OutFrontCNN: ,0.5106,0.163,0.837,0.0,30,Tue Jun 12 23:22:38 +0000 2018
-230,1006677560045047810,CNN,Point/CounterPoint: Maine's ,-0.4215,0.0,0.851,0.149,31,Tue Jun 12 23:20:08 +0000 2018
-231,1006676304786272258,CNN,National Economic Council director Larry Kudlow is continuing to recover from a mild heart attack,-0.4767,0.0,0.846,0.154,32,Tue Jun 12 23:15:08 +0000 2018
-232,1006674819918848001,CNN,The Puerto Rican government has released to CNN and another news organization a database of information on all deat,0.0,0.0,1.0,0.0,33,Tue Jun 12 23:09:14 +0000 2018
-233,1006672536917217280,CNN,President Donald Trump is promising soccer's international governing body that foreign teams,0.4019,0.144,0.856,0.0,34,Tue Jun 12 23:00:10 +0000 2018
-234,1006671208983642112,CNN,Sen. Robert Menendez criticized the joint statement US President Donald Trump and North Korean leader Kim Jong Un i,-0.3612,0.0,0.884,0.116,35,Tue Jun 12 22:54:53 +0000 2018
-235,1006670747295731712,CNN,Las Vegas and Charlotte are the two frontrunners to host the Republican National Convention in 2020,0.0,0.0,1.0,0.0,36,Tue Jun 12 22:53:03 +0000 2018
-236,1006670611849142272,CNN,RT @CNNSitRoom: First North Korean state,0.0,0.0,1.0,0.0,37,Tue Jun 12 22:52:31 +0000 2018
-237,1006669668625641472,CNN,Was Trump a factor in the the AT,0.4588,0.13,0.87,0.0,38,Tue Jun 12 22:48:46 +0000 2018
-238,1006667481916768257,CNN,Deputy Attorney General Rod Rosenstein's ongoing battle with House Republicans reached new heights as he threatened,-0.296,0.074,0.789,0.137,39,Tue Jun 12 22:40:05 +0000 2018
-239,1006666202897211392,CNN,Christian Louboutin has claimed victory in a legal battle over its signature red,-0.2732,0.088,0.76,0.152,40,Tue Jun 12 22:35:00 +0000 2018
-240,1006665003443900416,CNN,President Donald Trump slammed actor Robert De Niro in a series of tweets while returning to the US from Singapore,0.0,0.0,1.0,0.0,41,Tue Jun 12 22:30:14 +0000 2018
-241,1006663686671552512,CNN,President Trump pitched a message of peace between the United States and North Korea by showing North Korean dictat,0.743,0.27,0.73,0.0,42,Tue Jun 12 22:25:00 +0000 2018
-242,1006662453298651137,CNN,As the Trump administration's zero,0.0,0.0,1.0,0.0,43,Tue Jun 12 22:20:06 +0000 2018
-243,1006659933537013761,CNN,After a historic summit in Singapore,-0.34,0.0,0.882,0.118,44,Tue Jun 12 22:10:05 +0000 2018
-244,1006658702865326080,CNN,President Donald Trump tweeted out his picks in two primary races,0.0,0.0,1.0,0.0,45,Tue Jun 12 22:05:12 +0000 2018
-245,1006658613581172737,CNN,RT @CNNSitRoom: CNN's @BarbaraStarrCNN presents the Pentagon's reaction to the summit: ,0.0,0.0,1.0,0.0,46,Tue Jun 12 22:04:50 +0000 2018
-246,1006657471287619585,CNN,What really came out of the Trump,0.0,0.0,1.0,0.0,47,Tue Jun 12 22:00:18 +0000 2018
-247,1006654904260354051,CNN,The government of Norway has approved approximately 400 additional US Marines to be posted to Norway,0.4215,0.135,0.865,0.0,48,Tue Jun 12 21:50:06 +0000 2018
-248,1006653650670940160,CNN,Seattle just killed the controversial ,-0.6808,0.089,0.579,0.332,49,Tue Jun 12 21:45:07 +0000 2018
-249,1006653027216953345,CNN,RT @CNNSitRoom: Senator Ben Cardin: ,0.7615,0.255,0.745,0.0,50,Tue Jun 12 21:42:39 +0000 2018
-250,1006652407810535425,CNN,Häagen,0.0,0.0,1.0,0.0,51,Tue Jun 12 21:40:11 +0000 2018
-251,1006651137091624961,CNN,Less than three hours before South Carolina's primary polls close,0.0,0.0,1.0,0.0,52,Tue Jun 12 21:35:08 +0000 2018
-252,1006650704885370880,CNN,RT @CNNSitRoom: What does the AT,0.0,0.0,1.0,0.0,53,Tue Jun 12 21:33:25 +0000 2018
-253,1006649863294111744,CNN,The Ohio voting rights decision is not a green light for reckless voter purges ,-0.4019,0.0,0.876,0.124,54,Tue Jun 12 21:30:04 +0000 2018
-254,1006648586724171777,CNN,Republican Sen. Bob Corker slams his GOP colleagues,-0.128,0.108,0.763,0.129,55,Tue Jun 12 21:25:00 +0000 2018
-255,1006647342538416128,CNN,Mueller's office is asking a federal judge for an order that would lock down documents shared with a Russian compan,0.34,0.118,0.882,0.0,56,Tue Jun 12 21:20:03 +0000 2018
-256,1006646588461027328,CNN,The DOJ says the government was disappointed in the AT,-0.4767,0.0,0.86,0.14,57,Tue Jun 12 21:17:03 +0000 2018
-257,1006646070120611840,CNN,Meet Porsche's first fully electric car: The Taycan. With a top speed of 155 miles per hour,0.2023,0.076,0.924,0.0,58,Tue Jun 12 21:15:00 +0000 2018
-258,1006644837226033152,CNN,2 names that explain why Republican politicians are afraid of criticizing Donald Trump ,-0.3612,0.0,0.857,0.143,59,Tue Jun 12 21:10:06 +0000 2018
-259,1006644001481678848,CNN,RT @TheLeadCNN: The DOJ's top antitrust official,-0.3182,0.075,0.795,0.13,60,Tue Jun 12 21:06:47 +0000 2018
-260,1006642339736182785,CNN,We might poke the bear!,0.2003,0.135,0.766,0.099,61,Tue Jun 12 21:00:10 +0000 2018
-261,1006641996411400193,CNN,A judge rules AT,0.0,0.0,1.0,0.0,62,Tue Jun 12 20:58:49 +0000 2018
-262,1006640832311463936,CNN,BREAKING: A federal judge has ruled that AT,0.0,0.0,1.0,0.0,63,Tue Jun 12 20:54:11 +0000 2018
-263,1006639815700475906,CNN,The FBI agent who unintentionally shot someone while dancing in a Denver bar has turned himself in to police and is,0.0,0.0,1.0,0.0,64,Tue Jun 12 20:50:09 +0000 2018
-264,1006637289827651584,CNN,Bringing tamales and a whole team of volunteers,0.0,0.0,1.0,0.0,65,Tue Jun 12 20:40:06 +0000 2018
-265,1006636903033135104,CNN,RT @TheLeadCNN: Sen. Bob Menendez says Trump achieved ,0.0,0.0,1.0,0.0,66,Tue Jun 12 20:38:34 +0000 2018
-266,1006635272577175554,CNN,A grandma irons her granddaughter's Pride flag,0.34,0.179,0.821,0.0,67,Tue Jun 12 20:32:06 +0000 2018
-267,1006633507253374976,CNN,Canada's House of Commons voted to send a symbolic message to the United States,0.4215,0.141,0.859,0.0,68,Tue Jun 12 20:25:05 +0000 2018
-268,1006631744118972417,CNN,The case of the curiously compelling Dennis Rodman,0.2263,0.128,0.872,0.0,69,Tue Jun 12 20:18:04 +0000 2018
-269,1006630971783958535,CNN,Folk singer Joni Mitchell wrote the song ,0.0,0.0,1.0,0.0,70,Tue Jun 12 20:15:00 +0000 2018
-270,1006629742911598593,CNN,The French photographer at the center of a sexual harassment scandal that forced the postponement of this year's No,-0.8555,0.0,0.63,0.37,71,Tue Jun 12 20:10:07 +0000 2018
-271,1006628454396129280,CNN,Netflix is now worth more than Disney. It,0.5859,0.27,0.73,0.0,72,Tue Jun 12 20:05:00 +0000 2018
-272,1006627255014055939,CNN,Seattle's controversial new ,-0.0129,0.068,0.861,0.071,73,Tue Jun 12 20:00:14 +0000 2018
-273,1006625207753330688,CNN,After his expletive,0.0258,0.148,0.71,0.142,74,Tue Jun 12 19:52:06 +0000 2018
-274,1006623938917609474,CNN,RT @CNNnewsroom: At the end of his meeting with Kim Jong Un,0.0,0.0,1.0,0.0,75,Tue Jun 12 19:47:03 +0000 2018
-275,1006623869908738048,CNN,A Florida police chief is accused of framing four crimes on a teen so he could claim a 100,-0.296,0.0,0.896,0.104,76,Tue Jun 12 19:46:47 +0000 2018
-276,1006623370774016001,CNN,RT @CNNnewsroom: ,0.0,0.0,1.0,0.0,77,Tue Jun 12 19:44:48 +0000 2018
-277,1006622195496488961,CNN,It's been two years since their son and 48 others were killed in the Pulse massacre,-0.4118,0.0,0.889,0.111,78,Tue Jun 12 19:40:08 +0000 2018
-278,1006620904963624960,CNN,Before celebrating a game,0.5719,0.179,0.821,0.0,79,Tue Jun 12 19:35:00 +0000 2018
-279,1006620443552468994,CNN,RT @CNNnewsroom: Had President Obama met with Kim Jong Un,0.0,0.0,1.0,0.0,80,Tue Jun 12 19:33:10 +0000 2018
-280,1006619724917170177,CNN,Emmy Reeves had Type 1 diabetes,0.1531,0.135,0.754,0.111,81,Tue Jun 12 19:30:19 +0000 2018
-281,1006617164156227584,CNN,Country Time Lemonade is creating a team to help pay fines and permits for kids who want to run their own lemonade,0.5859,0.242,0.703,0.055,82,Tue Jun 12 19:20:08 +0000 2018
-282,1006615870859194371,CNN,Tiny pieces,0.0,0.0,1.0,0.0,83,Tue Jun 12 19:15:00 +0000 2018
-283,1006614639617200128,CNN,George H.W. Bush just became the first former US president to turn 94 https://t.co/Em2sILnp2A https://t.co/rJIR1qWbbL,0.0,0.0,1.0,0.0,84,Tue Jun 12 19:10:06 +0000 2018
-284,1006612105997508608,CNN,A US Border Patrol agent was shot in southern Arizona near the border with Mexico,0.0,0.0,1.0,0.0,85,Tue Jun 12 19:00:02 +0000 2018
-285,1006612081918070784,CNN,RT @CNNnewsroom: Hearing the President call one of our closest allies weak is ,-0.4215,0.0,0.853,0.147,86,Tue Jun 12 18:59:56 +0000 2018
-286,1006609599611441153,CNN,10 Nigerian children who were being smuggled in an attempt to exploit relaxed rules for entry into Russia ahead of,0.0772,0.127,0.717,0.155,87,Tue Jun 12 18:50:05 +0000 2018
-287,1006607094014009346,CNN,Samuel Tom Holiday,-0.5574,0.161,0.592,0.247,88,Tue Jun 12 18:40:07 +0000 2018
-288,1006605839992524801,CNN,A grand jury in Virginia has indicted actress and activist Rose McGowan on one felony count of cocaine possession,-0.128,0.128,0.723,0.149,89,Tue Jun 12 18:35:08 +0000 2018
-289,1006604593160183809,CNN,Two years ago,-0.6705,0.0,0.809,0.191,90,Tue Jun 12 18:30:11 +0000 2018
-290,1006602063189565440,CNN,Why eating at work can add on the pounds https://t.co/qyhQgKAaAY https://t.co/zuKyMMSq2d,0.0,0.0,1.0,0.0,91,Tue Jun 12 18:20:08 +0000 2018
-291,1006599551564861442,CNN,Trump had a chance to cut Canada's dairy tariffs. He walked away. https://t.co/JxAtOfxPUM https://t.co/wLVQZCQBEu,-0.0258,0.132,0.728,0.139,92,Tue Jun 12 18:10:09 +0000 2018
-292,1006597018318499840,CNN,27 people have been arrested after two men were beaten to death by a mob following false social media reports sugge,-0.8689,0.0,0.647,0.353,93,Tue Jun 12 18:00:05 +0000 2018
-293,1006594984961667072,CNN,Kellyanne Conway's husband,0.5423,0.282,0.718,0.0,94,Tue Jun 12 17:52:00 +0000 2018
-294,1006591964526055424,CNN,President Trump pitched a message of peace between the United States and North Korea by showing North Korean dictat,0.743,0.27,0.73,0.0,95,Tue Jun 12 17:40:00 +0000 2018
-295,1006589482211135488,CNN,President Trump and Kim Jong Un met for the first time. Here's how it played out: https://t.co/dQUvb5OdVB https://t.co/YCjlDWkfmL,0.34,0.124,0.876,0.0,96,Tue Jun 12 17:30:08 +0000 2018
-296,1006587685375365120,CNN,Christian Louboutin has claimed victory in a legal battle over its signature red,-0.2732,0.088,0.76,0.152,97,Tue Jun 12 17:23:00 +0000 2018
-297,1006584443858030592,CNN,Puerto Rico,-0.872,0.0,0.645,0.355,98,Tue Jun 12 17:10:07 +0000 2018
-298,1006582012562628608,CNN,Sen. John Kennedy: ,-0.2263,0.071,0.824,0.106,99,Tue Jun 12 17:00:27 +0000 2018
-299,1006579417278185473,CNN,Police in Virginia have arrested two young men who they say planned to open fire at a high school prom https://t.co/cgVyiM94Jj,-0.6705,0.0,0.766,0.234,100,Tue Jun 12 16:50:09 +0000 2018
-300,1006708606920724480,Fox News,.@POTUS on #TrumpKimSummit: ,0.4927,0.138,0.862,0.0,1,Wed Jun 13 01:23:30 +0000 2018
-301,1006707178781270016,Fox News,Highlights from President @realDonaldTrump's news conference following his historic summit with North Korean leader,0.0,0.0,1.0,0.0,2,Wed Jun 13 01:17:49 +0000 2018
-302,1006706183732854784,Fox News,.@seanhannity on #TrumpKimSummit: ,0.1531,0.096,0.904,0.0,3,Wed Jun 13 01:13:52 +0000 2018
-303,1006704236233744384,Fox News,.@seanhannity: ,0.0,0.0,1.0,0.0,4,Wed Jun 13 01:06:08 +0000 2018
-304,1006703952967229442,Fox News,On #TheStory with @marthamaccallum,0.4939,0.211,0.789,0.0,5,Wed Jun 13 01:05:00 +0000 2018
-305,1006703245744640007,Fox News,Dershowitz on McCabe Suing Trump DOJ Over Firing: 'He's Entitled to Challenge the Report' https://t.co/qODCx9lSqH,-0.2732,0.18,0.582,0.238,6,Wed Jun 13 01:02:12 +0000 2018
-306,1006701009815687168,Fox News,Attorney General Sessions: ,0.1298,0.086,0.914,0.0,7,Wed Jun 13 00:53:18 +0000 2018
-307,1006700447527243777,Fox News, President @realDonaldTrump says he believes North Korea will begin denuclearization in an interview with,0.0,0.0,1.0,0.0,8,Wed Jun 13 00:51:04 +0000 2018
-308,1006699682649780224,Fox News,.@NancyPelosi,0.6124,0.263,0.737,0.0,9,Wed Jun 13 00:48:02 +0000 2018
-309,1006699191320698880,Fox News,AG Jeff Sessions on change in asylum claim rules: ,0.6808,0.211,0.789,0.0,10,Wed Jun 13 00:46:05 +0000 2018
-310,1006697613784223744,Fox News,Attorney General Sessions: ,0.765,0.28,0.72,0.0,11,Wed Jun 13 00:39:49 +0000 2018
-311,1006697120198463489,Fox News,.@TuckerCarlson: ,-0.3818,0.0,0.874,0.126,12,Wed Jun 13 00:37:51 +0000 2018
-312,1006695143557103617,Fox News,TUNE IN: President @realDonaldTrump talks to @seanhannity about the historic summit with Kim Jong Un. Watch the ful,0.0,0.0,1.0,0.0,13,Wed Jun 13 00:30:00 +0000 2018
-313,1006693706261549056,Fox News,Raccoon scales Minnesota office building,-0.34,0.0,0.833,0.167,14,Wed Jun 13 00:24:17 +0000 2018
-314,1006691215553781765,Fox News,'He's Better Off in Argentina': Trump Rips SC GOP Rep for 'Being Unhelpful to MAGA,-0.5574,0.119,0.615,0.266,15,Wed Jun 13 00:14:23 +0000 2018
-315,1006689992805101568,Fox News,.@JeffFortenberry: ,0.3818,0.178,0.822,0.0,16,Wed Jun 13 00:09:32 +0000 2018
-316,1006688554288844800,Fox News,.@AlanDersh: ,0.2732,0.11,0.89,0.0,17,Wed Jun 13 00:03:49 +0000 2018
-317,1006686013773766661,Fox News,.@edhenry reports on the breaking news that fired @FBI boss Andrew McCabe's lawyers are filing suit against the FBI,-0.5574,0.0,0.841,0.159,18,Tue Jun 12 23:53:43 +0000 2018
-318,1006684205877690369,Fox News,BREAKING: Fired @FBI boss Andrew McCabe's lawyers file suit against FBI,-0.5574,0.0,0.806,0.194,19,Tue Jun 12 23:46:32 +0000 2018
-319,1006683733976600577,Fox News,.@RepJeffDenham: ,0.4506,0.261,0.739,0.0,20,Tue Jun 12 23:44:40 +0000 2018
-320,1006682308743651328,Fox News,TUNE IN: President @realDonaldTrump talks to @seanhannity about the historic summit with Kim Jong Un. Watch the ful,0.0,0.0,1.0,0.0,21,Tue Jun 12 23:39:00 +0000 2018
-321,1006680970723037184,Fox News,.@parscale: ,0.0,0.0,1.0,0.0,22,Tue Jun 12 23:33:41 +0000 2018
-322,1006679595792457731,Fox News,Son's hilarious,0.4588,0.326,0.523,0.151,23,Tue Jun 12 23:28:13 +0000 2018
-323,1006677313927417856,Fox News,.@LindseyGrahamSC: ,0.0,0.0,1.0,0.0,24,Tue Jun 12 23:19:09 +0000 2018
-324,1006675870805786624,Fox News,.@LindseyGrahamSC on conversation with @POTUS: ,0.3182,0.155,0.751,0.094,25,Tue Jun 12 23:13:25 +0000 2018
-325,1006673728632127488,Fox News,.@MZHemingway on the #TrumpKimSummit: ,-0.4767,0.0,0.853,0.147,26,Tue Jun 12 23:04:54 +0000 2018
-326,1006672072792334336,Fox News,"Veterans organization can keep American flag bench following NYC removal order
-https://t.co/UPSTJqX7qs",0.0,0.0,1.0,0.0,27,Tue Jun 12 22:58:19 +0000 2018
-327,1006671144076836864,Fox News,Taliban prisoners exploit release loophole with fake medical claims.https://t.co/460wz9if8Y,-0.7783,0.0,0.435,0.565,28,Tue Jun 12 22:54:38 +0000 2018
-328,1006668366826926081,Fox News,Arizona killer's ex,-0.0258,0.251,0.538,0.211,29,Tue Jun 12 22:43:36 +0000 2018
-329,1006666958291513349,Fox News,.@POTUS: ,0.0,0.0,1.0,0.0,30,Tue Jun 12 22:38:00 +0000 2018
-330,1006666333969420291,Fox News,Here's a preview of the Nevada primaries ahead of the polls closing. @JonathanHunt007 reports. #SpecialReport,0.0,0.0,1.0,0.0,31,Tue Jun 12 22:35:31 +0000 2018
-331,1006664522172719104,Fox News,Virginia police arrest 2,-0.6486,0.089,0.607,0.304,32,Tue Jun 12 22:28:19 +0000 2018
-332,1006663372266500096,Fox News,Border patrol agent shot,0.0,0.0,1.0,0.0,33,Tue Jun 12 22:23:45 +0000 2018
-333,1006662230442762242,Fox News,Sen. @TomCottonAR: ,-0.3412,0.0,0.789,0.211,34,Tue Jun 12 22:19:13 +0000 2018
-334,1006660952761225216,Fox News,Sen. @TomCottonAR: ,0.0772,0.138,0.741,0.122,35,Tue Jun 12 22:14:08 +0000 2018
-335,1006658977403371520,Fox News,FBI agent who accidentally fired gun while dancing charged with assault. https://t.co/cHv9JFrH7K,-0.9186,0.0,0.333,0.667,36,Tue Jun 12 22:06:17 +0000 2018
-336,1006657591659913217,Fox News,.@SenSchumer blasted President @realDonaldTrump's negotiation tactics,0.0,0.0,1.0,0.0,37,Tue Jun 12 22:00:47 +0000 2018
-337,1006655219730657280,Fox News,.@newtgingrich: @POTUS has accomplished more than @BillClinton,0.4404,0.162,0.838,0.0,38,Tue Jun 12 21:51:21 +0000 2018
-338,1006653715745517573,Fox News,.@kilmeade on Kim Jong Un: ,0.3182,0.108,0.892,0.0,39,Tue Jun 12 21:45:23 +0000 2018
-339,1006651596133019649,Fox News,.@greggutfeld on the #TrumpKimSummit Video. #TheFive https://t.co/pDdsZCnA0v,0.0,0.0,1.0,0.0,40,Tue Jun 12 21:36:57 +0000 2018
-340,1006651354897526784,Fox News,.@POTUS: ,0.0,0.0,1.0,0.0,41,Tue Jun 12 21:36:00 +0000 2018
-341,1006649736408064000,Fox News,The Golden State @Warriors and their fans celebrated the team's @NBA championship at a parade in Oakland,0.765,0.292,0.708,0.0,42,Tue Jun 12 21:29:34 +0000 2018
-342,1006649588126814213,Fox News,RT @FoxBusiness: #BreakingNews: Seattle City Council repeals employee ,0.0,0.0,1.0,0.0,43,Tue Jun 12 21:28:59 +0000 2018
-343,1006649124958167040,Fox News,.@kimguilfoyle: ,0.8204,0.335,0.665,0.0,44,Tue Jun 12 21:27:08 +0000 2018
-344,1006647388889583617,Fox News,Wake up Punchy!,-0.5255,0.0,0.816,0.184,45,Tue Jun 12 21:20:14 +0000 2018
-345,1006645961177944065,Fox News,.@kilmeade on #TrumpKimSummit: ,-0.3818,0.0,0.874,0.126,46,Tue Jun 12 21:14:34 +0000 2018
-346,1006642299512807429,Fox News,Judge rules in favor of AT,0.4019,0.231,0.769,0.0,47,Tue Jun 12 21:00:01 +0000 2018
-347,1006641350270431233,Fox News,AT,0.4466,0.196,0.804,0.0,48,Tue Jun 12 20:56:15 +0000 2018
-348,1006639064664199170,Fox News,RT @FoxBusiness: #BreakingNews: Judge rules in favor of AT,0.4019,0.184,0.816,0.0,49,Tue Jun 12 20:47:10 +0000 2018
-349,1006638968274915329,Fox News,JUST IN: Federal judge allows AT,0.0,0.0,1.0,0.0,50,Tue Jun 12 20:46:47 +0000 2018
-350,1006637852137009153,Fox News,Texas man's 28,0.0,0.0,1.0,0.0,51,Tue Jun 12 20:42:21 +0000 2018
-351,1006636583024562178,Fox News,.@RandPaul: ,0.4404,0.225,0.775,0.0,52,Tue Jun 12 20:37:18 +0000 2018
-352,1006636004051054592,Fox News,.@POTUS: ,0.3384,0.13,0.87,0.0,53,Tue Jun 12 20:35:00 +0000 2018
-353,1006635026606379013,Fox News,Former President George W. Bush posted this photo on Instagram Tuesday,0.0,0.0,1.0,0.0,54,Tue Jun 12 20:31:07 +0000 2018
-354,1006633733091446792,Fox News,.@RandPaul: ,0.0,0.0,1.0,0.0,55,Tue Jun 12 20:25:58 +0000 2018
-355,1006631951128723465,Fox News,.@RandPaul: ,0.0,0.0,1.0,0.0,56,Tue Jun 12 20:18:54 +0000 2018
-356,1006630245603201025,Fox News,RT @FoxBusiness: AT THE CLOSE: The Nasdaq finished the day at a new record close,0.0,0.0,1.0,0.0,57,Tue Jun 12 20:12:07 +0000 2018
-357,1006629163250397189,Fox News,World Cup 2018 teams to watch,0.0,0.0,1.0,0.0,58,Tue Jun 12 20:07:49 +0000 2018
-358,1006623230306766848,Fox News,JUST IN: Rosenstein threatened to 'subpoena' GOP,-0.4588,0.0,0.833,0.167,59,Tue Jun 12 19:44:14 +0000 2018
-359,1006622462304546816,Fox News,Former Gov. Bill Richardson: ,0.6486,0.218,0.782,0.0,60,Tue Jun 12 19:41:11 +0000 2018
-360,1006621910782828544,Fox News,.@POTUS: ,0.0,0.0,1.0,0.0,61,Tue Jun 12 19:39:00 +0000 2018
-361,1006621270493089794,Fox News,Former Gov. Bill Richardson on #TrumpKimSummit: ,0.0,0.0,1.0,0.0,62,Tue Jun 12 19:36:27 +0000 2018
-362,1006619577135091713,Fox News,Former Gov. Bill Richardson on #TrumpKimSummit: ,0.0,0.0,1.0,0.0,63,Tue Jun 12 19:29:43 +0000 2018
-363,1006617554943700993,Fox News,.@jasoninthehouse: @TheJusticeDept Will Hold Docs on @FBI Informant Until Congress 'Gets a Backbone'  #OutnumberedOT https://t.co/VOEF2E99JH,0.0,0.0,1.0,0.0,64,Tue Jun 12 19:21:41 +0000 2018
-364,1006615823274971137,Fox News,Parents of Otto Warmbier are hopeful 'something positive' can come from Trump,0.7845,0.347,0.653,0.0,65,Tue Jun 12 19:14:48 +0000 2018
-365,1006613467405733891,Fox News,OPINION: Trump meets Kim and sets the stage for fundamental change in Asia ,-0.5267,0.0,0.804,0.196,66,Tue Jun 12 19:05:27 +0000 2018
-366,1006611186966724608,Fox News,Eurosatory 2018: Huge wheeled military ATV swims and surprises https://t.co/25707QhaBi,0.4939,0.344,0.656,0.0,67,Tue Jun 12 18:56:23 +0000 2018
-367,1006609846131744770,Fox News,Crowds of Washington @Capitals fans showed up to the National Mall Tuesday to celebrate the team's first,0.5719,0.179,0.821,0.0,68,Tue Jun 12 18:51:03 +0000 2018
-368,1006606711019405312,Fox News,.@ChrisStirewalt: ,0.0516,0.141,0.729,0.13,69,Tue Jun 12 18:38:36 +0000 2018
-369,1006606308018044928,Fox News,.@POTUS: ,0.0,0.0,1.0,0.0,70,Tue Jun 12 18:37:00 +0000 2018
-370,1006604058654896132,Fox News,Alexander Vershbow on the Trump,0.0,0.0,1.0,0.0,71,Tue Jun 12 18:28:04 +0000 2018
-371,1006603251733671941,Fox News,After Trump summit with Kim,-0.5106,0.128,0.594,0.279,72,Tue Jun 12 18:24:51 +0000 2018
-372,1006602273450020865,Fox News,RT @FoxBusiness: JUST IN: Tesla to cut 9,-0.2732,0.0,0.84,0.16,73,Tue Jun 12 18:20:58 +0000 2018
-373,1006601794271764482,Fox News,.@JessicaTarlov: People on Both Sides Believe @NikkiHaley Could Be First Female President https://t.co/xLU2w1htOt,0.0,0.0,1.0,0.0,74,Tue Jun 12 18:19:04 +0000 2018
-374,1006601093332291584,Fox News,.@POTUS and Kim shake hands on landmark agreement https://t.co/seCPDmFvDh @dailybriefing https://t.co/KAySxezigJ,0.4215,0.317,0.563,0.12,75,Tue Jun 12 18:16:17 +0000 2018
-375,1006600502996594688,Fox News,Tim Tebow slams critics using kneeling photo to support NFL anthem protesters ,-0.1027,0.144,0.638,0.218,76,Tue Jun 12 18:13:56 +0000 2018
-376,1006598880895660032,Fox News,Nunes sets today as the deadline for @TheJusticeDept to turn over more documents on alleged FBI informant,0.0,0.0,1.0,0.0,77,Tue Jun 12 18:07:29 +0000 2018
-377,1006598644995420160,Fox News,Illinois police officer saves child running along busy road https://t.co/lGHt0LEExX,0.0,0.0,1.0,0.0,78,Tue Jun 12 18:06:33 +0000 2018
-378,1006594873007460352,Fox News,Border patrol agent shot,0.0,0.0,1.0,0.0,79,Tue Jun 12 17:51:34 +0000 2018
-379,1006590957121253376,Fox News,.@POTUS: ,0.0,0.0,1.0,0.0,80,Tue Jun 12 17:36:00 +0000 2018
-380,1006590869955338241,Fox News,Alec Baldwin says he 'would absolutely win' in 2020 election https://t.co/O6wpMdmW9X https://t.co/NUNxbDIOwG,0.624,0.271,0.729,0.0,81,Tue Jun 12 17:35:39 +0000 2018
-381,1006588922527469568,Fox News,Staten Island baseball team renamed ,0.3182,0.187,0.813,0.0,82,Tue Jun 12 17:27:55 +0000 2018
-382,1006586652192632833,Fox News,'Pregnant' male models steal the show at London Fashion Week https://t.co/cA8X8gguPz,-0.4939,0.0,0.758,0.242,83,Tue Jun 12 17:18:54 +0000 2018
-383,1006585392190164993,Fox News,.@SenatorRisch: ,0.0,0.0,1.0,0.0,84,Tue Jun 12 17:13:53 +0000 2018
-384,1006584017242742784,Fox News,.@SenatorMenendez: ,-0.0772,0.135,0.717,0.148,85,Tue Jun 12 17:08:25 +0000 2018
-385,1006581446134378497,Fox News,Deer wanders into DC Metro station,0.0,0.0,1.0,0.0,86,Tue Jun 12 16:58:12 +0000 2018
-386,1006577715254841346,Fox News,Florida fire station welcomes 9 babies in 10 months https://t.co/aVdCaxYL0r https://t.co/wXLemhOWOD,0.0772,0.206,0.611,0.183,87,Tue Jun 12 16:43:23 +0000 2018
-387,1006576112569380871,Fox News,OPINION: @HeyTammyBruce: De Niro's crude attack on Trump proves liberals are beside themselves that the he keeps wi,-0.7783,0.0,0.714,0.286,88,Tue Jun 12 16:37:01 +0000 2018
-388,1006574304505614337,Fox News,.@POTUS: ,0.3384,0.13,0.87,0.0,89,Tue Jun 12 16:29:50 +0000 2018
-389,1006573196240392192,Fox News,.@POTUS delivered remarks following his historic summit with North Korean leader Kim Jong Un.,0.0,0.0,1.0,0.0,90,Tue Jun 12 16:25:25 +0000 2018
-390,1006570753934987264,Fox News,Man reunited with baby he saved with CPR on side of highway https://t.co/p9wb0nUUSS,0.4215,0.189,0.811,0.0,91,Tue Jun 12 16:15:43 +0000 2018
-391,1006569041010491392,Fox News,Alec Baldwin says he 'would absolutely win' against Trump in 2020 election https://t.co/3Zg5OAY3M4,0.624,0.254,0.746,0.0,92,Tue Jun 12 16:08:55 +0000 2018
-392,1006568734381740034,Fox News,President Trump and Kim Jong Un agree to hold follow,0.3612,0.111,0.889,0.0,93,Tue Jun 12 16:07:42 +0000 2018
-393,1006566628950249472,Fox News,Boy facing terminal brain tumor made trooper for a day https://t.co/FEgfkfstvg,-0.3818,0.0,0.776,0.224,94,Tue Jun 12 15:59:20 +0000 2018
-394,1006564916172591104,Fox News,.@MacThornberry: Part of what I believe brought Kim Jong Un to this point were the economic sanctions,0.0,0.0,1.0,0.0,95,Tue Jun 12 15:52:31 +0000 2018
-395,1006563337646366721,Fox News,#Pulse nightclub massacre anniversary to be marked by die,0.0,0.0,1.0,0.0,96,Tue Jun 12 15:46:15 +0000 2018
-396,1006562177711529984,Fox News,.@SteveScalise to return to the field for Congressional baseball game Thursday @AmericaNewsroom https://t.co/cmL28quUWo,0.0,0.0,1.0,0.0,97,Tue Jun 12 15:41:38 +0000 2018
-397,1006560442276306944,Fox News,.@SteveScalise on @SecPompeo: ,0.6113,0.166,0.834,0.0,98,Tue Jun 12 15:34:45 +0000 2018
-398,1006559039814283264,Fox News,RT @FoxBusiness: Small business optimism soars,0.6808,0.337,0.663,0.0,99,Tue Jun 12 15:29:10 +0000 2018
-399,1006558524963524608,Fox News,.@adrienneelrod on historic North Korea summit @AmericaNewsroom https://t.co/OWOrHB1vOi,0.0,0.0,1.0,0.0,100,Tue Jun 12 15:27:07 +0000 2018
-400,1006708230209359872,The New York Times,Full results and maps from the Virginia primaries https://t.co/CInNVjBTpv,0.0,0.0,1.0,0.0,1,Wed Jun 13 01:22:00 +0000 2018
-401,1006706236396638208,The New York Times,Corey Stewart captured the Republican nomination for Senate in Virginia. He will take on Senator Tim Kaine,0.0,0.0,1.0,0.0,2,Wed Jun 13 01:14:05 +0000 2018
-402,1006703220566253574,The New York Times,"Maine election live results
-https://t.co/k7hoQumwa0",0.0,0.0,1.0,0.0,3,Wed Jun 13 01:02:06 +0000 2018
-403,1006699444430147584,The New York Times,With the AT,0.0516,0.11,0.787,0.102,4,Wed Jun 13 00:47:05 +0000 2018
-404,1006698356360425472,The New York Times,RT @nytopinion: Kim Jong,-0.4939,0.0,0.868,0.132,5,Wed Jun 13 00:42:46 +0000 2018
-405,1006695657330135040,The New York Times,Switching jobs? Getting away for a while could help you get ready for the next one. https://t.co/woW9BDNj5T,0.6369,0.271,0.729,0.0,6,Wed Jun 13 00:32:02 +0000 2018
-406,1006688113257836544,The New York Times,Banksy submitted an artwork anonymously to one of Britain's leading art shows ,-0.5106,0.0,0.82,0.18,7,Wed Jun 13 00:02:04 +0000 2018
-407,1006684325063151618,The New York Times,South Carolina election live results https://t.co/3Q21q2N75Z,0.0,0.0,1.0,0.0,8,Tue Jun 12 23:47:01 +0000 2018
-408,1006680555872768003,The New York Times,RT @jeremybowers: If it,0.0,0.0,1.0,0.0,9,Tue Jun 12 23:32:02 +0000 2018
-409,1006676804575350784,The New York Times,First election results are coming in from Virginia. Follow the vote here. https://t.co/387sWM4Lne,0.0,0.0,1.0,0.0,10,Tue Jun 12 23:17:08 +0000 2018
-410,1006675282449911810,The New York Times,What to watch for in the Nevada,0.0,0.0,1.0,0.0,11,Tue Jun 12 23:11:05 +0000 2018
-411,1006671975870320641,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/yWTqRknOg3,0.0,0.0,1.0,0.0,12,Tue Jun 12 22:57:56 +0000 2018
-412,1006665451437424641,The New York Times,The Y chromosome doesn't just determine gender: It may also may protect against cancer and dementia. https://t.co/7KsZniHhfA,-0.4215,0.124,0.667,0.21,13,Tue Jun 12 22:32:01 +0000 2018
-413,1006661681769058304,The New York Times,Maine,0.5719,0.163,0.837,0.0,14,Tue Jun 12 22:17:02 +0000 2018
-414,1006657879485624323,The New York Times,A tax that upset Amazon has been repealed by Seattle officials,-0.5106,0.075,0.705,0.22,15,Tue Jun 12 22:01:55 +0000 2018
-415,1006654139760246785,The New York Times,In a strikingly personal last,-0.0772,0.137,0.711,0.152,16,Tue Jun 12 21:47:04 +0000 2018
-416,1006650086409945089,The New York Times,RT @AndrewDasNYT: UPDATED: 2026 World Cup Vote Tracker: China leans Morocco,0.0,0.0,1.0,0.0,17,Tue Jun 12 21:30:57 +0000 2018
-417,1006646603682377736,The New York Times,A U.S. Air Force officer who deserted 35 years ago was apprehended in California. He was last seen in 1983 withdraw,0.0,0.0,1.0,0.0,18,Tue Jun 12 21:17:07 +0000 2018
-418,1006642547924570114,The New York Times,The combined company would have a library that includes HBO,0.3612,0.116,0.884,0.0,19,Tue Jun 12 21:01:00 +0000 2018
-419,1006639201394331649,The New York Times,Breaking News: AT,0.7717,0.283,0.717,0.0,20,Tue Jun 12 20:47:42 +0000 2018
-420,1006638111248601089,The New York Times,RT @nytimesbusiness: AT,0.836,0.319,0.681,0.0,21,Tue Jun 12 20:43:22 +0000 2018
-421,1006635155526692864,The New York Times,RT @poniewozik: My review of ABC's ,0.0,0.0,1.0,0.0,22,Tue Jun 12 20:31:38 +0000 2018
-422,1006631238390681600,The New York Times,North Korea is one of the world,-0.024,0.119,0.759,0.123,23,Tue Jun 12 20:16:04 +0000 2018
-423,1006628041290911744,The New York Times,Tesla will cut 9 percent of its work force,-0.2732,0.0,0.909,0.091,24,Tue Jun 12 20:03:21 +0000 2018
-424,1006624750209323008,The New York Times,RT @carlzimmer: Some CRISPR,0.0,0.0,1.0,0.0,25,Tue Jun 12 19:50:17 +0000 2018
-425,1006619927049129984,The New York Times,In Opinion,-0.4019,0.0,0.856,0.144,26,Tue Jun 12 19:31:07 +0000 2018
-426,1006616151034605574,The New York Times,Years of efforts to prevent sexual harassment of women in the fields of science,-0.5267,0.049,0.796,0.155,27,Tue Jun 12 19:16:07 +0000 2018
-427,1006612362844168192,The New York Times,North Korea made few concessions. But here,0.0,0.0,1.0,0.0,28,Tue Jun 12 19:01:03 +0000 2018
-428,1006608595465785344,The New York Times,RT @NYTNational: Republicans say they are due for a rebound in Virginia: ,-0.1027,0.0,0.938,0.062,29,Tue Jun 12 18:46:05 +0000 2018
-429,1006604816699854848,The New York Times,The brother,-0.7964,0.0,0.693,0.307,30,Tue Jun 12 18:31:04 +0000 2018
-430,1006601035920658433,The New York Times,President Trump and North Korean leader Kim Jong,0.0,0.0,1.0,0.0,31,Tue Jun 12 18:16:03 +0000 2018
-431,1006597264863911938,The New York Times,RT @NYTArchives: Anne Frank was born on this day in 1929. The Times published a review when her diary was translated,0.0,0.0,1.0,0.0,32,Tue Jun 12 18:01:04 +0000 2018
-432,1006593491361849345,The New York Times,The plan to save NYC,0.743,0.326,0.674,0.0,33,Tue Jun 12 17:46:04 +0000 2018
-433,1006589720502128641,The New York Times,Teachers in Illinois are being training to use guns,-0.4404,0.0,0.861,0.139,34,Tue Jun 12 17:31:05 +0000 2018
-434,1006586422168563713,The New York Times,RT @arappeport: Peter Navarro says he's sorry for saying there's a 'special place in hell' for Canadian PM Justin Trudeau. https://t.co/eFA,-0.4939,0.105,0.664,0.23,35,Tue Jun 12 17:17:59 +0000 2018
-435,1006582170377441280,The New York Times,10 simple takeaways from Trump,0.0,0.0,1.0,0.0,36,Tue Jun 12 17:01:05 +0000 2018
-436,1006578395583524866,The New York Times,Here,0.0,0.0,1.0,0.0,37,Tue Jun 12 16:46:05 +0000 2018
-437,1006574631376097280,The New York Times,After meeting with Kim Jong,-0.5994,0.0,0.813,0.187,38,Tue Jun 12 16:31:08 +0000 2018
-438,1006570833278570496,The New York Times,If your waist measures 35 or more inches for women or 40 or more inches for men,0.2023,0.076,0.924,0.0,39,Tue Jun 12 16:16:02 +0000 2018
-439,1006567219231444993,The New York Times,There was an iPad video. A tour of the Beast. Lots of handshakes. And Dennis Rodman. This was no ordinary summit me,-0.296,0.0,0.905,0.095,40,Tue Jun 12 16:01:40 +0000 2018
-440,1006563936001560576,The New York Times,RT @viaSimonRomero: Our report from Nogales on the resurgent flow of asylum seekers from crime,0.0,0.0,1.0,0.0,41,Tue Jun 12 15:48:38 +0000 2018
-441,1006559528077479937,The New York Times,The AT,0.0,0.0,1.0,0.0,42,Tue Jun 12 15:31:07 +0000 2018
-442,1006555485091389440,The New York Times,Otto was someone who did not die in vain.,-0.1911,0.116,0.739,0.144,43,Tue Jun 12 15:15:03 +0000 2018
-443,1006551860617072641,The New York Times,RT @tackettdc: ,0.6249,0.151,0.849,0.0,44,Tue Jun 12 15:00:39 +0000 2018
-444,1006547947205681158,The New York Times,A man killed four children and then himself in Orlando,-0.6705,0.0,0.8,0.2,45,Tue Jun 12 14:45:06 +0000 2018
-445,1006544203172712450,The New York Times,One lesson from everything that has happened online recently is that,0.0,0.0,1.0,0.0,46,Tue Jun 12 14:30:13 +0000 2018
-446,1006541672128409606,The New York Times,Full text of the Trump,0.0,0.0,1.0,0.0,47,Tue Jun 12 14:20:09 +0000 2018
-447,1006539134025043969,The New York Times,RT @NYTNational: Grim sight at an Arizona border crossing: Children sleep on the ground as the U.S. slows asylum processing https://t.co/RW,-0.5719,0.0,0.844,0.156,48,Tue Jun 12 14:10:04 +0000 2018
-448,1006536735193432064,The New York Times,With every rifle crack,-0.34,0.107,0.726,0.167,49,Tue Jun 12 14:00:32 +0000 2018
-449,1006534124033708034,The New York Times,President Trump's pledge to cancel military exercises on the Korean Peninsula surprised not only allies in South Ko,-0.0258,0.091,0.813,0.096,50,Tue Jun 12 13:50:10 +0000 2018
-450,1006531597506695170,The New York Times,Spain's Supreme Court upheld a prison sentence for Iñaki Urdangarin,0.1531,0.231,0.613,0.156,51,Tue Jun 12 13:40:07 +0000 2018
-451,1006528820340559872,The New York Times,Jeff Sessions made it all but impossible for asylum seekers to gain entry into the United States by citing fears of,0.6808,0.268,0.613,0.119,52,Tue Jun 12 13:29:05 +0000 2018
-452,1006527041846628355,The New York Times,The populist Italian government refused to allow a rescue boat carrying hundreds of migrants to dock in the country,0.4588,0.222,0.684,0.094,53,Tue Jun 12 13:22:01 +0000 2018
-453,1006524039395987456,The New York Times,Video: President Trump speaks about his plans to invite Kim Jong,0.1531,0.096,0.904,0.0,54,Tue Jun 12 13:10:05 +0000 2018
-454,1006521553125871616,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/gySc54o8tM https://t.co/PL0RyFtwEm,0.0,0.0,1.0,0.0,55,Tue Jun 12 13:00:13 +0000 2018
-455,1006518984739643392,The New York Times,Sepp Blatter,-0.5574,0.0,0.833,0.167,56,Tue Jun 12 12:50:00 +0000 2018
-456,1006516503993307137,The New York Times,Kim Jong,-0.9001,0.0,0.607,0.393,57,Tue Jun 12 12:40:09 +0000 2018
-457,1006513995505963008,The New York Times,Late,0.0,0.0,1.0,0.0,58,Tue Jun 12 12:30:11 +0000 2018
-458,1006510186457165824,The New York Times,During their first year in government service,0.0,0.0,1.0,0.0,59,Tue Jun 12 12:15:03 +0000 2018
-459,1006506486430945282,The New York Times,"Your daily @DealBook Briefing:
+https://t.co/l7GQVRzRFw",0.0,0.0,1.0,0.0,96,Thu May 17 19:12:51 +0000 2018
+196,997099417327947777,CBS,How many shows can you binge in a month? Find out with a 1 month free trial of CBS All Access! Use code STREAMITALL,0.5562,0.146,0.854,0.0,97,Thu May 17 13:00:00 +0000 2018
+197,996903122458021889,CBS,Save the dates! The CBS Fall lineup is here,0.75,0.242,0.758,0.0,98,Thu May 17 00:00:00 +0000 2018
+198,996887116549210112,CBS,What happens when the friendliest guy in the Midwest moves his family next door to a not,0.5574,0.159,0.841,0.0,99,Wed May 16 22:56:24 +0000 2018
+199,996887115425198080,CBS,When @MurphyBrownCBS returns to the news world,0.3802,0.11,0.89,0.0,100,Wed May 16 22:56:24 +0000 2018
+200,1007421787297271808,CNN,RT @CNNMoney: AT,0.0,0.0,1.0,0.0,1,Fri Jun 15 00:37:25 +0000 2018
+201,1007421209447882752,CNN,There was really no reason given,-0.1893,0.0,0.92,0.08,2,Fri Jun 15 00:35:07 +0000 2018
+202,1007420196380991488,CNN,6 takeaways from the Justice Department watchdog report on the Clinton email investigation https://t.co/2f88ThnL4L https://t.co/FfIFUi63OL,0.5267,0.207,0.793,0.0,3,Fri Jun 15 00:31:06 +0000 2018
+203,1007417683078500352,CNN,Elliot Schrage,0.5574,0.213,0.787,0.0,4,Fri Jun 15 00:21:07 +0000 2018
+204,1007415153770590208,CNN,A full,0.0,0.0,1.0,0.0,5,Fri Jun 15 00:11:04 +0000 2018
+205,1007414432308264960,CNN,RT @OutFrontCNN: One year after grievous gunshot wound,-0.4588,0.0,0.842,0.158,6,Fri Jun 15 00:08:12 +0000 2018
+206,1007413979319160832,CNN,This isn't King Donald Trump,0.3182,0.113,0.887,0.0,7,Fri Jun 15 00:06:24 +0000 2018
+207,1007413891306020865,CNN,Mercedes Schlapp,0.0772,0.071,0.929,0.0,8,Fri Jun 15 00:06:03 +0000 2018
+208,1007412647820656640,CNN,Tag,0.0572,0.12,0.88,0.0,9,Fri Jun 15 00:01:06 +0000 2018
+209,1007411377600856070,CNN,The Trump administration has selected federal land in TX as a place to temporarily house unaccompanied immigrant ch,0.4995,0.16,0.84,0.0,10,Thu Jun 14 23:56:03 +0000 2018
+210,1007410117506150400,CNN,China is killing his business. Tariffs could make or break it. https://t.co/N3YgSNo9bo https://t.co/SrRkQcjzTS,-0.6597,0.0,0.732,0.268,11,Thu Jun 14 23:51:03 +0000 2018
+211,1007408868039720966,CNN,The US Department of Homeland Security said that it has identified malicious cyber activity by the North Korean gov,0.34,0.112,0.888,0.0,12,Thu Jun 14 23:46:05 +0000 2018
+212,1007407704887955456,CNN,RT @OutFrontCNN: The Justice Department's internal watchdog found that former FBI Director James Comey's actions in the Hillary Clinton ema,0.5267,0.152,0.848,0.0,13,Thu Jun 14 23:41:28 +0000 2018
+213,1007407610319040512,CNN,A migrant ship's fate symbolizes a divided Europe,0.0,0.0,1.0,0.0,14,Thu Jun 14 23:41:05 +0000 2018
+214,1007406645276790784,CNN,RT @OutFrontCNN: Sen. Richard Blumenthal: ,-0.3862,0.147,0.617,0.236,15,Thu Jun 14 23:37:15 +0000 2018
+215,1007406344155082752,CNN,Trump's zero,0.0,0.0,1.0,0.0,16,Thu Jun 14 23:36:03 +0000 2018
+216,1007405100929814530,CNN,Brie Larson says she doesn't ,-0.2025,0.101,0.758,0.141,17,Thu Jun 14 23:31:07 +0000 2018
+217,1007403842827378689,CNN,Last week,0.0,0.0,1.0,0.0,18,Thu Jun 14 23:26:07 +0000 2018
+218,1007402570606923778,CNN,Afghanistan's cricket team makes history as it steps out on the pitch to face India in its first competitive Test m,0.1779,0.075,0.925,0.0,19,Thu Jun 14 23:21:04 +0000 2018
+219,1007401922280771584,CNN,RT @OutFrontCNN: CNN's Erin Burnett: ,0.0,0.0,1.0,0.0,20,Thu Jun 14 23:18:29 +0000 2018
+220,1007401330518970368,CNN,A policy adviser for two pro,0.2732,0.146,0.753,0.1,21,Thu Jun 14 23:16:08 +0000 2018
+221,1007400061318332416,CNN,GOP Senate nominees Kevin Cramer and Corey Stewart sought and received the support of an anti,0.4019,0.124,0.876,0.0,22,Thu Jun 14 23:11:05 +0000 2018
+222,1007398807892561920,CNN,Attorney General Jeff Sessions cited the Bible in defending the Trump administration's immigration policies,0.0,0.0,1.0,0.0,23,Thu Jun 14 23:06:07 +0000 2018
+223,1007397802337558528,CNN,AG Jeff Sessions on immigration policy: Illegal entry into the US is a crime,-0.7964,0.0,0.738,0.262,24,Thu Jun 14 23:02:07 +0000 2018
+224,1007395473563504641,CNN,RT @CNNSitRoom: Mark @PrestonCNN reads from the GOP platform: ,0.0,0.0,1.0,0.0,25,Thu Jun 14 22:52:52 +0000 2018
+225,1007395023284002816,CNN,Roseanne Barr insists her controversial tweet was about anti,-0.2023,0.0,0.847,0.153,26,Thu Jun 14 22:51:04 +0000 2018
+226,1007394461134000130,CNN,Nigerian President Muhammadu Buhari offers national apology for presidential election annulled 25 years ago,0.0516,0.079,0.921,0.0,27,Thu Jun 14 22:48:50 +0000 2018
+227,1007394180258320385,CNN,RT @CNNSitRoom: Attorney General Jeff Sessions cites the Bible in defending the Trump administration's immigration policies resulting in fa,0.0,0.0,1.0,0.0,28,Thu Jun 14 22:47:43 +0000 2018
+228,1007393760337154048,CNN,The brother of the gunman who killed 17 students and adults at a Parkland,-0.6705,0.0,0.809,0.191,29,Thu Jun 14 22:46:03 +0000 2018
+229,1007392503530754049,CNN,Stranger Things,0.0,0.0,1.0,0.0,30,Thu Jun 14 22:41:03 +0000 2018
+230,1007391260167036929,CNN,Three Californias? Billionaires' fantasy world is on the ballot ,0.0,0.0,1.0,0.0,31,Thu Jun 14 22:36:07 +0000 2018
+231,1007390014295216128,CNN,RNC chair's tweet spells doom for the party I love,0.6369,0.305,0.575,0.119,32,Thu Jun 14 22:31:10 +0000 2018
+232,1007388713750540288,CNN,It's #FlagDay. Here are some fun facts about the American flag you may not have known. https://t.co/zqJv4O2BmL https://t.co/iUgsmPL4J2,0.5106,0.163,0.837,0.0,33,Thu Jun 14 22:26:00 +0000 2018
+233,1007388343951388673,CNN,Rob Rogers,-0.5574,0.0,0.816,0.184,34,Thu Jun 14 22:24:32 +0000 2018
+234,1007387474321117184,CNN,UN calls for international inquiry into human rights violations in Kashmir https://t.co/jv3agMGbHP https://t.co/gYg23Bm2mc,-0.5267,0.0,0.779,0.221,35,Thu Jun 14 22:21:04 +0000 2018
+235,1007386207058350080,CNN,Mixed martial arts star Conor McGregor expresses regret over bus brawl after brief court appearance,-0.4215,0.0,0.843,0.157,36,Thu Jun 14 22:16:02 +0000 2018
+236,1007384860552556544,CNN,Garry Hartman runs one of the few chassis manufacturers left in the US. But stiff competition from China is making,0.0,0.0,1.0,0.0,37,Thu Jun 14 22:10:41 +0000 2018
+237,1007381943674163201,CNN,Prominent Iranian human rights lawyer detained again https://t.co/1uN4dAJnnq https://t.co/uhw9x4c4mo,-0.1027,0.192,0.583,0.225,38,Thu Jun 14 21:59:06 +0000 2018
+238,1007380179264602113,CNN,This is not the first time Trump unwittingly starred in foreign propaganda https://t.co/0pwZRqJGfC ,-0.25,0.0,0.889,0.111,39,Thu Jun 14 21:52:05 +0000 2018
+239,1007379807544504322,CNN,FBI Director Christopher Wray said the FBI will ,0.0,0.0,1.0,0.0,40,Thu Jun 14 21:50:36 +0000 2018
+240,1007378771182280704,CNN,RT @CNNSitRoom: The IG is right to condemn the ,-0.4678,0.0,0.845,0.155,41,Thu Jun 14 21:46:29 +0000 2018
+241,1007378428184748033,CNN,Rallies protesting immigrant family separations will take place across US https://t.co/Gqj2wiCcl2 https://t.co/WnREMfxxyb,-0.4215,0.0,0.797,0.203,42,Thu Jun 14 21:45:08 +0000 2018
+242,1007378367035858944,CNN,FBI Director Christopher Wray says the inspector general report ,-0.1027,0.0,0.931,0.069,43,Thu Jun 14 21:44:53 +0000 2018
+243,1007377027282894848,CNN,RT @CNNSitRoom: ,0.0,0.0,1.0,0.0,44,Thu Jun 14 21:39:34 +0000 2018
+244,1007376651217403904,CNN,She often harbored suicidal thoughts. Now,-0.7964,0.0,0.664,0.336,45,Thu Jun 14 21:38:04 +0000 2018
+245,1007376033094557696,CNN,RT @CNNMoney: JUST IN: The Justice Department will not seek a stay in the AT,0.5267,0.167,0.833,0.0,46,Thu Jun 14 21:35:37 +0000 2018
+246,1007375958314188801,CNN,The FBI holds a news conference on the DOJ watchdog's report on the Hillary Clinton email probe. Watch CNN:,0.0,0.0,1.0,0.0,47,Thu Jun 14 21:35:19 +0000 2018
+247,1007374896157134858,CNN,Elon Musk spends his own money to buy Tesla shares ,0.296,0.155,0.845,0.0,48,Thu Jun 14 21:31:06 +0000 2018
+248,1007374071338848257,CNN,White House press secretary Sarah Sanders said a newly released Justice Department watchdog report ,0.5267,0.185,0.815,0.0,49,Thu Jun 14 21:27:49 +0000 2018
+249,1007372479613063168,CNN,RT @TheLeadCNN: The people who were mad about then,-0.4939,0.105,0.686,0.209,50,Thu Jun 14 21:21:29 +0000 2018
+250,1007372388105969666,CNN,For a 100 million Egyptians the wait is over ,-0.3744,0.0,0.891,0.109,51,Thu Jun 14 21:21:08 +0000 2018
+251,1007372359580422145,CNN,RT @TheLeadCNN: Comey erred in his decision not to coordinate with his superiors at the Justice Department at key moments in the Clinton em,0.6597,0.197,0.803,0.0,52,Thu Jun 14 21:21:01 +0000 2018
+252,1007371869429948416,CNN,Seth Rogen and Evan Goldberg,0.1027,0.072,0.928,0.0,53,Thu Jun 14 21:19:04 +0000 2018
+253,1007371473776988160,CNN,James Comey used a personal Gmail account for official government business while FBI director,0.0,0.0,1.0,0.0,54,Thu Jun 14 21:17:30 +0000 2018
+254,1007371135229493251,CNN,These are Swiss Institute director Simon Castets' picks for what to see outside the Art Basel fair,0.0,0.0,1.0,0.0,55,Thu Jun 14 21:16:09 +0000 2018
+255,1007369860546998277,CNN,Volvo is the latest automaker to bet on this whiz kid's startup https://t.co/ob7wv511Rp https://t.co/87r75LSYtY,0.0,0.0,1.0,0.0,56,Thu Jun 14 21:11:05 +0000 2018
+256,1007368592864743431,CNN,Stolen Christopher Columbus letter to be returned to Vatican https://t.co/2Qr1sGz2QO https://t.co/hQp2gDWJ4i,-0.4939,0.0,0.758,0.242,57,Thu Jun 14 21:06:03 +0000 2018
+257,1007367342991597568,CNN,Seth Rogen and Evan Goldberg,0.1027,0.072,0.928,0.0,58,Thu Jun 14 21:01:05 +0000 2018
+258,1007366267752407040,CNN,This California ghost town is for sale https://t.co/uuhzbWCzZT https://t.co/RwxR1OZrGa,-0.3182,0.0,0.777,0.223,59,Thu Jun 14 20:56:48 +0000 2018
+259,1007364827642200064,CNN,American Express launches new cash back card https://t.co/vcHdD44kFd https://t.co/TKmizNlRrx,0.0,0.0,1.0,0.0,60,Thu Jun 14 20:51:05 +0000 2018
+260,1007363873589153798,CNN,Today is #FlagDay. As the national debate on flag conduct continues,0.0,0.0,1.0,0.0,61,Thu Jun 14 20:47:18 +0000 2018
+261,1007362318773227522,CNN,Russian President Vladimir Putin met with a senior North Korean official in Moscow and invited North Korean leader,0.0,0.0,1.0,0.0,62,Thu Jun 14 20:41:07 +0000 2018
+262,1007360795523670016,CNN,From a roar to a whirr ,0.0,0.0,1.0,0.0,63,Thu Jun 14 20:35:04 +0000 2018
+263,1007360144173338626,CNN,RT @TheLeadCNN: The Justice Department's internal watchdog found that former FBI Director James Comey's actions in the Hillary Clinton emai,0.5267,0.152,0.848,0.0,64,Thu Jun 14 20:32:28 +0000 2018
+264,1007359047685885957,CNN,Americans are spending like mad again https://t.co/xpTW66twUm https://t.co/wqBqEOhi8J,-0.1779,0.214,0.513,0.274,65,Thu Jun 14 20:28:07 +0000 2018
+265,1007359012034220032,CNN,White House press secretary Sarah Sanders said President Donald Trump was using ,0.3612,0.128,0.872,0.0,66,Thu Jun 14 20:27:58 +0000 2018
+266,1007357269527363584,CNN,Russian lawmaker warns women against sex with foreigners during the World Cup https://t.co/S0e3DcebaL https://t.co/wfQGp8ujxR,-0.1027,0.0,0.903,0.097,67,Thu Jun 14 20:21:03 +0000 2018
+267,1007355943191900160,CNN,CNN's Jim Acosta asks about family separations at the border: ,0.0,0.0,1.0,0.0,68,Thu Jun 14 20:15:47 +0000 2018
+268,1007355513519202309,CNN,Apple is starting a music publishing business https://t.co/g2mQYAqL74 https://t.co/eSuGXFqVgL,0.0,0.0,1.0,0.0,69,Thu Jun 14 20:14:04 +0000 2018
+269,1007353747188699138,CNN,Vice President Mike Pence's shameless suck up to the boss https://t.co/hRuNAu3MyN ,-0.6486,0.0,0.694,0.306,70,Thu Jun 14 20:07:03 +0000 2018
+270,1007352689209069569,CNN,AG Jeff Sessions on immigration policy: Illegal entry into the US is a crime,-0.7964,0.0,0.738,0.262,71,Thu Jun 14 20:02:51 +0000 2018
+271,1007352051691544577,CNN,RNC chair tries to clarify tweet saying those opposed to Trump agenda are ,-0.34,0.0,0.87,0.13,72,Thu Jun 14 20:00:19 +0000 2018
+272,1007350223310598144,CNN,What President Trump said about the media is bad. What Republican Rep. Mo Brooks said is even worse.,-0.5423,0.0,0.837,0.163,73,Thu Jun 14 19:53:03 +0000 2018
+273,1007348465469394944,CNN,Why in the movies,0.0,0.0,1.0,0.0,74,Thu Jun 14 19:46:04 +0000 2018
+274,1007346700577656833,CNN,A building in London just sold for ,0.0,0.0,1.0,0.0,75,Thu Jun 14 19:39:03 +0000 2018
+275,1007345884265316352,CNN,Come on Sarah,0.0,0.0,1.0,0.0,76,Thu Jun 14 19:35:49 +0000 2018
+276,1007344944397406208,CNN,Trump's pick for South Korea ambassador says North Korea remains a nuclear threat https://t.co/L15zoBSnlT https://t.co/YQDimT5rHq,-0.5267,0.0,0.793,0.207,77,Thu Jun 14 19:32:04 +0000 2018
+277,1007344774725107712,CNN,White House press secretary Sarah Sanders says President Trump ,-0.7003,0.0,0.756,0.244,78,Thu Jun 14 19:31:24 +0000 2018
+278,1007343887315275782,CNN,RT @CNNPolitics: White House press secretary Sarah Sanders on the recently released IG report: ,-0.3612,0.0,0.884,0.116,79,Thu Jun 14 19:27:52 +0000 2018
+279,1007343691940466689,CNN,More black women are running startups,-0.5023,0.0,0.787,0.213,80,Thu Jun 14 19:27:06 +0000 2018
+280,1007342689199837184,CNN,Argentina's lower house of Congress approves bill liberalizing abortion laws https://t.co/j2ekA0eYML https://t.co/9wN3BzY9nJ,0.128,0.181,0.671,0.148,81,Thu Jun 14 19:23:07 +0000 2018
+281,1007342654491910144,CNN,Nothing in the inspector general's report makes me think we did the wrong thing.,-0.4767,0.0,0.86,0.14,82,Thu Jun 14 19:22:59 +0000 2018
+282,1007342427580092417,CNN,Gangs in El Salvador are using women's bodies for ,-0.5267,0.0,0.793,0.207,83,Thu Jun 14 19:22:04 +0000 2018
+283,1007341508700327937,CNN,The White House is holding a press briefing. Watch CNN: https://t.co/UYpqI3w42L https://t.co/S8RNKEm9ID,0.0,0.0,1.0,0.0,84,Thu Jun 14 19:18:25 +0000 2018
+284,1007341190235246597,CNN,Kentucky is suing Walgreens,0.0772,0.137,0.743,0.12,85,Thu Jun 14 19:17:09 +0000 2018
+285,1007341177375547392,CNN,What was President Trump thinking when he saluted a North Korean general? ,0.0,0.0,1.0,0.0,86,Thu Jun 14 19:17:06 +0000 2018
+286,1007339924310413312,CNN,Attorney General Jeff Sessions takes responsibility for keeping Deputy Attorney General Rod Rosenstein in charge of,0.0,0.0,1.0,0.0,87,Thu Jun 14 19:12:08 +0000 2018
+287,1007338827931766784,CNN,It's not a good day for the FBI.,0.2486,0.143,0.756,0.101,88,Thu Jun 14 19:07:46 +0000 2018
+288,1007338663032827905,CNN,English pop star Robbie Williams and former Brazil striker Ronaldo kick off World Cup 2018 https://t.co/YQxU5y55Lt https://t.co/GBcIOKJlb4,0.0,0.0,1.0,0.0,89,Thu Jun 14 19:07:07 +0000 2018
+289,1007337392917897220,CNN,Nintendo's disappointing E3 announcements send stock plunging https://t.co/jIB8vRxXjN https://t.co/w59g88X60i,-0.4939,0.0,0.714,0.286,90,Thu Jun 14 19:02:04 +0000 2018
+290,1007337193583587328,CNN,RT @cnnbrk: A highly anticipated report on top federal officials' handling of the Clinton email investigation has been made public. CNN is,0.2023,0.083,0.917,0.0,91,Thu Jun 14 19:01:17 +0000 2018
+291,1007336131669708801,CNN,Is the World Cup toxic for advertisers? https://t.co/stWOoHz5Y9 https://t.co/jbLRuLQUau,0.0,0.0,1.0,0.0,92,Thu Jun 14 18:57:03 +0000 2018
+292,1007335384349593600,CNN,Following the hallmark year of 1776,0.0,0.0,1.0,0.0,93,Thu Jun 14 18:54:05 +0000 2018
+293,1007334871943925760,CNN,The founder of Destiny Pictures,0.0,0.0,1.0,0.0,94,Thu Jun 14 18:52:03 +0000 2018
+294,1007333625199845381,CNN,As the national debate on flag conduct continues,0.0,0.0,1.0,0.0,95,Thu Jun 14 18:47:06 +0000 2018
+295,1007332618227126272,CNN,How 7 words in the 500,0.0,0.0,1.0,0.0,96,Thu Jun 14 18:43:06 +0000 2018
+296,1007332065833095171,CNN,READ: The Justice Department inspector general report on Clinton's email https://t.co/D50LSqCX95 https://t.co/YPyICzRmIC,0.5267,0.236,0.764,0.0,97,Thu Jun 14 18:40:54 +0000 2018
+297,1007331093786382342,CNN,UK,-0.4019,0.0,0.881,0.119,98,Thu Jun 14 18:37:02 +0000 2018
+298,1007329861797601280,CNN,President Donald Trump turns 72 https://t.co/CRxcakUHvy https://t.co/LIMbaYfwfP,0.0,0.0,1.0,0.0,99,Thu Jun 14 18:32:08 +0000 2018
+299,1007328943396085760,CNN,Supreme Court strikes down Minnesota law that banned political apparel at a polling place https://t.co/CJbo2kKVe7 https://t.co/4v2NpIVDX1,-0.2263,0.171,0.569,0.261,100,Thu Jun 14 18:28:30 +0000 2018
+300,1007421177394950144,Fox News,FBI's anti,0.0,0.0,1.0,0.0,1,Fri Jun 15 00:35:00 +0000 2018
+301,1007419908756566017,Fox News,.@David_Bossie on the IG report: Some FBI employees desperately wanted to stop Trump from being elected. ,-0.5859,0.0,0.769,0.231,2,Fri Jun 15 00:29:57 +0000 2018
+302,1007418669117444104,Fox News,.@RepRatcliffe: ,0.0,0.0,1.0,0.0,3,Fri Jun 15 00:25:02 +0000 2018
+303,1007417556469248001,Fox News,'We Will Have a Red Tide': VA GOP Sen Candidate Corey Stewart Rips Tim Kaine,0.5267,0.167,0.833,0.0,4,Fri Jun 15 00:20:37 +0000 2018
+304,1007415962486927363,Fox News,Former FBI Assistant Director Ron Hosko on the DOJ IG report: ,0.0,0.0,1.0,0.0,5,Fri Jun 15 00:14:16 +0000 2018
+305,1007414837989822464,Fox News,.@TuckerCarlson: ,0.0,0.0,1.0,0.0,6,Fri Jun 15 00:09:48 +0000 2018
+306,1007413987535974400,Fox News,.@SpeakerRyan on #CongressionalBaseballGame: ,0.0,0.0,1.0,0.0,7,Fri Jun 15 00:06:26 +0000 2018
+307,1007411882830057472,Fox News,Jonathan Turley on IG report: ,-0.0258,0.131,0.734,0.135,8,Thu Jun 14 23:58:04 +0000 2018
+308,1007410845490515968,Fox News,Jonathan Turley on IG report: ,-0.1027,0.0,0.938,0.062,9,Thu Jun 14 23:53:57 +0000 2018
+309,1007409403434283010,Fox News,.@CLewandowski_ on NY AG's lawsuit against Trump Foundation: ,-0.2263,0.0,0.894,0.106,10,Thu Jun 14 23:48:13 +0000 2018
+310,1007409181404561409,Fox News,Moments ago,0.2023,0.107,0.893,0.0,11,Thu Jun 14 23:47:20 +0000 2018
+311,1007406725077655552,Fox News,.@SteveScalise 'back in the game' at Congressional Baseball event one year after being shot https://t.co/KCaQUXkdtN,0.0,0.0,1.0,0.0,12,Thu Jun 14 23:37:34 +0000 2018
+312,1007406322407624704,Fox News,.@marcthiessen on IG report: ,0.0,0.0,1.0,0.0,13,Thu Jun 14 23:35:58 +0000 2018
+313,1007404773048545280,Fox News,Danny Coulson on Clinton email probe: ,0.0,0.0,1.0,0.0,14,Thu Jun 14 23:29:49 +0000 2018
+314,1007404107668258816,Fox News,.@RepSwalwell on IG report: ,0.0,0.0,1.0,0.0,15,Thu Jun 14 23:27:10 +0000 2018
+315,1007403560756219904,Fox News,.@RepSwalwell on IG report: ,-0.5859,0.0,0.766,0.234,16,Thu Jun 14 23:25:00 +0000 2018
+316,1007398952650539008,Fox News,House Majority Whip @SteveScalise takes the field at the #CongressionalBaseballGame one year after he was shot whil,0.0,0.0,1.0,0.0,17,Thu Jun 14 23:06:41 +0000 2018
+317,1007397739494289408,Fox News,PLAY BALL: Republicans and Democrats face off in the #CongressionalBaseballGame for charity.  ,0.7125,0.298,0.702,0.0,18,Thu Jun 14 23:01:52 +0000 2018
+318,1007397054199549952,Fox News,.@ChuckLane1: ,0.4902,0.158,0.842,0.0,19,Thu Jun 14 22:59:08 +0000 2018
+319,1007396449775226881,Fox News,.@HillaryClinton gives a 3,0.0,0.0,1.0,0.0,20,Thu Jun 14 22:56:44 +0000 2018
+320,1007394504599588866,Fox News,.@CharlesHurt on the DOJ IG report: ,-0.1027,0.0,0.935,0.065,21,Thu Jun 14 22:49:01 +0000 2018
+321,1007393999009828864,Fox News,FBI Director Wray admits mistakes made,-0.0772,0.161,0.657,0.182,22,Thu Jun 14 22:47:00 +0000 2018
+322,1007392488670351360,Fox News,North Korea's state media depict Kim as hero and star of the Singapore summit with @POTUS. https://t.co/VqCJLjY7Nu,0.5574,0.184,0.816,0.0,23,Thu Jun 14 22:41:00 +0000 2018
+323,1007391232157536256,Fox News,Arkansas highway drenched in Fireball whiskey after fiery semi,-0.6249,0.0,0.638,0.362,24,Thu Jun 14 22:36:00 +0000 2018
+324,1007389583145873420,Fox News,Rep. @TGowdySC: ,-0.6126,0.0,0.792,0.208,25,Thu Jun 14 22:29:27 +0000 2018
+325,1007389240009904129,Fox News,Troops to teachers brings service from the battlefield to the classroom. https://t.co/8G6hSPb9VN,-0.3818,0.0,0.809,0.191,26,Thu Jun 14 22:28:05 +0000 2018
+326,1007387784804491264,Fox News,"Seven highlights from bombshell IG report.
+https://t.co/PasbyXR84v",0.0,0.0,1.0,0.0,27,Thu Jun 14 22:22:18 +0000 2018
+327,1007387496886530048,Fox News,Rep. @TGowdySC: ,-0.0191,0.0,0.946,0.054,28,Thu Jun 14 22:21:10 +0000 2018
+328,1007386093686284290,Fox News,House Majority Whip @SteveScalise has left the Capitol for tonight's Congressional Baseball Game. Scalise was wound,0.0,0.0,1.0,0.0,29,Thu Jun 14 22:15:35 +0000 2018
+329,1007385004543012864,Fox News,.@RepGoodlatte: ,0.4019,0.144,0.856,0.0,30,Thu Jun 14 22:11:16 +0000 2018
+330,1007384517089415176,Fox News,Rep. @TGowdySC on the DOJ IG report: ,0.0,0.0,1.0,0.0,31,Thu Jun 14 22:09:19 +0000 2018
+331,1007382172984938498,Fox News,TUNE IN: Reps. Trey Gowdy and Bob Goodlatte speak to @BretBaier. Watch @SpecialReport now on Fox News Channel!,0.0,0.0,1.0,0.0,32,Thu Jun 14 22:00:00 +0000 2018
+332,1007381238787792898,Fox News,FBI Director Christopher Wray on IG report: ,-0.2023,0.0,0.913,0.087,33,Thu Jun 14 21:56:18 +0000 2018
+333,1007380523415678978,Fox News,FBI Director Christopher Wray on leaking: ,-0.2023,0.113,0.739,0.148,34,Thu Jun 14 21:53:27 +0000 2018
+334,1007379449522814976,Fox News,FBI Director Christopher Wray on IG report: ,0.3182,0.113,0.887,0.0,35,Thu Jun 14 21:49:11 +0000 2018
+335,1007379149256888321,Fox News,FBI Director Christopher Wray on the FBI: ,-0.8225,0.0,0.703,0.297,36,Thu Jun 14 21:48:00 +0000 2018
+336,1007377732555214848,Fox News,FBI Director Christopher Wray: ,-0.7845,0.0,0.669,0.331,37,Thu Jun 14 21:42:22 +0000 2018
+337,1007377642818064384,Fox News,FBI Director Christopher Wray: ,0.0,0.0,1.0,0.0,38,Thu Jun 14 21:42:00 +0000 2018
+338,1007377167171358720,Fox News,FBI Director Christopher Wray: ,-0.1027,0.0,0.924,0.076,39,Thu Jun 14 21:40:07 +0000 2018
+339,1007376653306269696,Fox News,FBI Director Christopher Wray: ,0.3818,0.133,0.867,0.0,40,Thu Jun 14 21:38:04 +0000 2018
+340,1007376323084537861,Fox News,FBI Director Christopher Wray on IG report: ,0.1548,0.11,0.805,0.084,41,Thu Jun 14 21:36:46 +0000 2018
+341,1007375622585319425,Fox News,FBI Director Christopher Wray: ,0.5719,0.266,0.734,0.0,42,Thu Jun 14 21:33:59 +0000 2018
+342,1007375463923232773,Fox News,TONIGHT: Reps. Trey Gowdy and Bob Goodlatte speak to @BretBaier. Tune in to @SpecialReport on Fox News Channel at 6,0.0,0.0,1.0,0.0,43,Thu Jun 14 21:33:21 +0000 2018
+343,1007375233769263104,Fox News,FBI Director Christopher Wray holds a news conference on the Department of Justice Inspector General report.,0.5267,0.185,0.815,0.0,44,Thu Jun 14 21:32:26 +0000 2018
+344,1007375183294935040,Fox News,.@AlanDersh on IG report: DOJ watchdog should have been much tougher on Comey https://t.co/Vld8KwEjmx,0.1779,0.116,0.884,0.0,45,Thu Jun 14 21:32:14 +0000 2018
+345,1007374356501188608,Fox News,CA Attorney: California Is 'Like a Drunk,0.0258,0.14,0.726,0.134,46,Thu Jun 14 21:28:57 +0000 2018
+346,1007373053960032256,Fox News,.@kimguilfoyle on IG report: ,0.0,0.0,1.0,0.0,47,Thu Jun 14 21:23:46 +0000 2018
+347,1007371493536387072,Fox News,.@kimguilfoyle on IG report: ,0.0,0.0,1.0,0.0,48,Thu Jun 14 21:17:34 +0000 2018
+348,1007370881545527296,Fox News,.@BretBaier on @JusticeOIG report: ,-0.5267,0.0,0.841,0.159,49,Thu Jun 14 21:15:08 +0000 2018
+349,1007369933485993989,Fox News,IG report: DOJ official sought Clinton campaign job for son,0.34,0.13,0.87,0.0,50,Thu Jun 14 21:11:22 +0000 2018
+350,1007368921287135233,Fox News,.@nikkihaley and other ambassadors on the @UN Security Council posed for a photo op Thursday,0.34,0.124,0.876,0.0,51,Thu Jun 14 21:07:21 +0000 2018
+351,1007368403554795520,Fox News,BEAR'S BEST FRIEND: Most folks might run away in fear after coming face,0.516,0.221,0.693,0.086,52,Thu Jun 14 21:05:18 +0000 2018
+352,1007366875066585088,Fox News,.@RepValDemings: ,0.0,0.0,1.0,0.0,53,Thu Jun 14 20:59:13 +0000 2018
+353,1007364161729388545,Fox News,.@SenFeinstein: ,0.0,0.156,0.688,0.156,54,Thu Jun 14 20:48:26 +0000 2018
+354,1007363006399959040,Fox News,Earlier,0.0,0.0,1.0,0.0,55,Thu Jun 14 20:43:51 +0000 2018
+355,1007360748610256897,Fox News,'Don't You Have Any Empathy?!': Playboy Reporter Goes After Sanders on Migrant Kids Being Separated From Parents. https://t.co/K7giEvC3OR,0.0,0.0,1.0,0.0,56,Thu Jun 14 20:34:52 +0000 2018
+356,1007359762873405441,Fox News,IG refers five FBI employees for investigation,0.0,0.0,1.0,0.0,57,Thu Jun 14 20:30:57 +0000 2018
+357,1007359373444833280,Fox News,Democrats @SenSchumer ,0.0,0.0,1.0,0.0,58,Thu Jun 14 20:29:25 +0000 2018
+358,1007358042030198785,Fox News,Former DOJ official Tom Dupree on the Russia investigation: ,0.0,0.0,1.0,0.0,59,Thu Jun 14 20:24:07 +0000 2018
+359,1007356274273603584,Fox News,.@RepMarkMeadows: ,-0.1761,0.0,0.918,0.082,60,Thu Jun 14 20:17:06 +0000 2018
+360,1007355583199051777,Fox News,"'Angered and deeply disappointed'
 
-",-0.1027,0.0,0.928,0.072,60,Tue Jun 12 12:00:21 +0000 2018
-460,1006502393129918464,The New York Times,Peter Navarro,-0.2732,0.172,0.651,0.176,61,Tue Jun 12 11:44:05 +0000 2018
-461,1006498898045784064,The New York Times,They have great beaches,0.6249,0.186,0.814,0.0,62,Tue Jun 12 11:30:11 +0000 2018
-462,1006495092058845194,The New York Times,Was the handshake between President Trump and Kim Jong,0.0,0.0,1.0,0.0,63,Tue Jun 12 11:15:04 +0000 2018
-463,1006491348491436033,The New York Times,Prosecutors said a top Volkswagen manager was a suspect in a criminal inquiry,-0.5859,0.084,0.654,0.262,64,Tue Jun 12 11:00:11 +0000 2018
-464,1006487555859152896,The New York Times,Safe sex is basically transformed by PrEP.,0.4939,0.189,0.811,0.0,65,Tue Jun 12 10:45:07 +0000 2018
-465,1006483804553469952,The New York Times,By showing Kim Jong,0.3818,0.126,0.874,0.0,66,Tue Jun 12 10:30:13 +0000 2018
-466,1006481266387103744,The New York Times,Edgar Valdez Villarreal,-0.4889,0.13,0.611,0.259,67,Tue Jun 12 10:20:08 +0000 2018
-467,1006478987865022464,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/1rw5fG4Cu3 https://t.co/7SaThJpzCj,0.0,0.0,1.0,0.0,68,Tue Jun 12 10:11:04 +0000 2018
-468,1006476272506155008,The New York Times,The full text of the document signed by President Trump and Kim Jong,0.0,0.0,1.0,0.0,69,Tue Jun 12 10:00:17 +0000 2018
-469,1006472853124993024,The New York Times,Breaking News: President Trump said the U.S. would suspend military exercises on the Korean Peninsula,-0.3182,0.0,0.881,0.119,70,Tue Jun 12 09:46:42 +0000 2018
-470,1006472434776772608,The New York Times,RT @petersgoodman: ,0.4939,0.127,0.873,0.0,71,Tue Jun 12 09:45:02 +0000 2018
-471,1006468663103377408,The New York Times,A man fatally shot four children and then himself late Monday in Orlando,-0.6369,0.0,0.811,0.189,72,Tue Jun 12 09:30:03 +0000 2018
-472,1006464634654724096,The New York Times,RT @nytimesworld: Living alone and working a dead,-0.5826,0.0,0.799,0.201,73,Tue Jun 12 09:14:02 +0000 2018
-473,1006461126606032896,The New York Times,Photos from the Trump,0.0,0.0,1.0,0.0,74,Tue Jun 12 09:00:06 +0000 2018
-474,1006457349823959040,The New York Times,President Trump and Kim Jong,0.3818,0.205,0.795,0.0,75,Tue Jun 12 08:45:05 +0000 2018
-475,1006453591127838721,The New York Times,Dennis Rodman ,0.6369,0.174,0.826,0.0,76,Tue Jun 12 08:30:09 +0000 2018
-476,1006449805240033281,The New York Times,RT @nytimesworld: In the first six years as leader,0.0,0.0,1.0,0.0,77,Tue Jun 12 08:15:07 +0000 2018
-477,1006446519124418560,The New York Times,You've probably seen this G,0.0,0.0,1.0,0.0,78,Tue Jun 12 08:02:03 +0000 2018
-478,1006442746645745664,The New York Times,An in,0.0,0.0,1.0,0.0,79,Tue Jun 12 07:47:04 +0000 2018
-479,1006438976960585728,The New York Times,This buttery loaf is made with a bit of orange zest,0.8807,0.421,0.579,0.0,80,Tue Jun 12 07:32:05 +0000 2018
-480,1006435206994300928,The New York Times,RT @nytimestravel: 36 Hours in the Cotswolds: Its lost,0.0,0.0,1.0,0.0,81,Tue Jun 12 07:17:06 +0000 2018
-481,1006431413535756289,The New York Times,Some police officers in the UK took to social media to express dismay at a campaign by Lush,-0.4215,0.0,0.872,0.128,82,Tue Jun 12 07:02:02 +0000 2018
-482,1006423862790287360,The New York Times,RT @nytimesarts: Rose McGowan called for a discussion about mental illness in a letter about Asia Argento and Anthony Bourdain after he kil,-0.4019,0.0,0.881,0.119,83,Tue Jun 12 06:32:01 +0000 2018
-483,1006421399748141056,The New York Times,Breaking News: President Trump ended a meeting with Kim Jong,0.0,0.0,1.0,0.0,84,Tue Jun 12 06:22:14 +0000 2018
-484,1006419893871431680,The New York Times,RT @nytimesbusiness: Vice Media is testing the limits of the ,-0.4404,0.0,0.884,0.116,85,Tue Jun 12 06:16:15 +0000 2018
-485,1006415813283340288,The New York Times,Florida Man Kills 4 Children and Himself,-0.5423,0.0,0.741,0.259,86,Tue Jun 12 06:00:02 +0000 2018
-486,1006412890570620930,The New York Times,I,0.2944,0.189,0.714,0.097,87,Tue Jun 12 05:48:26 +0000 2018
-487,1006408776713474049,The New York Times,RT @MichaelPaulson: How did a musical few people have ever heard of sweep the Tony Awards? A look at the journey of ,0.4588,0.111,0.889,0.0,88,Tue Jun 12 05:32:05 +0000 2018
-488,1006403473485770752,The New York Times,The net neutrality repeal is official. Here,0.0,0.0,1.0,0.0,89,Tue Jun 12 05:11:00 +0000 2018
-489,1006399445699788806,The New York Times,The escalating suicide rate is a profound indictment of the United States,-0.4019,0.138,0.64,0.222,90,Tue Jun 12 04:55:00 +0000 2018
-490,1006395285403324416,The New York Times,RT @nytimestravel: ,0.4767,0.11,0.89,0.0,91,Tue Jun 12 04:38:28 +0000 2018
-491,1006391155578286080,The New York Times,RT @NYTNational: A Memphis woman drove over 20 miles with 2 children in pet kennels in the trunk of her car https://t.co/nn49D5yqE9,0.0,0.0,1.0,0.0,92,Tue Jun 12 04:22:03 +0000 2018
-492,1006386119435522049,The New York Times,The U.S. has talked about building solar panel highways for years. China has now done it. https://t.co/qpE2iQmcv7,0.0,0.0,1.0,0.0,93,Tue Jun 12 04:02:03 +0000 2018
-493,1006382347338551297,The New York Times,RT @nytopinion: There has never been a disaster like the G7 meeting that just took place. It could herald the beginning of a trade war,-0.4051,0.109,0.693,0.198,94,Tue Jun 12 03:47:03 +0000 2018
-494,1006378591544889344,The New York Times,Photos of the Trump,0.0,0.0,1.0,0.0,95,Tue Jun 12 03:32:08 +0000 2018
-495,1006374800326094849,The New York Times,I go to sleep at night beating myself up about it,-0.4588,0.0,0.88,0.12,96,Tue Jun 12 03:17:04 +0000 2018
-496,1006373294113685506,The New York Times,RT @dougmillsnyt: .@realDonaldTrump and North Korean leader Kim Jong,0.0,0.0,1.0,0.0,97,Tue Jun 12 03:11:05 +0000 2018
-497,1006371023053344768,The New York Times,A federal judge sharply criticized the Justice Department,0.34,0.274,0.513,0.214,98,Tue Jun 12 03:02:04 +0000 2018
-498,1006368914807377921,The New York Times,RT @austinramzy: My meager contribution to this historic moment https://t.co/qv0bTV4G2j,0.0,0.0,1.0,0.0,99,Tue Jun 12 02:53:41 +0000 2018
-499,1006367256618700805,The New York Times,RT @nytpolitics: In the first six years as leader,0.0,0.0,1.0,0.0,100,Tue Jun 12 02:47:06 +0000 2018
+Lawmakers from both parties slam the FBI and @Comey after the release of the DOJ",-0.7645,0.096,0.572,0.332,61,Thu Jun 14 20:14:21 +0000 2018
+361,1007354517774532608,Fox News,.@RepMarkMeadows on the DOJ IG report: ,0.0,0.0,1.0,0.0,62,Thu Jun 14 20:10:07 +0000 2018
+362,1007353657464098816,Fox News,.@Comey used personal email to conduct FBI business,0.0,0.0,1.0,0.0,63,Thu Jun 14 20:06:42 +0000 2018
+363,1007350098517463040,Fox News,John Bussey on IG report: ,-0.4019,0.0,0.891,0.109,64,Thu Jun 14 19:52:33 +0000 2018
+364,1007348854843432961,Fox News,.@PressSec on report that she's leaving: ,0.802,0.255,0.745,0.0,65,Thu Jun 14 19:47:37 +0000 2018
+365,1007347732296683526,Fox News,Watchdog report revelation: DOJ inspector general refers five FBI employees for investigation over 'hostile' politi,0.0,0.0,1.0,0.0,66,Thu Jun 14 19:43:09 +0000 2018
+366,1007347292335169536,Fox News,.@PressSec on immigration bills: ,0.128,0.081,0.919,0.0,67,Thu Jun 14 19:41:24 +0000 2018
+367,1007346175018708993,Fox News,.@PressSec on immigration: ,-0.4767,0.068,0.769,0.163,68,Thu Jun 14 19:36:58 +0000 2018
+368,1007344518369284096,Fox News,.@PressSec on Kim Jong Un,0.5423,0.156,0.844,0.0,69,Thu Jun 14 19:30:23 +0000 2018
+369,1007344151250309121,Fox News,.@PressSec on NY AG suing Trump Foundation: ,-0.4939,0.0,0.833,0.167,70,Thu Jun 14 19:28:55 +0000 2018
+370,1007343280684748800,Fox News,.@PressSec: ,-0.3612,0.0,0.872,0.128,71,Thu Jun 14 19:25:28 +0000 2018
+371,1007342291810385920,Fox News,.@PressSec on Congressional baseball game: ,-0.0772,0.104,0.779,0.117,72,Thu Jun 14 19:21:32 +0000 2018
+372,1007341719510290432,Fox News,.@PressSec on @larry_kudlow: ,0.4404,0.132,0.868,0.0,73,Thu Jun 14 19:19:16 +0000 2018
+373,1007341041572302849,Fox News,.@PressSec Sarah Sanders holds a @WhiteHouse briefing https://t.co/rqawaFbgjM,0.0,0.0,1.0,0.0,74,Thu Jun 14 19:16:34 +0000 2018
+374,1007339665580593154,Fox News,.@SteveScalise on Shooting One Year Later: 'My Arms Gave Out,0.3182,0.133,0.867,0.0,75,Thu Jun 14 19:11:06 +0000 2018
+375,1007338210878480384,Fox News,.@RepRatcliffe on @JusticeOIG report: ,0.0,0.0,1.0,0.0,76,Thu Jun 14 19:05:19 +0000 2018
+376,1007338090627821568,Fox News,Moments after the IG report about the Clinton email probe was released,0.0,0.0,1.0,0.0,77,Thu Jun 14 19:04:50 +0000 2018
+377,1007336776938278912,Fox News,.@RepRatcliffe: ,0.0,0.0,1.0,0.0,78,Thu Jun 14 18:59:37 +0000 2018
+378,1007334344803999746,Fox News,.@RepRatcliffe: ,-0.4767,0.0,0.871,0.129,79,Thu Jun 14 18:49:57 +0000 2018
+379,1007333271015915522,Fox News,Catherine Herridge reports on importance of Weiner,0.3612,0.161,0.839,0.0,80,Thu Jun 14 18:45:41 +0000 2018
+380,1007332747491373056,Fox News,Former FBI Director James @Comey responded to the @JusticeOIG report that blasted him as ,0.0,0.0,1.0,0.0,81,Thu Jun 14 18:43:36 +0000 2018
+381,1007330121181736960,Fox News,Driscoll: ,-0.4939,0.0,0.729,0.271,82,Thu Jun 14 18:33:10 +0000 2018
+382,1007326926376177664,Fox News,BREAKING NEWS: Justice Dept. inspector general releases report on FBI's handling of Hillary Clinton email case,0.5267,0.167,0.833,0.0,83,Thu Jun 14 18:20:29 +0000 2018
+383,1007326909208948741,Fox News,BREAKING NEWS: Justice Dept. inspector general releases report on FBI's handling of Hillary Clinton email case,0.5267,0.167,0.833,0.0,84,Thu Jun 14 18:20:25 +0000 2018
+384,1007324371340455936,Fox News,Breaking News: Justice Dept. IG report released on FBI's handling of Clinton email case,0.5267,0.167,0.833,0.0,85,Thu Jun 14 18:10:19 +0000 2018
+385,1007321474150039554,Fox News,Oklahoma fishermen catch 'behemoth' alligator snapping turtle https://t.co/54dtL7NV7I,0.0,0.0,1.0,0.0,86,Thu Jun 14 17:58:49 +0000 2018
+386,1007319198329114625,Fox News,Moments ago,0.5719,0.316,0.684,0.0,87,Thu Jun 14 17:49:46 +0000 2018
+387,1007318592218681344,Fox News,Rudy Giuliani on expected DOJ IG report. https://t.co/sXnUsBr8aU,0.0,0.0,1.0,0.0,88,Thu Jun 14 17:47:22 +0000 2018
+388,1007316087803965440,Fox News,.@GOPLeader: ,0.0,0.0,1.0,0.0,89,Thu Jun 14 17:37:25 +0000 2018
+389,1007313424601243648,Fox News,.@SenJohnKennedy: ,0.0772,0.157,0.843,0.0,90,Thu Jun 14 17:26:50 +0000 2018
+390,1007309904254849024,Fox News,President @realDonaldTrump says he will not settle a lawsuit announced by NY AG. https://t.co/0HHCuDpRNh,0.1695,0.122,0.878,0.0,91,Thu Jun 14 17:12:50 +0000 2018
+391,1007307517398044672,Fox News,News Alert: Rosenstein at the @WhiteHouse as we await the release of DOJ IG report. https://t.co/7dUfnaHnJe,0.3818,0.205,0.795,0.0,92,Thu Jun 14 17:03:21 +0000 2018
+392,1007306443572371461,Fox News,FBI agent Strzok texted 'we'll stop' Trump from becoming president,-0.296,0.0,0.855,0.145,93,Thu Jun 14 16:59:05 +0000 2018
+393,1007305496808906752,Fox News,Moments ago,0.5719,0.27,0.73,0.0,94,Thu Jun 14 16:55:19 +0000 2018
+394,1007303764158701569,Fox News,Trump blasts Russia allegations as 'pile of garbage' ,0.0,0.0,1.0,0.0,95,Thu Jun 14 16:48:26 +0000 2018
+395,1007303099126513665,Fox News,New York AG files lawsuit against Trump Foundation for alleged 'illegal conduct,-0.6705,0.0,0.744,0.256,96,Thu Jun 14 16:45:48 +0000 2018
+396,1007302300103213057,Fox News,Las Vegas footage shows chaos among officers,-0.5719,0.0,0.748,0.252,97,Thu Jun 14 16:42:37 +0000 2018
+397,1007300746042363904,Fox News,.@JulieBanderas: ,-0.4298,0.0,0.841,0.159,98,Thu Jun 14 16:36:27 +0000 2018
+398,1007297722544685057,Fox News,.@LizMacDonaldFOX: ,0.3818,0.14,0.86,0.0,99,Thu Jun 14 16:24:26 +0000 2018
+399,1007295491342782466,Fox News,.@LisaMarieBoothe: ,0.0516,0.226,0.565,0.21,100,Thu Jun 14 16:15:34 +0000 2018
+400,1007420448584421376,The New York Times,In Opinion,0.5566,0.175,0.759,0.066,1,Fri Jun 15 00:32:06 +0000 2018
+401,1007416665615818752,The New York Times,RT @jwpetersNYT: GOP lawmakers in several states,-0.1027,0.0,0.931,0.069,2,Fri Jun 15 00:17:04 +0000 2018
+402,1007412882076823552,The New York Times,The Supreme Court struck down a Minnesota law that prohibits voters from wearing T,0.3818,0.167,0.741,0.093,3,Fri Jun 15 00:02:02 +0000 2018
+403,1007409116829110273,The New York Times,An Oakland jogger,-0.6486,0.0,0.762,0.238,4,Thu Jun 14 23:47:04 +0000 2018
+404,1007405324540792834,The New York Times,Here's the 2018 election calendar https://t.co/3sjhX76teP,0.0,0.0,1.0,0.0,5,Thu Jun 14 23:32:00 +0000 2018
+405,1007401575969624066,The New York Times,RT @nytopinion: If you want to help sway the Trump administration to do the right thing for families coming across the border,0.4588,0.148,0.852,0.0,6,Thu Jun 14 23:17:06 +0000 2018
+406,1007397802220105728,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/uIEwWKsrso,0.0,0.0,1.0,0.0,7,Thu Jun 14 23:02:07 +0000 2018
+407,1007394013375291394,The New York Times,RT @ksacknyt: I spent a few weeks investigating the business record of the GOP frontrunner for governor in Georgia,0.0,0.0,1.0,0.0,8,Thu Jun 14 22:47:03 +0000 2018
+408,1007390230159265792,The New York Times,"U.S. Open 2018 live: leaderboard and first round updates
+https://t.co/wnjdfwhyFx",0.0,0.0,1.0,0.0,9,Thu Jun 14 22:32:01 +0000 2018
+409,1007386467897937932,The New York Times,She received an anonymous letter asking her to use a dryer or hang her laundry indoors. It backfired spectacularly. https://t.co/juc3x9V6nY,0.0,0.0,1.0,0.0,10,Thu Jun 14 22:17:04 +0000 2018
+410,1007382685503971328,The New York Times,RT @NYTimesAtWar: Helmets that were the wrong size and vehicles that partner nations do not have the parts to maintain are just some of the,-0.4767,0.0,0.886,0.114,11,Thu Jun 14 22:02:03 +0000 2018
+411,1007378917014036480,The New York Times,This week's primaries showed just how much the Republican Party has become the party of Trump and that its politici,0.6597,0.221,0.779,0.0,12,Thu Jun 14 21:47:04 +0000 2018
+412,1007375127812759554,The New York Times,A big question hangs over HBO. How will the creative talent behind ,0.6908,0.231,0.769,0.0,13,Thu Jun 14 21:32:01 +0000 2018
+413,1007371359255744519,The New York Times,RT @lauriegnyt: Focus on the family? Conservative religious leaders who have long preached about the sanctity of the family are speaking ou,0.0,0.0,1.0,0.0,14,Thu Jun 14 21:17:02 +0000 2018
+414,1007367140658249729,The New York Times,Dads are now at the center of the style universe https://t.co/XHkvTEQsNp,0.0,0.0,1.0,0.0,15,Thu Jun 14 21:00:16 +0000 2018
+415,1007363311288115201,The New York Times,Wrap,0.0,0.0,1.0,0.0,16,Thu Jun 14 20:45:03 +0000 2018
+416,1007359784641843200,The New York Times,Vladimir Putin saw the World Cup as a chance to showcase his country. Not everyone likes what they see. https://t.co/kbcNCtI4Fy,0.5859,0.22,0.78,0.0,17,Thu Jun 14 20:31:03 +0000 2018
+417,1007357037557239808,The New York Times,Happy Flag Day! But are you flying it wrong? Can a flag touch the ground? Your questions,0.3076,0.186,0.682,0.132,18,Thu Jun 14 20:20:08 +0000 2018
+418,1007353247638618112,The New York Times,Recipes in 19th,0.3612,0.135,0.865,0.0,19,Thu Jun 14 20:05:04 +0000 2018
+419,1007350741848199169,The New York Times,RT @nytimesbusiness: We reported last year that states were suspending the licenses of people who had defaulted on their student loans ,0.0,0.0,1.0,0.0,20,Thu Jun 14 19:55:07 +0000 2018
+420,1007348234178711553,The New York Times,The notes Albert Einstein wrote while traveling through Asia and the Middle East reveal xenophobic views of the peo,0.0,0.0,1.0,0.0,21,Thu Jun 14 19:45:09 +0000 2018
+421,1007344464162115585,The New York Times,RT @MichaelPaulson: ,-0.296,0.049,0.854,0.098,22,Thu Jun 14 19:30:10 +0000 2018
+422,1007341931112824835,The New York Times,Leaders of many faiths have spoken out consistently against Trump's immigration policies. What has changed is that,0.4215,0.141,0.859,0.0,23,Thu Jun 14 19:20:06 +0000 2018
+423,1007338149482201088,The New York Times,36 Hours in Seville: Take a tapas tour,0.4404,0.146,0.854,0.0,24,Thu Jun 14 19:05:04 +0000 2018
+424,1007335628198080513,The New York Times,RT @ginakolata: Mediterranean diet study is retracted and re,-0.3089,0.0,0.861,0.139,25,Thu Jun 14 18:55:03 +0000 2018
+425,1007333128845881347,The New York Times,Ivana Trump returns to the spotlight ,0.6369,0.224,0.776,0.0,26,Thu Jun 14 18:45:07 +0000 2018
+426,1007330607913979904,The New York Times,RT @nytimesworld: Mexico and the U.S. are deeply intertwined through migration,0.6369,0.234,0.766,0.0,27,Thu Jun 14 18:35:06 +0000 2018
+427,1007328091541303296,The New York Times,How do I repair my relationship to food in the shadow of a mom who will never change the way she understands weigh,0.0,0.0,1.0,0.0,28,Thu Jun 14 18:25:06 +0000 2018
+428,1007327748816285696,The New York Times,In Opinion,0.5566,0.175,0.759,0.066,29,Thu Jun 14 18:23:45 +0000 2018
+429,1007325566670917637,The New York Times,RT @nytimesarts: ,0.0,0.0,1.0,0.0,30,Thu Jun 14 18:15:04 +0000 2018
+430,1007323055138508800,The New York Times,Why has President Trump,0.5106,0.193,0.807,0.0,31,Thu Jun 14 18:05:06 +0000 2018
+431,1007320540925906948,The New York Times,RT @nytimesbusiness: ,-0.3818,0.0,0.841,0.159,32,Thu Jun 14 17:55:06 +0000 2018
+432,1007318014646251521,The New York Times,Fed chiefs normally use the royal ,0.0,0.0,1.0,0.0,33,Thu Jun 14 17:45:04 +0000 2018
+433,1007315488375037952,The New York Times,RT @nytimesbusiness: A ,-0.7906,0.0,0.75,0.25,34,Thu Jun 14 17:35:02 +0000 2018
+434,1007312985130487808,The New York Times,When one person,0.1027,0.206,0.645,0.149,35,Thu Jun 14 17:25:05 +0000 2018
+435,1007310759100059648,The New York Times,RT @NYTMetro: New York's attorney general calls the Trump Foundation ,0.0,0.0,1.0,0.0,36,Thu Jun 14 17:16:14 +0000 2018
+436,1007309017918640128,The New York Times,The World Cup opened with a speech by Vladimir Putin and a 5,0.0,0.0,1.0,0.0,37,Thu Jun 14 17:09:19 +0000 2018
+437,1007307939525341185,The New York Times,The converted Walmart has become the largest licensed migrant children,0.0,0.0,1.0,0.0,38,Thu Jun 14 17:05:02 +0000 2018
+438,1007304803184234496,The New York Times,Breaking News: James Comey was insubordinate in the Clinton email investigation,0.6808,0.223,0.777,0.0,39,Thu Jun 14 16:52:34 +0000 2018
+439,1007302918259773440,The New York Times,To many immigration judges,0.3182,0.108,0.892,0.0,40,Thu Jun 14 16:45:05 +0000 2018
+440,1007300402197475328,The New York Times,RT @nytimesbusiness: Federal Reserve chiefs are known for saying little,0.0,0.0,1.0,0.0,41,Thu Jun 14 16:35:05 +0000 2018
+441,1007296651260825602,The New York Times,Women can wear pants at the Oscars,0.0,0.0,1.0,0.0,42,Thu Jun 14 16:20:10 +0000 2018
+442,1007292860423647233,The New York Times,This weekend,-0.296,0.0,0.909,0.091,43,Thu Jun 14 16:05:07 +0000 2018
+443,1007290328838299650,The New York Times,RT @nytvideo: There are roughly 2,-0.4404,0.0,0.879,0.121,44,Thu Jun 14 15:55:03 +0000 2018
+444,1007287813300203520,The New York Times,Antarctica is now melting so fast,0.0,0.0,1.0,0.0,45,Thu Jun 14 15:45:03 +0000 2018
+445,1007287762431676417,The New York Times,Follow the @NYTSports journalists covering the World Cup: https://t.co/2i5aV2Mbt5,0.0,0.0,1.0,0.0,46,Thu Jun 14 15:44:51 +0000 2018
+446,1007287252437946369,The New York Times,Get all the latest #WorldCup updates from journalists on the ground.,0.0,0.0,1.0,0.0,47,Thu Jun 14 15:42:50 +0000 2018
+447,1007284065685458946,The New York Times,Benjamin Carter Hett presents Hitler's rise as an element of the collapse of a republic confronting dilemmas of glo,-0.5859,0.0,0.78,0.22,48,Thu Jun 14 15:30:10 +0000 2018
+448,1007280282712657920,The New York Times,A government earthquake study included a list of potentially vulnerable high,-0.2263,0.0,0.888,0.112,49,Thu Jun 14 15:15:08 +0000 2018
+449,1007278254544310272,The New York Times,RT @amyfiscus: The nation's immigration judges are increasingly worried that Jeff Sessions is keeping them from delivering justice https://,0.296,0.15,0.752,0.097,50,Thu Jun 14 15:07:04 +0000 2018
+450,1007275385774624768,The New York Times,Breaking News: New York is suing the Trump foundation,-0.4215,0.0,0.833,0.167,51,Thu Jun 14 14:55:40 +0000 2018
+451,1007274895582089217,The New York Times,Here's your guide to all 32 teams playing in the 2018 World Cup,0.6808,0.228,0.772,0.0,52,Thu Jun 14 14:53:44 +0000 2018
+452,1007274685506183170,The New York Times,It,0.0,0.0,1.0,0.0,53,Thu Jun 14 14:52:53 +0000 2018
+453,1007268949258592256,The New York Times,In 2015,0.0,0.0,1.0,0.0,54,Thu Jun 14 14:30:06 +0000 2018
+454,1007266167537524736,The New York Times,Mike Pompeo insisted that United Nations sanctions would remain in place until North Korea had accomplished ,0.6908,0.263,0.737,0.0,55,Thu Jun 14 14:19:03 +0000 2018
+455,1007264169371078656,The New York Times,It is the most beneficial international situation for Russia right now since 2013,0.4927,0.138,0.862,0.0,56,Thu Jun 14 14:11:06 +0000 2018
+456,1007261411326783488,The New York Times,RT @monicadavey1: 12 minutes to O'hare?! Chicago's Mayor Rahm Emanuel says Elon Musk will change the endless,-0.5411,0.0,0.857,0.143,57,Thu Jun 14 14:00:09 +0000 2018
+457,1007257873230057472,The New York Times,In school districts that are mostly rich,0.5574,0.153,0.847,0.0,58,Thu Jun 14 13:46:05 +0000 2018
+458,1007254334164361216,The New York Times,Michael Cohen will soon be parting from the lawyers who are representing him in a potentially damaging and wide,-0.5106,0.0,0.845,0.155,59,Thu Jun 14 13:32:01 +0000 2018
+459,1007250311281545216,The New York Times,A 19,-0.8689,0.0,0.62,0.38,60,Thu Jun 14 13:16:02 +0000 2018
+460,1007246317633011712,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/d1IaaDlhiJ https://t.co/25k6a60333,0.0,0.0,1.0,0.0,61,Thu Jun 14 13:00:10 +0000 2018
+461,1007242772166905856,The New York Times,President Trump portrayed his agreement with Kim Jong,0.4939,0.151,0.849,0.0,62,Thu Jun 14 12:46:05 +0000 2018
+462,1007239231675293697,The New York Times,A lawyer said a gatekeeper for Marvel Comics legend Stan Lee is ,0.4215,0.141,0.859,0.0,63,Thu Jun 14 12:32:01 +0000 2018
+463,1007234977644335104,The New York Times,It's never a good look when Pakistan,-0.7849,0.0,0.711,0.289,64,Thu Jun 14 12:15:06 +0000 2018
+464,1007231210735718400,The New York Times,"Your daily @DealBook Briefing:
+
+",-0.0516,0.15,0.691,0.159,65,Thu Jun 14 12:00:08 +0000 2018
+465,1007227442296164352,The New York Times,Stephen Colbert welcomed an odd couple on Wednesday: Michael Avenatti,0.0258,0.116,0.773,0.111,66,Thu Jun 14 11:45:10 +0000 2018
+466,1007223381123649536,The New York Times,We learned of how whole families died huddled together in corridors,-0.5574,0.0,0.841,0.159,67,Thu Jun 14 11:29:02 +0000 2018
+467,1007221379702362112,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/Dlbt6tUhqH https://t.co/xH8Bky2PMX,0.0,0.0,1.0,0.0,68,Thu Jun 14 11:21:04 +0000 2018
+468,1007216136637861890,The New York Times,Stephen Bannon is betting that Bitcoin and other cryptocurrencies can disrupt banking the way President Trump disru,0.0,0.0,1.0,0.0,69,Thu Jun 14 11:00:14 +0000 2018
+469,1007212337672179712,The New York Times,We were all kind of worried he might be too tired to do so but thankfully the little guy kept going,0.3445,0.154,0.709,0.138,70,Thu Jun 14 10:45:09 +0000 2018
+470,1007208790780010496,The New York Times,We have been basing our policy on the basis that the U.S. is a credible partner,0.0,0.0,1.0,0.0,71,Thu Jun 14 10:31:03 +0000 2018
+471,1007205008939642880,The New York Times,RT @nytimesworld: ,0.3612,0.102,0.898,0.0,72,Thu Jun 14 10:16:01 +0000 2018
+472,1007201338411880448,The New York Times,RT @emmagf: The Taxi of Tomorrow was supposed to become the standard cab in New York City. Now the city has abandoned that idea: https://t.,-0.4588,0.0,0.889,0.111,73,Thu Jun 14 10:01:26 +0000 2018
+473,1007196960162500608,The New York Times,This may not be a World Cup that changes how the world sees Russia. But it could be a World Cup that changes how R,0.0,0.0,1.0,0.0,74,Thu Jun 14 09:44:02 +0000 2018
+474,1007193469918547969,The New York Times,RT @cmontefiore: Macquarie Street in #Hobart ,-0.2263,0.0,0.924,0.076,75,Thu Jun 14 09:30:10 +0000 2018
+475,1007189693685993477,The New York Times,ICE came for a Tennessee town,-0.3182,0.0,0.827,0.173,76,Thu Jun 14 09:15:10 +0000 2018
+476,1007185900894412800,The New York Times,A UN resolution deplored ,0.3818,0.148,0.852,0.0,77,Thu Jun 14 09:00:06 +0000 2018
+477,1007182146094731264,The New York Times,RT @nytimesworld: ,0.0,0.0,1.0,0.0,78,Thu Jun 14 08:45:10 +0000 2018
+478,1007178356809519104,The New York Times,You will see not only a cool view of the pitch,0.6777,0.198,0.744,0.058,79,Thu Jun 14 08:30:07 +0000 2018
+479,1007174829450190848,The New York Times,Switching jobs? Getting away for a while could help you get ready for the next one. https://t.co/YUMBdZvCX8,0.6369,0.271,0.729,0.0,80,Thu Jun 14 08:16:06 +0000 2018
+480,1007169533520547840,The New York Times,For nearly 60 years,0.0,0.0,1.0,0.0,81,Thu Jun 14 07:55:03 +0000 2018
+481,1007163746693865472,The New York Times,She received an anonymous letter asking her to use a dryer or hang her laundry indoors. It backfired spectacularly. https://t.co/gLsscg7Hhm,0.0,0.0,1.0,0.0,82,Thu Jun 14 07:32:04 +0000 2018
+482,1007159970868158464,The New York Times,RT @nytimesworld: Why won't Trump talk to Iranians the way he talked with Kim? Because we don't have nuclear weapons,0.3412,0.099,0.901,0.0,83,Thu Jun 14 07:17:03 +0000 2018
+483,1007156197940776965,The New York Times,Scientists are studying the sounds of this remote population of narwhals in east Greenland to understand how meltin,0.0,0.0,1.0,0.0,84,Thu Jun 14 07:02:04 +0000 2018
+484,1007151093485391872,The New York Times,A Year on,-0.7906,0.0,0.533,0.467,85,Thu Jun 14 06:41:47 +0000 2018
+485,1007148735498014720,The New York Times,Next in Irish Voters,0.0,0.0,1.0,0.0,86,Thu Jun 14 06:32:25 +0000 2018
+486,1007146479440539651,The New York Times,Human cells resist gene editing by turning on defenses against cancer,-0.5719,0.081,0.711,0.209,87,Thu Jun 14 06:23:27 +0000 2018
+487,1007142286105415681,The New York Times,One of the oldest and mightiest trees in Africa collapsed in 2016. It wasn't an isolated event: Across Africa,-0.0356,0.085,0.824,0.091,88,Thu Jun 14 06:06:47 +0000 2018
+488,1007138041788616705,The New York Times,Banksy submitted an artwork anonymously to one of Britain's leading art shows ,-0.5106,0.0,0.82,0.18,89,Thu Jun 14 05:49:55 +0000 2018
+489,1007133783986982913,The New York Times,RT @nytimesworld: Mike Pompeo said he expected ,0.2023,0.087,0.913,0.0,90,Thu Jun 14 05:33:00 +0000 2018
+490,1007128259061043201,The New York Times,The disgraced organizer of the Fyre Festival is accused of running a ticket,-0.6908,0.114,0.569,0.317,91,Thu Jun 14 05:11:03 +0000 2018
+491,1007120720210558977,The New York Times,RT @nytimesbusiness: Goldman Sachs will jump into the social impact investing world,0.0,0.0,1.0,0.0,92,Thu Jun 14 04:41:05 +0000 2018
+492,1007115676467847168,The New York Times,Misty Copeland,0.0,0.0,1.0,0.0,93,Thu Jun 14 04:21:03 +0000 2018
+493,1007112982101397507,The New York Times,Chicago Says Elon Musk,0.0,0.0,1.0,0.0,94,Thu Jun 14 04:10:20 +0000 2018
+494,1007110901923794945,The New York Times,Bitcoin skyrocketed last year. A new paper attributes much of the gain to price manipulation. https://t.co/OL36lb7cEO,0.296,0.183,0.699,0.118,95,Thu Jun 14 04:02:04 +0000 2018
+495,1007107136168644610,The New York Times,Anthony Bourdain ,0.8074,0.278,0.722,0.0,96,Thu Jun 14 03:47:07 +0000 2018
+496,1007103338880659456,The New York Times,In much of the U.S.,0.5267,0.211,0.704,0.085,97,Thu Jun 14 03:32:01 +0000 2018
+497,1007099567123451909,The New York Times,Isotopic fingerprints in Aztec turquoise suggests there was no extensive trade in the stone between Mesoamerica and,-0.296,0.0,0.885,0.115,98,Thu Jun 14 03:17:02 +0000 2018
+498,1007095791515848707,The New York Times,NYC Mayor Bill de Blasio started the city's worst landlords list when he was public advocate. A federal report reve,-0.6249,0.0,0.823,0.177,99,Thu Jun 14 03:02:02 +0000 2018
+499,1007092017367846912,The New York Times,Does the Mediterranean diet prevent heart disease? A big study found it did. Now the investigators concede it was f,0.0258,0.055,0.945,0.0,100,Thu Jun 14 02:47:02 +0000 2018
