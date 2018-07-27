@@ -1,6 +1,10 @@
 body {
     background: #D3D3D3
 }
+    .navbar-header{
+        background: #1ABC9C;
+        padding-left: 12px
+    }
 
     .summary{
         background:white;
