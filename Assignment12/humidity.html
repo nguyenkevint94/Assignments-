@@ -1,0 +1,68 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+
+</head>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="index.html">Latitude</a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Plots <span class="caret"></span></a></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="maxtemp.html">Max Temperature</a></li>
+                        <li><a href="humidity.html">Humditiy</a></li>
+                        <li><a href="cloudiness.html">Cloudiness</a></li>
+                        <li><a href="windspeed.html">Windspeed</a></li>
+                    </ul>
+                </li>
+                <li><a href="comparison.html">Comparison</a></li>
+                <li><a href="data.html">Data</a></li>
+            </ul>
+        </div>
+    </nav>
+<body>
+<div class = "background"></div>
+<div class="container-fluid">
+    <div class= "boxes">
+        <div class = "humidity" align="left">
+            <h1 style="color: #1ABC9C">Humidity</h1>
+            <hr></hr>
+            <img src="./images/lat_vs_humidity.jpg" alt="Latitude against humidity" style="width:575px;height:250px;" align="center">
+            <p style="color: #1ABC9C">As expected, as one approaches the equator, the levels of humidity rise. Due to the summer season in 
+                the northern hemisphere, this is much more prevalent, however much of the humidity levels in the southern hemisphere are still
+                well over 60%.
+
+            </p>
+        </div>
+        <div class = "visualizations" align="right">
+            <h1 style="color: #1ABC9C" align="left">Visualizations</h1>
+            <hr></hr>
+            <div class = "row">
+                <a href="maxtemp.html"><img src="./images/lat_vs_temp.jpg" alt="Latitude against max temperature" style="width:200px;height:200px" float="left"></a>
+                <a href="cloudiness.html"><img src="./images/lat_vs_cloudiness.jpg" alt="Latitude against cloudiness" style="width:200px;height:200px" float="left"></a>
+             </div>
+             <div class = "row">
+                <a href="humidity.html"><img src="./images/lat_vs_humidity.jpg" alt="Latitude against humidity" style="width:200px;height:200px" float="right"></a>
+                <a href="windspeed.html"><img src="./images/lat_vs_windspeed.jpg" alt="Latitude against wind speed" style="width:200px;height:200px" float="right"></a>
+             </div>
+            <hr></hr>
+        </div>
+    </div>
+</div>
+</div>
+
+
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</html>

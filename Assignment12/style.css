@@ -1,0 +1,91 @@
+body {
+    background: #D3D3D3
+}
+
+    .summary{
+        background:white;
+        float: left;
+        margin: 25px 25px 50px 25px;
+        width: 700px;
+        height: 450px;
+        padding: 25px;
+        box-sizing: border-box;
+    }
+
+    .visualizations{
+        background:white;
+        float: right;
+        margin-left: 25px;
+        margin-right: 25px;
+        width: 500px;
+        height: 550px;
+        padding:25px 25px 25px 25px;
+        box-sizing: border-box;
+    }
+
+    .maxtemp{
+        background:white;
+        float: left;
+        margin: 25px 25px 50px 25px;
+        width: 700px;
+        height: 500px;
+        padding: 25px;
+        box-sizing: border-box;
+    }
+
+    .cloudiness{
+        background:white;
+        float: left;
+        margin: 25px 25px 50px 25px;
+        width: 700px;
+        height: 450px;
+        padding: 25px;
+        box-sizing: border-box;
+    }
+
+    .humidity{
+        background:white;
+        float: left;
+        margin: 25px 25px 50px 25px;
+        width: 700px;
+        height: 470px;
+        padding: 25px;
+        box-sizing: border-box;
+    }
+
+    .windspeed{
+        background:white;
+        float: left;
+        margin: 25px;
+        width: 700px;
+        height: 470px;
+        padding: 25px;
+        box-sizing: border-box;
+    }
+
+    .comparison{
+        background: white;
+        float: center;
+        margin: 50px 25px 25px 175px;
+        width: 1000px;
+        height: 900px;
+        padding: 25px 50px 150px 50px;
+        box-sizing: border-box
+    }
+
+    .table table-bordered table-hover table-condensed{
+        background: white
+    }
+
+    @media (max_width: 480px){
+        .navbar navbar-default {position: relative;}
+        .navbar navbar-default a.icon {
+          position: absolute;
+          right: 0;
+          top: 0;
+        }
+        .navbar navbar-default {
+          float: none;
+          display: block;
+          text-align: left;
+        }
